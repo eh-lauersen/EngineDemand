@@ -1,0 +1,26 @@
+Plane	Seating_3-4class	Max_seating	Range_nm	Engines	Orders	Deliveries	Customers
+
+A330					1759	1540	128
+
+A330-800	220-260	406	8150	2
+A330-900	260-300	460	7200	2
+
+A340					>370
+
+A340-200	210-250	420	6700	4
+A340-300	250-290	440	7300	4
+A340-500	270-310	440	9000	4
+A340-600	320-370	475	7800	4
+
+A350					940	486	52
+
+A350-900	300-350	440	8300	2
+A350-1000	350-410	480	8700	2
+
+A380					251	251	14
+
+A380*	400-550	868	8000	4
+
+*requires compatible airport (>400)
+
+https://www.airbus.com/sites/g/files/jlcbta136/files/2022-07/AI-Family-Figures.pdf

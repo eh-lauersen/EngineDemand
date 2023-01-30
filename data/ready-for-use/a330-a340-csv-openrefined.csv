@@ -1,0 +1,4077 @@
+c/n,f/f,regi,operator,d/d,type,St
+1,25.10.91,,Airbus PR 340-3 ,,340-311 ,C
+2,03.02.92,,Airbus #2 340-3 ,,340-311 ,
+,,G-VHOL,Virgin Atlantic ,30.05.97,,
+,,M-YRGU,GMT Holdings 4,01.09.11,,
+,,EP-APA,Iran Aseman AL,11.01.12,,C
+3,15.06.92,,Airbus #3 340-3 ,,340-311 ,
+,,G-VSEA,Virgin Atlantic ,07.07.97,,
+,,M-YRGV,GMT Holdings 4,08.12.11,,
+,,F-WZGG,Airbus,06.09.12,,STD
+4,01.04.92,,Airbus PR 340-2 ,,340-211 ,
+,,HZ-124,Saudi Arabian Gvmt,28.02.97,,C
+5,31.07.92,F-GLZA,Air France lsd,17.08.93,340-311 ,
+,,EC-KCL,Iberia lsd,06.03.07,,SCR
+6,20.07.92,D-AIBF,Lufthansa ,16.11.93,340-211 ,
+,,ZS-SLF,South African AW lsd,24.06.04,,STD
+7,15.01.93,F-GLZB,Air France lsd,26.02.93,340-312 ,
+,,EC-JIS,Air Madrid lsd,07.06.05,,
+,,EC-KHU,Air Comet lsd,17.07.07,,
+,,EI-ELH,AALN,30.12.09,,SCR
+8,07.12.92,D-AIBA,Lufthansa ,29.01.93,340-211 ,
+,,ZS-SLA,South African AW lsd,08.04.03,,STD
+9,13.01.93,D-AIBB,Lufthansa ,11.03.93,340-211 ,
+,,V8-BKH,Brunei Gvmt ,05.04.93,,
+,,V8-JP1,Brunei Gvmt rr,s28.04.96,,
+,,V8-AM1,Brunei Gvmt rr,26.09.97,,
+,,JY-ABH,Jordanian Gvmt,r23.08.00,,
+,,HZ-AJ1,Ajwa Aviation,15.10.09,,
+,,HZ-A1,Alpha Star Avtn Svcs,01.07.13,,
+,,HZ-SKY1,Sky Prime Aviation Svcs tfd,29.12.15,,C
+10,18.03.93,F-GNIA,Sabena/Air France ,13.05.93,340-211 ,W/O
+11,03.02.93,D-AIBC,Lufthansa ,05.04.93,340-211 ,
+,,ZS-SLB,South African AW lsd,22.05.03,,SCR
+12,02.11.92,,Airbus PR 330-3 ,,330-301 ,
+,31.01.94,,Trent-PR 330,,*330-341,
+,,VR-HLJ,Cathay Pacific,18.10.96,*342,
+,,B-HLJ ,Cathay Pacific rr ,26.10.97,,
+,,,Dragonair tfd,31.03.13,,
+,,,Cathay Dragon nn,21.11.16,,SCR
+13,19.10.93,G-VBUS,Virgin Atlantic ,26.11.93,340-311 ,
+,,,Virgin Nigeria tfd,14.06.05,,
+,,EC-KCF,Air Comet lsd,08.03.07,,SCR
+14,01.04.93,F-GNIB,Sabena/Air France ,09.06.93,340-211 ,
+,,,Lufthansa slsd,28.03.96,,
+,,OO-SCW,Sabena ret,26.06.96,,
+,,,AOM-Air Outre Mer lsd,17.08.00,,
+,,,Sabena ret,07.11.00,,
+,,F-OHLQ,Royal Jordanian AL lsd,25.05.03,*212,
+,,JY-AIC,Royal Jordanian AL rr,00.07.07,,SCR
+15,26.10.93,G-VAEL,Virgin Atlantic ,15.12.93,340-311 ,
+,,EC-KAJ,Air Comet,10.01.07,,
+,,F-WBSR,Airbus,18.08.09,,
+,,YA-TTB,Safi AW lsd,21.11.09,,
+,,F-WTBA,Airbus ret,29.09.11,,SCR
+16,03.11.93,G-VSKY,Virgin Atlantic ,21.01.94,340-311 ,
+,,9Y-JIL,BWIA Int'l lsd,23.01.04,,
+,,,Caribbean AL nn,01.01.07,,SCR
+17,03.12.92,,Airbus #2 330-3 ,,330-301 ,
+,,VR-HLK,Cathay Pacific,24.01.97,*342,
+,,B-HLK ,Cathay Pacific rr ,28.10.97,,
+,,,Dragonair tfd,27.02.13,,
+,,,Cathay Dragon nn,22.11.16,,STD
+18,18.06.93,D-AIBD,Lufthansa ,10.07.93,340-211 ,
+,,ZS-SLC,South African AW lsd,08.07.03,,SCR
+19,02.07.93,D-AIBE,Lufthansa ,28.08.93,340-211 ,
+,,ZS-SLD,South African AW lsd,27.08.03,,SCR
+20,08.09.93,D-AIGA,Lufthansa ,07.12.93,340-311 ,
+,,HS-CHA,Chaba AL,03.07.12,,
+,,EX-34001,Manas AW,22.12.12,,
+,,EP-MMA,Mahan Air,01.02.13,,C
+21,06.08.93,D-AIBH,Lufthansa ,22.10.93,340-211 ,
+,,ZS-SLE,South African AW lsd,22.09.03,*212,
+,,F-W…,Airbus Industrie,06.07.11,,SCR
+22,24.05.93,F-GNIC,Sabena/Air France ,25.06.93,340-211 ,
+,,OO-SCX,Sabena ret,30.03.96,,
+,,F-WQRF,Airbus,03.04.03,,
+,,F-OHLP,Royal Jordanian AL lsd,16.07.03,*212,
+,,JY-AID,Royal Jordanian AL rr,04.07.07,,SCR
+23,08.06.93,TC-JDJ,THY Turkish AL,22.07.93,340-311 ,SCR
+24,06.10.93,D-AIGB,Lufthansa ,30.11.93,340-311 ,SCR
+25,21.06.93,TC-JDK,THY Turkish AL,10.08.93,340-311 ,STD
+26,23.04.93,A7-HHK,Qatar Gvmt,28.05.93,340-211 ,C
+27,01.10.93,D-AIGC,Lufthansa ,02.12.93,340-311 ,SCR
+28,04.01.94,D-AIGD,Lufthansa ,28.01.94,340-311 ,SCR
+29,21.07.93,F-GLZC,Air France lsd,30.09.93,340-311 ,SCR
+30,22.06.93,F-GMDA,Air Inter ,18.03.94,330-301 ,
+,,OO-SFM,Sabena,02.07.97,,
+,,,SN Brussels AL slsd,06.06.02,,
+,,,Brussels AL mgd,25.03.07,,SCR
+31,23.07.93,F-GLZD,Air France,11.10.93,340-211 ,
+,,F-OITN,Air Tahiti Nui,10.11.98,,
+,,,Air Bourbon lsd,28.05.03,,
+,,EC-JGU,Air Europa lsd,12.04.05,,
+,,F-WQTN,AFS ret,08.06.06,,
+,,YV1004,Conviasa lsd,13.03.07,,STD
+32,25.04.94,4R-ADA,Air Lanka ,19.09.94,340-311 ,
+,,,Srilankan AL nn,15.07.99,,STD
+33,20.07.94,4R-ADB,Air Lanka ,06.10.94,340-311 ,
+,,,Srilankan AL nn,15.07.99,,SCR
+34,03.03.95,,,,340-311 ,
+,,4R-ADC,Air Lanka ,22.03.95,,
+,,,Srilankan AL nn,15.07.99,,SCR
+35,31.03.94,D-AIGF,Lufthansa ,16.05.94,340-311 ,SCR
+36,06.04.94,A4O-LA,Gulf Air,17.05.94,340-312 ,
+,,,Philippine AL lsd ,    11.96,,
+,,F-OHPZ,Sabena lsd,16.09.98,,
+,,4R-ADD,Srilankan AL,12.07.99,,W/O
+37,20.10.93,F-GMDB,Air Inter ,30.12.93,330-301 ,
+,,OO-SFN,Sabena,30.07.97,,
+,,,SN Brussels AL slsd,19.04.02,,
+,,,Brussels AL mgd,25.03.07,,STD
+38,01.12.93,F-GLZE,Air France,21.02.94,340-211 ,
+,,,AOM-Air Outre Mer,05.03.99,,
+,,,Airlib nn,    10.01,,
+,,JY-AIA,Royal Jordanian AL lsd,16.07.02,,SCR
+39,25.05.94,A4O-LB,Gulf Air,18.07.94,340-312 ,
+,,,Philippine AL lsd ,01.09.96,,
+,,,Air Mauritius lsd , 10.96,,
+,,,Gulf Air ret,01.97,,
+,,A9C-LB,Gulf Air rr,13.09.07,,SCR
+40,01.07.94,A4O-LC,Gulf Air,01.08.94,340-312 ,
+,,,Philippine AL lsd , 08.96,,
+,,,Gulf Air ret,s1.11.97,,
+,,A9C-LC,Gulf Air rr,00.12.07,,SCR
+41,25.11.94,CS-TOA,TAP Air Portugal,22.12.94,340-312 ,SCR
+42,14.10.93,,Airbus test ,,330-321 ,W/O
+43,02.02.94,F-GLZF,Air France,18.03.94,340-311 ,
+,,,AOM-Air Outre Mer,18.02.99,,
+,,,Airlib nn,    10.01,,
+,,JY-AIB,Royal Jordanian AL lsd,09.08.02,,SCR
+44,14.12.94,CS-TOB,TAP Air Portugal,22.12.94,340-312 ,SCR
+45,31.01.94,F-GMDC,Air Inter ,21.02.94,330-301 ,
+,,OO-SFO,Sabena,12.11.97,,
+,,,SN Brussels AL slsd,22.04.02,,
+,,,Brussels AL mgd,25.03.07,,SCR
+46,22.02.94,A9C-HH,Bahrein Gvmt,31.03.94,340-212 ,
+,,,Lufthansa ,1.06.94?,,
+,,V8-PJB,Brunei Gvmt ,1.06.94?,,
+,,V8-BKH,Brunei Gvmt rr, 04.96? ,,
+,,V8-001,Brunei Gvmt rr,01.08.14,,STD
+47,09.02.94,F-GNID,Sabena/Air France ,08.03.94,340-311 ,
+,,OO-SCY,Sabena ret,24.03.97,,
+,,D-AIMF,Lufthansa lsd,10.05.03,,
+,,V5-NMF,Air Namibia lsd,05.09.06,,SCR
+48,26.04.94,3B-NAT,Air Mauritius lsd ,18.05.94,340-312 ,
+,,6Y-JMC,Air Jamaica lsd,21.05.99,,
+,,C-FDRO,Air Canada lsd,30.06.05,,
+,,LV-BMT,Aerolineas Argentinas lsd,05.12.07,,SCR
+49,18.03.94,F-GLZG,Air France lsd,08.04.94,340-311 ,
+,,PZ-TCP,Surinam AW lsd,09.12.09,,SCR
+50,28.03.94,HS-TEA,Thai AW Int ,20.01.95,330-321 ,STD
+51,18.03.94,F-GNIE,Sabena/Air France ,27.04.94,340-311 ,
+,,OO-SCZ,Sabena ret,15.04.97,,
+,,D-AIMG,Lufthansa lsd,28.02.03,,
+,,V5-NME,Air Namibia lsd,28.11.05,,SCR
+52,30.06.94,D-AIGH,Lufthansa ,12.08.94,340-311 ,SCR
+53,17.10.94,D-AIGI,Lufthansa ,31.10.94,340-311 ,SCR
+54,24.02.94,EI-SHN,Aer Lingus lsd,02.05.94,330-301 ,
+,,N54AN,MSA V rr,01.07.02,,
+,,F-OMSA,Air Algerie lsd,29.04.04,,
+,,EC-JMF,Air Madrid lsd,26.09.05,,
+,,N54AN,MSA V,01.03.07,,
+,,9M-XAA,AirAsia X lsd,11.09.07,,SCR
+55,17.03.94,EI-DUB,Aer Lingus lsd,11.05.94,330-301 ,
+,,VQ-BEU,Vladivostok Air lsd,05.03.10,,
+,,AP-BKL,Shaheen Air lsd,21.10.12,,SCR
+56,07.12.94,D-AIGK,Lufthansa ,20.12.94,340-311 ,
+,,HS-CHB,Chaba AL,06.08.12,,
+,,EX-34002,Manas AW,25.12.12,,
+,,EP-MMB,Mahan Air,01.02.13,,C
+57,15.04.94,TC-JDL,THY Turkish AL,28.07.94,340-311 ,STD
+58,05.10.94,G-VFLY,Virgin Atlantic ,24.10.94,340-311 ,
+,,OH-LQA,Finnair,12.06.06,,SCR
+59,01.06.94,F-GMDD,Air Inter ,27.06.94,330-301 ,
+,,EI-ORD,Aer Lingus,27.03.97,,SCR
+60,10.08.94,HS-TEB,Thai AW Int ,09.12.94,330-321 ,SCR
+61,12.04.94,SU-GGG,Egypt Govmt ,22.02.95,340-211 ,C
+62,12.08.94,HS-TEC,Thai AW Int ,14.12.94,330-321 ,SCR
+63,14.09.94,VR-HMR,PAL/Cathay Pacific,26.10.94,340-211 ,
+,,F-OHPF,Philippine AL ret ,10.11.96,,
+,,LV-ZPO,Aerolineas Argentinas,15.06.99,,
+,,N630GR,GRG Aircraft and Leasing,13.09.22,,STD
+64,25.11.94,HS-TED,Thai AW Int ,03.02.95,330-321 ,SCR
+65,13.01.95,HS-TEE,Thai AW Int ,30.01.95,330-321 ,SCR
+66,02.03.95,HS-TEF,Thai AW Int ,24.03.95,330-321 ,STD
+67,10.02.95,9M-MKA,Malaysian AS,01.03.95,330-322 ,SCR
+68,08.09.94,9M-MKB,Malaysian AS,23.02.95,330-322 ,W/O
+69,28.09.94,9M-MKC,Malaysian AS,10.02.95,330-322 ,SCR
+70,27.10.94,EI-CRK,Aer Lingus lsd,17.11.94,330-301 ,
+,,VQ-BCW,Vladivostok Air lsd,06.05.09,,
+,,AP-BKM,Shaheen Air,18.07.12,,SCR
+71,27.08.94,VR-HLA,Cathay Pacific,24.03.95,330-342 ,
+,,B-HLA ,Cathay Pacific rr ,15.08.97,,
+,,,Dragonair slsd,28.09.12,,
+,,,Cathay Dragon nn,22.11.16,,SCR
+72,26.01.95,D-AERG,LTU lsd,28.02.95,330-321 ,
+,,EC-IJH,Iberworld lsd,08.11.02,,
+,,TC-OCA,Onur Air lsd,18.06.10,,
+,,,Saudi Arabian AL lsd,03.08.11,,
+,,,Onur Air ret,14.09.12,,SCR
+73,08.03.95,9M-MKD,Malaysian AS,24.03.95,330-322 ,SCR
+74,27.10.94,VR-HMS,PAL/Cathay Pacific,28.11.94,340-211 ,
+,,F-OHPG,Philippine AL ret ,18.01.97,,
+,,LV-ZPJ,Aerolineas Argentinas,04.06.99,,STD
+75,02.02.95,OE-LAG,Austrian AL ,28.02.95,340-212 ,
+,,F-RAJA,French Air Force lsd,08.12.06,,
+,,F-HFDD,Kenyan Red Cross lsd,03.03.21,,STD
+76,21.10.94,3B-NAU,Air Mauritius ,28.10.94,340-312 ,SCR
+77,21.03.95,9M-MKE,Malaysian AS,02.04.95,330-322 ,SCR
+78,05.01.95,F-GLZH,Air France,18.07.95,340-311 ,SCR
+79,17.02.95,CS-TOC,TAP Air Portugal,24.04.95,340-312 ,SCR
+80,05.12.94,VR-HMT,PAL/Cathay Pacific,06.02.95,340-211 ,
+,,F-OHPH,Philippine AL ret , 02.97,,
+,,LV-ZPX,Aerolineas Argentinas,12.07.99,,STD
+81,07.02.95,OE-LAH,Austrian AL ,24.02.95,340-212 ,
+,,F-RAJB,French Air Force lsd,11.05.06,,
+,,F-HLMG,Kenyan Red Cross lsd,04.03.21,,STD
+82,24.11.94,D-AERF,LTU Int'l AW lsd,12.12.94,330-322 ,
+,,EC-JTB,Air Madrid lsd,16.05.06,,
+,,EI-DVB,BAL 1,22.12.06,,
+,,OO-SFW,Brussels AL lsd,11.05.07,,SCR
+83,09.02.95,VR-HLB,Cathay Pacific,24.02.95,330-342 ,
+,,B-HLB ,Cathay Pacific rr ,15.07.97,,
+,,,Dragonair tfd,06.03.11,,
+,,,Cathay Dragon nn,22.11.16,,SCR
+84,12.07.95,F-GLZI,Air France,07.08.95,340-311 ,SCR
+85,03.03.95,VR-HMU,PAL/Cathay Pacific,04.04.95,340-211 ,
+,,F-OHPI,Philippine AL ret ,22.03.97,,
+,,LV-ZRA,Aerolineas Argentinas,12.08.99,,STD
+86,21.12.94,EI-JFK,Aer Lingus,11.07.95,330-301 ,
+,,VQ-BEQ,Vladivostok Air lsd,12.10.09,,
+,,AP-BKN,Shaheen Air Int'l lsd,31.01.13,,SCR
+87,01.03.95,D-AERH,LTU lsd,30.03.95,330-322 ,
+,,C-FRAP,Skyservice AL lsd,25.11.02,,
+,,CS-TQF,Air Luxor lsd,30.06.03,,
+,,,Hi Fly nn,00.10.05,,
+,,N225LF,ILFC ret,03.04.06,,
+,,VN-A368,Vietnam AL lsd,15.02.07,,
+,,TC-OCD,Onur Air lsd,16.07.11,,
+,,,Saudi Arabian AL slsd,23.09.11,,STD
+88,19.01.95,C-FTNQ,Air Canada lsd,15.06.95,340-313 ,
+,,EC-KOU,Iberia lsd,20.02.08,,SCR
+89,08.03.95,9K-ANA,Kuwait AW ,29.03.95,340-313 ,STD
+90,23.03.95,9K-ANB,Kuwait AW ,07.04.95,340-313 ,STD
+91,28.03.95,CS-TOD,TAP Air Portugal,24.04.95,340-312 ,STD
+92,,,NOT BUILT,,340-300,
+93,15.03.95,C-FTNP,Air Canada lsd,23.06.95,340-313 ,
+,,9Y-TJN,BWIA Int'l lsd,15.06.02,,
+,,,Caribbean AL nn,01.01.07,,
+,,LV-BIT,Aerolineas Argentinas,11.06.07,,
+,,N349AT,BoU,25.07.14,,SCR
+94,13.03.95,3B-NAV,Air Mauritius lsd ,31.03.95,340-312 ,
+,,EI-EHZ,AWAI,19.11.09,,
+,,LV-CEK,Aerolineas Argentinas lsd,12.05.10,,
+,,N691SB,MSA V,r19.09.16,,SCR
+95,07.04.95,D-AERJ,LTU lsd,04.05.95,330-321 ,
+,,C-FBUS,Skyservice lsd,06.05.97,,
+,,,Airtours International slsd,13.11.00,,
+,,,Garuda Indonesian AL lsd,18.01.01,,
+,,,Airtours International ret,25.02.01,,
+,,,Skyservice ret,30.04.01,,
+,,,Airtours Int'l AW slsd,30.10.01,,
+,,,MyTravel AL nn,01.05.02,,
+,,,Skyservice ret,23.04.02,,
+,,,MyTravel AL slsd,14.09.02,,
+,,,Skyservice AL ret,00.04.03,,
+,,,MyTravel AL slsd,02.11.03,,
+,,9M-MKR,Malaysian AS lsd,17.05.04,,
+,,OO-SFV,Brussels AL lsd,29.06.10,,SCR
+96,12.04.95,9M-MKZ,Malaysian AS lsd,11.01.96,330-321 ,
+,,OO-SFX,Sabena lsd,14.04.99,,
+,,CS-TMT,Air Luxor lsd,04.12.02,,
+,,,Garuda Indonesian AL slsd,10.01.04,,
+,,,Hi Fly ret,10.04.06,,
+,,,Belgium AF lsd,25.10.09,,
+,,,Hi Fly ret,09.04.14,,
+,,,National Air Services slsd,04.05.14,,
+,,,Hi Fly ret,00.10.14,,
+,,,Saudi Arabian AL slsd,23.12.14,,
+,,,Hi Fly ret,by05.15,,
+,,EI-FSP,I-Fly lsd,07.07.16,,
+,,9H-AGU,Hi Fly ret,14.06.18,,
+,,,,,,STD
+97,17.05.95,A4O-LD,Gulf Air,30.06.95,340-312 ,
+,,,Philippine AL lsd ,19.07.96,,
+,,,Gulf Air ret,s7.97 ,,
+,,A9C-LD,Gulf Air rr,7,,SCR
+98,05.04.95,VR-HYA,Dragonair lsd,22.05.95,330-342 ,
+,,B-HYA ,Dragonair rr ,29.06.97,,
+,,TC-OCB,Onur Air lsd,23.06.10,,STD
+99,23.05.95,VR-HLC,Cathay Pacific,31.05.95,330-342 ,
+,,B-HLC ,Cathay Pacific rr ,31.10.97,,
+,,,Dragonair tfd,04.04.11,,
+,,,Cathay Dragon nn,22.11.16,,SCR
+100,05.05.95,9M-MKF,Malaysian AS,09.06.95,330-322 ,SCR
+101,20.04.95,9K-ANC,Kuwait AW ,31.05.95,340-313 ,
+,,,Saudi Arabian AL lsd,s7.03.99,,
+,,,Kuwait AW ret,99,,STD
+102,09.06.95,VR-HLD,Cathay Pacific,30.06.95,330-342 ,
+,,B-HLD ,Cathay Pacific rr ,14.11.97,,SCR
+103,23.06.95,A4O-LE,Gulf Air/Egyptair ,13.10.95,340-312 ,
+,,,Gulf Air ret,s2.07.97,,
+,,A9C-LE,Gulf Air rr,16.11.07,,SCR
+104,24.05.95,9K-AND,Kuwait AW ,05.07.95,340-313 ,
+,,C5-AST,,s29.10.21,,STD
+105,,,NOT BUILT,,340-300,
+106,18.06.95,VR-HYB,Dragonair lsd,22.07.95,330-342 ,
+,,B-HYB ,Dragonair rr ,20.07.97,,
+,,,Cathay Dragon nn,22.11.16,,STD
+107,22.06.95,9M-MKG,Malaysian AS,09.08.95,330-322 ,SCR
+108,,,NOT BUILT,,340-300,
+109,06.07.95,VR-HLE,Cathay Pacific,18.08.95,330-342 ,
+,,B-HLE ,Cathay Pacific rr ,13.10.97,,
+,,,Dragonair,07.06.10,,
+,,,Cathay Dragon nn,22.11.16,,STD
+110,18.07.95,9M-MKH,Malaysian AS,29.08.95,330-322 ,SCR
+111,05.09.95,VR-HYC,Dragonair lsd,28.09.95,330-342 ,
+,,B-HYC ,Dragonair rr ,s14.07.97,,
+,,C-GKTS,Air Transat lsd,r21.10.99,,
+,,,,,,STD
+112,29.08.95,HS-TEG,Thai AW Int ,12.10.95,330-321 ,STD
+113,03.10.95,VR-HLF,Cathay Pacific,24.11.95,330-342 ,
+,,B-HLF ,Cathay Pacific rr ,09.10.97,,STD
+114,17.01.96,G-VSUN,Virgin Atlantic lsd,30.04.96,340-313 ,
+,,,Virgin Nigeria tfd,11.04.06,,
+,,,Virgin Atlantic AW ret,06.09.07,,SCR
+115,27.02.96,TC-JDM,THY Turkish AL,19.04.96,340-311 ,
+,,,Global Aviation,12.03.19,,STD
+116,05.10.95,9M-MKI,Malaysian AS,15.11.95,330-322 ,
+,,D-AAEA,DHL Air-EAT Leipzig,18.07.16,*F,
+,,EI-HEA,ASL AL (Ireland),05.12.17,,
+,,B-LDO,Air Hong Kong tfd,07.01.20,,
+,,EI-HEA,ASL AL (Ireland),15.10.20,,C
+117,25.08.95,9V-SJF,Singapore AL,26.10.96,340-313X,
+,,7T-VKL,Khalifa AW lsd,18.06.02,,
+,,,Air Algerie slsd,00.07.02,,
+,,A6-EYC,Etihad AW lsd,27.03.04,,
+,,CS-TQM,Hi Fly,18.09.09,,
+,,,Strategic AL lsd,06.05.10,,
+,,,Hi Fly ret,18.05.10,,
+,,,Gabon AL slsd,01.07.10,,
+,,,Adagold Aviation lsd,20.11.10,,
+,,,Hi Fly ret,01.02.11,,
+,,,Adagold Aviation lsd,28.05.11,,
+,,,Hi Fly ret,30.11.13,,
+,,,Air Algerie lsd,20.06.14,,
+,,,Conviasa slsd,03.01.15,,
+,,,Hi Fly ret,12.02.15,,
+,,9H-TQM,Hi Fly Malta tfd,r10.09.15,,C
+118,08.11.95,VR-HLG,Cathay Pacific,05.12.95,330-342 ,
+,,B-HLG ,Cathay Pacific rr ,25.08.97,,
+,,,Dragonair,21.09.13,,
+,,,Cathay Dragon nn,22.11.16,,STD
+119,21.11.95,9M-MKJ,Malaysian AS,13.12.95,330-322 ,SCR
+120,13.02.96,D-AERK,LTU Int'l AW,04.03.96,330-322 ,
+,,,Air Berlin tfd,03.02.08,,
+,,EI-FBU,AIAL,07.05.13,,
+,,,I-Fly lsd,09.05.13,,STD
+121,18.12.95,VR-HLH,Cathay Pacific,19.01.96,330-342 ,
+,,B-HLH ,Cathay Pacific rr ,14.10.97,,STD
+122,17.11.95,HS-TEH,Thai AW Int ,20.12.95,330-321 ,STD
+123,25.03.96,9V-SJA,Singapore AL,17.04.96,340-313X,
+,,B-HXM,Cathay Pacific,04.06.01,,
+,,LV-CSD,Aerolineas Argentinas lsd,19.12.11,,SCR
+124,,,NOT BUILT,,340-311 ,
+125,31.01.96,EC-154,Iberia,29.02.96,340-313 ,
+,,EC-GGS,Iberia rr ,s23.06.96,,SCR
+126,29.03.96,9V-SJB,Singapore AL,24.04.96,340-313X,
+,,B-HXN,Cathay Pacific,06.07.01,,
+,,LV-CSE,Aerolineas Argentinas lsd,08.01.12,,SCR
+127,26.01.96,D-AERQ,LTU Int'l AW,27.02.96,330-322 ,
+,,,Air Berlin tfd,09.02.08,,
+,,CS-TRI,Hi Fly,15.02.13,,
+,,,XL AW slsd,26.06.13,,
+,,,AtlasJet Int'l slsd,09.09.13,,
+,,,Hi Fly ret,31.10.13,,
+,,,National Air Services slsd,06.04.14,,
+,,,Hi Fly ret,21.10.14,,
+,,,XL AW France slsd,s09.05.15,,
+,,,Hi Fly ret,s28.09.15,,
+,,,XL AW France slsd,s03.06.16,,
+,,EI-HEB,ASL AL (Ireland),r01.03.18,*322F,C
+128,30.05.96,9V-SJC,Singapore AL,21.06.96,340-313X,
+,,B-HXO,Cathay Pacific,19.12.01,,
+,,LV-CSF,Aerolineas Argentinas lsd,17.02.12,,
+,,N128XX,Unical Aviation,r09.05.18,,SCR
+129,18.03.96,B-2380,China Eastern AL,15.05.96,340-313X,SCR
+130,,,NOT BUILT,,340-313 ,
+131,10.05.96,B-2381,China Eastern AL,29.05.96,340-313X,SCR
+132,15.03.96,VR-HYD,Cathay Pacific,23.04.96,330-342 ,
+,,,Dragonair slsd,30.07.96,,
+,,B-HYD ,Dragonair rr,26.07.97,,
+,,C-GTSO,Air Transat lsd,04.03.11,,
+,,,,,,STD
+133,07.11.96,A4O-LF,Gulf Air/Egyptair ,04.12.96,340-312 ,
+,,,United Arab Emirirates Gvmt lsd,15.05.97,,
+,,,Gulf Air ret,s2.06.98,,
+,,A9C-LF,Gulf Air rr,25.09.07,,
+,,M-YRGQ,Squadron Leasing VIII,27.05.11,,
+,,CS-TQL,Hi Fly lsd,15.09.11,,SCR
+134,16.04.96,EC-155,Iberia,10.05.96,340-313 ,
+,,EC-GHX,Iberia rr ,15.11.96,,SCR
+135,03.04.96,D-AIGL,Lufthansa ,10.05.96,340-313X,C
+136,15.05.96,VR-HXA,Cathay Pacific,27.06.96,340-313X,
+,,B-HXA ,Cathay Pacific rr ,26.09.97,,SCR
+137,03.06.96,VR-HXB,Cathay Pacific,20.06.96,340-313X,
+,,B-HXB ,Cathay Pacific rr ,13.09.97,,SCR
+138,21.11.96,PK-GPA,Garuda,16.12.96,330-341 ,C
+139,10.06.96,9V-SJD,Singapore AL,27.06.96,340-313X,
+,,7T-VKM,Khalifa AW lsd,23.10.01,,
+,,A6-ERS,Emirates AL lsd,25.03.04,,
+,,N139WL,WFBN,15.05.13,,SCR
+140,06.12.96,PK-GPC,Garuda Indonesian AW,23.12.96,330-341 ,C
+141,05.07.96,B-2382,China Eastern AL,25.07.96,340-313X,SCR
+142,20.06.96,VR-HXC,Cathay Pacific,27.08.96,340-313X,
+,,B-HXC ,Cathay Pacific rr ,21.11.97,,SCR
+143,22.08.96,9M-MKY,Malaysian AS lsd,08.10.96,330-322 ,
+,,D-AERD,LTU lsd,14.10.98,,
+,,C-FRAE,Roots Air Canada lsd,28.04.01,,
+,,,Khalifa AW lsd,02.07.01,,
+,,,Ghana AW lsd,13.04.03,,
+,,,Skyservice AL ret,26.11.03,,
+,,9M-MKS,Malaysian AS lsd,19.03.04,,
+,,TC-OCC,Onur Air lsd,22.07.10,,
+,,,Saudi Arabian AL slsd,30.07.10,,STD
+144,09.01.97,PK-GPD,Garuda Indonesian AW,24.01.97,330-341 ,C
+145,31.07.96,EC-156,Iberia,06.09.96,340-313 ,
+,,EC-GJT,Iberia rr ,15.11.96,,SCR
+146,10.05.96,EC-157,Iberia,18.10.96,340-313 ,
+,,EC-GLE,Iberia rr ,04.01.97,,
+,,N746CS,Aero Capital Solutions,r22.03.17,,SCR
+147,12.07.96,VR-HXD,Cathay Pacific,19.09.96,340-313X,
+,,B-HXD ,Cathay Pacific rr ,09.12.97,,SCR
+148,31.01.97,PK-GPE,Garuda,25.02.97,330-341 ,C
+149,04.09.96,9V-SJE,Singapore AL,17.10.96,340-313X,
+,,7T-VKN,Khalifa AW lsd,08.12.01,,
+,,A6-ERT,Emirates AL lsd,10.05.04,,
+,,N149WC,WFBN-Willis Lease ret,26.06.13,,SCR
+150,24.10.96,C-FYKX,Air Canada,19.11.96,340-313X,
+,,HB-JMJ,Swiss Int'l AL lsd,03.05.07,,SCR
+151,23.09.96,V8-JBB,Brunei Gvmt ,11.10.96,340-213CJ,
+,,HZ-WBT4,Kingdom Holding Company,25.03.00,,
+,,5A-ONE,Afriqiyah AW/Libyan Gvmt,05.10.06,,C
+152,28.10.96,3B-NAY,Air Mauritius lsd ,13.11.96,340-313X,SCR
+153,27.02.97,PK-GPF,Garuda Indonesian AW,19.03.97,330-341 ,C
+154,29.11.96,C-FYKZ,Air Canada,19.12.96,340-313X,
+,,HB-JMM,Swiss Int'l AL lsd,04.02.08,,SCR
+155,17.10.96,VR-HLI,Cathay Pacific,20.11.96,330-341 ,
+,,B-HLI ,Cathay Pacific rr ,20.10.97,,
+,,,Dragonair tfd,18.11.13,,
+,,,Cathay Dragon nn,22.11.16,,STD
+156,08.11.96,SU-GBM,Egyptair,26.11.96,340-212 ,
+,,,Air Leisure lsd,05.01.15,,STD
+157,18.11.96,VR-HXE,Cathay Pacific,19.12.96,340-313X,
+,,B-HXE ,Cathay Pacific rr ,04.11.97,,SCR
+158,09.01.97,D-AIGM,Lufthansa ,28.01.97,340-313X,
+,,,Austrian AL lsd,02.07.12,,
+,,,Lufthansa ret,10.09.12,,C
+159,04.12.96,SU-GBN,Egyptair,20.12.96,340-212 ,
+,,,Air Leisure lsd,ar02.15,,STD
+160,24.01.97,VR-HXF,Cathay Pacific,30.01.97,340-313X,
+,,B-HXF ,Cathay Pacific rr ,11.11.97,,SCR
+161,30.01.97,B-2383,China Eastern AL,12.03.97,340-313X,SCR
+162,29.01.97,HL7550,Korean Air,03.03.97,330-322 ,C
+163,06.02.97,9V-SJG,Singapore AL,01.03.97,340-313X,
+,,A6-ERO,Emirates AL lsd,16.04.04,,
+,,9H-AGJ,Hi Fly,14.06.17,,SCR
+164,24.03.97,G-VAIR,Virgin Atlantic lsd,21.04.97,340-313X,
+,,,Alnaser AL,23.12.14,,
+,,EP-MMD,Mahan AL,08.05.15,,C
+165,20.03.97,PK-GPG,Garuda,14.04.97,330-341 ,C
+166,06.03.97,9V-SJH,Singapore AL,27.03.97,340-313X,
+,,A6-ERN,Emirates AL lsd,06.02.04,,
+,,9H-AGK,HiFly,12.07.17,,C
+167,14.03.97,C-FYLC,Air Canada,27.03.97,340-313X,
+,,CC-CQG,LAN AL,06.07.07,,
+,,LN-RKP,SAS,29.10.13,,SCR
+168,02.04.97,F-GNIF,Air France lsd,17.04.97,340-313X,
+,,OH-LQF,Finnair lsd,09.12.10,,
+,,N6381S,Wilmington Trust Comp,15.12.15,,SCR
+169,08.04.97,OE-LAK,Austrian AL ,23.04.97,340-313X,
+,,HB-JMK,Swiss Int'l AL lsd,17.12.07,,SCR
+170,04.04.97,C-FYLD,Air Canada,29.04.97,340-313X,
+,,EC-KSE,Iberia lsd,05.06.08,,
+,,G-CSHJ,Air Canada ret,27.02.13,,
+,,LV-FPU,Aerolineas Argentinas slsd,23.12.13,,STD
+171,02.04.97,D-AERS,LTU ,22.04.97,330-322 ,
+,,C-FRAV,Khalifa AW lsd,30.05.01,,
+,,,Air Algerie slsd,19.01.03,,
+,,,Skyservice AL ret,08.04.03,,
+,,F-GJSV,Corsair lsd,13.06.03,,
+,,C-FRAV,Skyservice AL ret,27.04.04,,
+,,,MyTravel AW slsd,07.11.04,,
+,,D-AERS,LTU Int'l AW slsd,02.05.05,,
+,,,Air Berlin tfd,12.02.08,,
+,,EI-ETI,CALI 3,05.12.11,,
+,,,I-Fly lsd,18.04.12,,SCR
+172,28.04.97,HL7551,Korean Air,30.05.97,330-322 ,C
+173,12.05.97,F-OHPJ,Philippine AL ,30.05.97,340-313X,
+,,RP-C3430,Philippine AL rr,15.01.08,,SCR
+174,06.05.97,F-GNIG,Air France lsd,28.05.97,340-313X,
+,,OH-LQG,Finnair lsd,07.02.11,,
+,,N537SK,Universal Asset Management,18.12.15,,SCR
+175,30.04.97,C-FYLG,Air Canada,28.05.97,340-313X,
+,,HB-JMN,Swiss Int'l AL,04.04.08,,
+,,2-HJMN,,,,SCR
+176,05.06.97,F-OHPK,Philippine AL ,24.06.97,340-313X,
+,,RP-C3431,Philippine AL rr,30.07.08,,SCR
+177,07.06.97,VR-HYE,Dragonair lsd,20.06.97,330-342 ,
+,,B-HYE ,Dragonair rr ,s1.07.97,,
+,,C-GCTS,Air Transat lsd,30.06.09,,
+,,,,,,STD
+178,11.06.97,SU-GBO,Egyptair,30.06.97,340-212 ,
+,,,Air Leisure lsd,00.12.14,,STD
+179,29.04.97,C-FYLU,Air Canada,30.05.97,340-313X,
+,,HB-JMO,Swiss Int'l AL,26.02.08,,
+,,,,,,SCR
+180,01.08.97,TC-JDN,THY Turkish AL,19.08.97,340-313X,
+,,,Global Aviation,15.03.19,,STD
+181,13.08.97,F-WWKA,PROTO 330-200 #1,,330-202 ,
+,,,Proto 330-200 RR engs,,*242,
+,,OE-LAO,Austrian AL ,17.01.00,*223,
+,,CS-TOH,TAP Air Portugal,20.06.07,,SCR
+182,16.06.97,B-2384,China Eastern AL,30.06.97,340-313X,SCR
+183,09.07.97,F-OHZM,Philippine AL ,30.07.97,330-301 ,
+,,RP-C3330,Philippine AL rr,24.06.08,,SCR
+184,28.07.97,F-OHZN,Philippine AL ,27.08.97,330-301 ,
+,,RP-C3331,Philippine AL rr,10.06.08,,SCR
+185,09.07.97,9V-SJI,Singapore AL,31.07.97,340-313X,
+,,A6-ERP,Emirates AL lsd,08.03.04,,
+,,9H-FOX,Hi Fly,05.06.17,,C
+186,22.08.97,F-GLZJ,Air France,16.09.97,340-313X,SCR
+187,28.08.97,F-OHPL,Philippine AL ,24.09.97,340-313X,
+,,RP-C3432,Philippine AL rr,11.02.08,,SCR
+188,29.08.97,F-OHZO,Philippine AL ,24.09.97,330-301 ,
+,,RP-C3332,Philippine AL rr,25.03.08,,SCR
+189,15.10.97,F-OHZQ,Philippine AL ,03.11.97,330-301 ,
+,,RP-C3335,Philippine AL rr,15.07.08,,SCR
+190,17.09.97,9V-SJJ,Singapore AL,16.10.97,340-313X,
+,,A6-ERQ,Emirates AL,27.02.04,,
+,,CS-TQY,Hi Fly,28.05.13,,
+,,9H-TQY,Hi Fly Malta tfd,21.12.21,,C
+191,05.09.97,F-OHZP,Philippine AL ,29.09.97,330-301 ,
+,,RP-C3333,Philippine AL rr,04.03.08,,SCR
+192,19.09.97,B-2385,Air China ,07.10.97,340-313X,
+,,B-HMX,Cathay Pacific lsd,    11.99,,
+,,B-2385,Air China ret,07.11.01,,
+,,,China Southwest AL,13.12.01,,
+,,,Air China ret,13.04.02,,
+,,F-WJKH,,s10.01.15,,SCR
+193,07.10.97,EC-GPB,Iberia,21.10.97,340-313X,
+,,,Audeli Air Express tfd,21.04.07,,
+,,,Iberia ret,18.03.08,,
+,,LV-FPV,Aerolineas Argentinas lsd,12.10.13,,SCR
+194,30.09.97,3B-NBD,Air Mauritius ,22.10.97,340-313X,SCR
+195,04.12.97,,PROTO 330-200 #2,,330-200 ,
+,,OE-LAN,Austrian AL ,25.05.99,*223,
+,,CS-TOI,TAP Air Portugal,12.07.07,,SCR
+196,18.09.97,F-OHPM,Philippine AL ,22.10.97,340-313X,
+,,RP-C3434,Philippine AL rr,07.07.08,,SCR
+197,22.10.97,EC-GQK,Iberia,10.11.97,340-313X,
+,,ZS-SXH,South African AW lsd,29.11.10,,STD
+198,26.11.97,F-OHZR,Philippine AL ,26.01.98,330-301 ,
+,,RP-C3336,Philippine AL rr,17.06.08,,SCR
+199,28.10.97,B-2386,Air China ,21.11.97,340-313X,
+,,B-HMY,Cathay Pacific lsd,s22.12.99,,
+,,B-2386,Air China ret,19.10.01,,
+,,,China Southwest AL,27.11.01,,
+,,,Air China ret,01.03.03,,
+,,YV3292,Avior AL,06.09.16,,
+,,YV643T,Conviasa,25.07.20,,
+,,YV3507,Conviasa rr,31.12.20,,C
+200,17.12.97,F-OHZS,Philippine AL ,29.01.98,330-301 ,
+,,RP-C3337,Philippine AL rr,01.07.08,,SCR
+201,28.10.97,B-2387,Air China ,26.11.97,340-313X,
+,,B-HMZ,Cathay Pacific AL lsd,30.10.99,,
+,,B-2387,Air China ret,01.10.01,,
+,,,China Southwest AL,08.11.01,,
+,,,Air China mgd,s13.04.02,,
+,,F-WTDI,AFS rr,08.16,,SCR
+202,18.11.97,9V-SJK,Singapore AL,11.12.97,340-313X,
+,,A6-ERR,Emirates AL,14.04.04,,
+,,CS-TQZ,Norwegian Air Shuttle lsd,30.06.13,,
+,,,SAS lsd,20.11.13,,
+,,,XL AW France slsd,17.07.14,,
+,,,Hi Fly ret,02.09.14,,
+,,,Saudi Arabian AL slsd,08.09.14,,
+,,,Hi Fly ret,01.12.14,,
+,,9H-TQZ,Hi Fly Malta,02.21,,C
+203,16.01.98,F-OHZT,Philippine AL ,10.02.98,330-301 ,
+,,RP-C3340,Philippine AL rr,23.03.08,,SCR
+204,19.12.97,V8-AC3,Brunei Gvmt ,27.11.98,340-213X,
+,,D-ASFB,Brunei Gvmt rr,20.08.02,,
+,,V8-AC3,Brunei Gvmt rr,28.02.03,,
+,,HZ-HMS,Saudi Arabian Gvmt,00.02.07,,
+,,HZ-HMS2,Saudi Arabian Gvmt,25.11.10,,C
+205,20.01.98,C-GGWA,Canada 3000 lsd,29.05.98,330-202 ,
+,,I-VLEC,Volare AL lsd,19.04.02,,
+,,EC-IYB,Air Madrid lsd,13.05.04,,
+,,,Air Comet lsd,26.06.07,,
+,,EC-KIL,Air Comet rr,25.07.07,,
+,,,Royal Air Maroc lsd,12.11.08,,
+,,,Air Mediterranee slsd,12.01.09,,
+,,PK-YVJ,Metro Batavia lsd,28.12.09,,
+,,EI-FAO,ILFC Ireland,19.03.13,,SCR
+206,15.04.98,HL7552,Korean Air,19.06.98,330-322 ,
+,,HL7524,Korean Air rr,s24.01.99,,C
+207,05.12.97,F-GLZK,Air France,02.01.98,340-313X,
+,,,Joon tfd,04.04.18,,
+,,,Air France tfd,26.06.19,,
+,,YA-WTA,Kam Air,03.12.20,,
+,,9H-,AirHub AL,27.07.21,,C
+208,16.01.98,B-HXG ,Cathay Pacific,12.02.98,340-313X,
+,,,AerFin,15.06.17,,SCR
+209,15.04.98,HS-TEJ,Thai AW Int ,26.08.98,330-322 ,
+,,2-STEJ,AerCap Dutch Aircraft Leasing IV,r18.10.17,,SCR
+210,23.01.98,F-GLZL,Air France,20.02.98,340-313X,
+,,,Air Madagascar lsd,10.04.12,,
+,,TF-EAB,Air Madagascar,19.03.13,,STD
+211,27.03.98,C-GGWB,Canada 3000,29.04.98,330-202 ,
+,,I-VLED,Volare AL lsd,02.07.02,,
+,,EC-IYN,Air Madrid lsd,20.05.04,,
+,,,Air Comet lsd,15.05.07,,
+,,EC-KIM,Air Comet rr,25.07.07,,
+,,CS-TQP,Hi Fly lsd,15.09.11,,
+,,,Saudi Arabian AL slsd,26.05.14,,
+,,,Hi Fly ret,10.01.15,,
+,,9H-TQP,Hi Fly Malta tfd,20.12.21,,C
+212,04.02.98,9V-SJL,Singapore AL,19.03.98,340-313X,
+,,A4O-LG,Gulf Air lsd,14.06.03,,
+,,A9C-LG,Gulf Air rr,01.01.08,,
+,,EC-MDG,Plus Ultra Lineas Aereas,01.09.14,,
+,,EC-MFA,Plus Ultra Lineas Aereas rr,02.03.15,,SCR
+213,20.02.98,D-AIGN,Lufthansa ,12.03.98,340-313X,C
+214,25.02.98,G-VELD,Virgin Atlantic lsd,16.03.98,340-313X,SCR
+215,13.03.98,9V-SJM,Singapore AL,23.04.98,340-313X,
+,,A4O-LH,Gulf Air lsd,27.06.03,,
+,,A9C-LH,Gulf Air rr,17.11.07,,
+,,EC-MFB,Plus Ultra Lineas Aereas,02.03.15,,SCR
+216,01.03.98,C-GBQM,Air Canada lsd,14.05.98,340-313X,
+,,6Y-JMM,Air Jamaica lsd,23.05.02,,
+,,TC-JIJ,THY Turkish AL lsd,27.11.08,,
+,,EI-ETY,ILFC Ireland,12.04.12,,
+,,AP-EDE,AirBlue lsd,26.11.12,,
+,,N282AT,BOU,20.03.14,,SCR
+217,01.02.98,EC-GUP,Iberia,26.05.98,340-313X,SCR
+218,12.03.98,B-HXH,Cathay Pacific,31.03.98,340-313X,SCR
+219,12.05.98,HL7525,Korean Air,26.06.98,330-322 ,W/O
+220,02.06.98,B-HXI,Cathay Pacific,23.06.98,340-313X,SCR
+221,03.06.98,EC-GUQ,Iberia,25.06.98,340-313X,SCR
+222,10.07.98,HL7538,Korean Air,31.08.98,330-223,
+,,,Cathay Pacific slsd,     06.00,,
+,,,Korean Air ret,26.03.02,,C
+223,15.07.98,OE-LAM,Austrian AL ,03.08.98,330-223,
+,,,Royal Air Maroc lsd,19.02.01,,
+,,,Austrian AL ret,11.03.01,,
+,,CS-TOJ,TAP Air Portugal,31.07.07,,SCR
+224,30.09.98,HS-TEK,Thai AW Int ,30.12.98,330-322 ,SCR
+225,18.05.98,G-VFAR,Virgin Atlantic ,12.06.98,340-313X,SCR
+226,21.08.98,HL7539,Korean Air,08.09.98,330-222 ,
+,,,Cathay Pacific slsd,     06.00,,
+,,,Korean Air ret,05.05.01,,C
+227,09.06.98,B-HXJ,Cathay Pacific,28.07.98,340-313X,SCR
+228,02.07.98,B-HXK,Cathay Pacific,06.08.98,340-313X,SCR
+229,10.08.98,HB-IQA,Swissair,04.09.98,330-223 ,
+,,,Swiss Int'l AL lsd,31.03.02,,
+,,OO-SFY,Brussels AL,07.10.11,,SCR
+230,28.08.98,OO-SFP,Sabena,16.09.98,330-222 ,
+,,OY-GRN,Air Greenland lsd,06.08.02,,C
+231,21.08.98,HS-TEL,Thai AW Int ,23.09.98,330-322 ,
+,,D-AAEC,DHL Air-EAT,09.18,*322F,
+,,EI-HEC,ASL AL Ireland,25.09.19,,C
+232,08.10.98,PT-MVA,TAM Brazil lsd,23.11.98,330-223,
+,,,South African AW slsd,10.12.03,,
+,,A6-EYX,Etihad AW lsd,05.06.04,,
+,,PT-MVA,TAM ret,23.08.06,,SCR
+233,17.07.98,D-AIGO,Lufthansa ,07.08.98,340-313X,C
+234,22.09.98,B-HYF,Dragonair ,29.10.98,330-342 ,
+,,,Cathay Dragon nn,22.11.16,,STD
+235,24.09.98,SX-DFA,Olympic AW,29.01.99,340-313X,
+,,,Olympic AL nn,12.12.03,,
+,,N235KS,AAG,11.01.12,,SCR
+236,21.09.98,9V-SJN,Singapore AL,30.09.98,340-313X,
+,,A6-ERM,Emirates AL,09.01.04,,
+,,9H-JAI,Hi Fly,02.06.17,,C
+237,24.09.98,F-GLZM,Air France,23.10.98,340-313X,SCR
+238,12.10.98,PT-MVB,TAM Brazil lsd,23.11.98,330-223,
+,,,South African AW slsd,10.12.03,,
+,,A6-EYY,Etihad AW slsd,05.06.04,,
+,,PT-MVB,TAM Brazil ret,01.04.05,,SCR
+239,31.08.98,SX-DFB,Olympic AW,29.01.99,340-313X,
+,,,Olympic AL nn,12.12.03,,
+,,N239KS,AAG,11.01.12,,SCR
+240,,HB-IQB,Swissair,09.11.98,330-223,
+,,,Swiss Int'l AL lsd,31.03.02,,
+,,F-OPTP,Air Caraibes,08.12.03,,
+,,F-GRTP,Sabena Technics BOD SAS lsd,29.05.09,,
+,,F-RARF,French Air Force,08.11.10,,C
+241,12.11.98,HL7540,Korean Air,30.11.98,330-322 ,C
+242,16.11.98,B-2388,China Southwest AL,10.12.98,340-313X,
+,,,Garuda lsd,    .03.01,,
+,,,China Southwest AL ret,23.06.01,,
+,,,Air China,13.09.03,,
+,,PZ-TCR,Surinam AW,23.12.15,,
+,,N365JS,AELF-Aircraft Engine Lease Finance,r13.08.20,,STD
+243,23.10.98,B-2389,China Southwest AL,09.11.98,340-313X,
+,,,Garuda lsd,    .03.01,,
+,,,China Southwest AL ret,00.10.01,,
+,,,Air China,01.03.03,,
+,,F-WJKO,Airbus Financial Svcs,09.15,,SCR
+244,04.11.98,B-HLL,Cathay Pacific,25.11.98,330-342 ,
+,,,Dragonair ,24.04.12,,
+,,,Cathay Dragon nn,22.11.16,,STD
+245,04.11.98,F-GLZN,Air France,30.11.98,340-313X,
+,,,Joon tfd,22.06.18,,
+,,,Air France tfd,26.06.19,,
+,,9H-NFC,Air X Charter,21.04.21,,
+,,TF-NFC,Air Atlanta Icelandic,03.11.21,,C
+246,09.11.98,F-GLZO,Air France,04.12.98,340-313X,
+,,,Joon tfd,r11.05.18,,
+,,,Air France tfd,26.06.19,,SCR
+247,07.12.98,PT-MVC,TAM Brazil lsd,22.12.98,330-223,SCR
+248,18.12.98,A6-EKQ,Emirates AL ,10.03.99,330-243,
+,,C-GJDA,Air Transat,17.04.16,,
+,,G-TCCF,Thomas Cook AL lsd,17.10.18,,
+,,,Condor slsd,15.11.18,,
+,,C-GJDA,Air Transat ret,08.05.19,,
+,,,,,,STD
+249,23.11.98,HB-IQC,Swissair,11.12.98,330-223,
+,,,Swiss Int'l AL lsd,31.03.02,,
+,,OO-SFZ,Brussels AL lsd,17.02.12,,SCR
+250,13.01.99,C-GGTS,Air Transat lsd,23.02.99,330-243,
+,,,Garuda Indonesia lsd,20.10.09,,
+,,,Air Transat ret,20.12.10,,
+,,,Garuda Indonesian AW lsd,30.09.11,,
+,,,Air Transat ret,11.12.11,,
+,,,Garuda Indonesian AW lsd,18.09.12,,
+,,,Air Transat ret,29.11.12,,
+,,,XL AW France,20.12.12,,
+,,,Garuda Indonesian AW lsd,06.09.13,,
+,,,Air Transat ret,18.11.13,,
+,,,XL AW France lsd,20.01.14,,
+,,,Air Transat ret,07.05.14,,
+,,,Garuda Indonesian AW lsd,28.08.14,,
+,,,Air Transat ret,07.11.14,,
+,,N250AH,BoU-Bank of Utah,r31.03.22,,STD
+251,26.01.99,A6-EKR,Emirates AL,31.03.99,330-243,
+,,C-GUFR,Air Transat,18.04.16,,
+,,G-TCCG,Thomas Cook AL lsd,28.10.18,,
+,,,Condor slsd,15.11.18,,
+,,,Thomas Cook AL ret,12.04.19,,
+,,C-GUFR,Air Transat ret,02.05.19,,C
+252,09.12.98,D-AIGP,Lufthansa,30.12.98,340-313X,C
+253,07.01.99,HB-IQD,Swissair lsd,05.02.99,330-223,
+,,,Swiss Int'l AL lsd,31.03.02,,
+,,F-OFDF,Air Caraibes lsd,26.01.04,,C
+254,06.04.99,G-MLJL,Airtours International,15.06.99,330-243,
+,,,MyTravel AW nn,01.05.02,,
+,,,Thomas Cook AL,21.11.07,,
+,,,Garuda Indonesian AW lsd,18.09.12,,
+,,,Thomas Cook AL ret,29.11.12,,SCR
+255,15.01.99,HB-IQE,Swissair lsd,19.02.99,330-223,
+,,,Swiss Int'l AL lsd,31.03.02,,
+,,9M-MKU,Malaysian AL lsd,10.02.04,,
+,,VN-A369,Vietnam AL lsd,29.03.07,,
+,,JY-JAJ,Jordan Aviation lsd,27.03.12,,
+,,,Conviasa slsd,25.07.13,,
+,,,Saudi Arabian AL slsd,10.11.13,,
+,,LZ-AWA,BH Air lsd,04.06.14,,SCR
+256,05.01.99,HL7554,Korean Air,30.08.99,330-323X,C
+257,28.01.99,C-GDVV,Air Canada lsd,11.02.99,340-313X,
+,,6Y-JMP,Air Jamaica lsd,05.03.02,,
+,,TC-JIK,THY Turkish AL,06.09.08,,
+,,AP-EDF,AirBlue lsd,29.09.12,,
+,,M-ABIG,BOU,20.03.14,,
+,,EP-AJA,Meraj Air,15.09.15,,
+,,EP-DAA,Dena AW,by11.17,,
+,,EP-IGA,Iranian Government rr,07.06.18,,C
+258,09.02.99,HL7552,Korean Air,12.03.99,330-223,
+,,,Cathay Pacific slsd,     06.00,,
+,,,Korean Air ret,29.05.02,,C
+259,03.02.99,PT-MVD,TAM Brazil,28.06.99,330-223,
+,,A6-EYB,Etihad AW lsd,21.11.03,,
+,,PT-MVD,TAM ret,26.07.06,,SCR
+260,04.02.99,F-GLZP,Air France,25.02.99,340-313X,
+,,,Joon tfd,r23.03.18,,
+,,,Air France tfd,26.06.19,,SCR
+261,09.03.99,G-SMAN,Monarch AL,26.03.99,330-243,
+,,,Garuda Indonesian AW lsd,08.10.10,,
+,,,Monarch AL,20.12.10,,
+,,,Garuda Indonesian AW lsd,07.09.13,,
+,,,Monarch AL ret,17.11.13,,
+,,9M-AZL,NAS/Eagleexpress Air Charter,30.11.15,,
+,,EC-MNY,Wamos Air,07.02.17,,STD
+262,12.02.99,HB-IQF,Swissair lsd,12.03.99,330-223,
+,,,Swiss Int'l AL lsd,31.03.02,,
+,,9M-MKT,Malaysian AL lsd,23.01.04,,
+,,VN-A370,Vietnam AL lsd,13.04.07,,
+,,CS-TQW,Hi Fly lsd,27.07.12,,
+,,,Boliviana de Aviacion,07.12.12,,
+,,,Hi Fly ret,07.06.13,,SCR
+263,05.03.99,OE-LAL,Austrian AL ,24.03.99,340-313X,
+,,HB-JML,Swiss Int'l AL lsd,06.08.07,,SCR
+264,11.02.99,B-2390,China Southwest AL,31.03.99,340-313X,
+,,,Garuda lsd,s21.02.00,,
+,,,China Southwest AL ret,12.07.01,,
+,,,Air China tfd,03.08.03,,
+,,,Airbus,,,SCR
+265,23.02.99,G-EOMA,Monarch AL,26.04.99,330-243,
+,,,Garuda Indonesian AW lsd,29.09.11,,
+,,,Monarch AL ret,01.12.12,,
+,,EC-MJS,Wamos Air,03.06.16,,STD
+266,04.06.99,G-MDBD,Airtours International,24.06.99,330-243,
+,,,Garuda lsd,05.03.01,,
+,,,MyTravel AW ret,29.05.03,,
+,,,Thomas Cook AL,21.11.07,,
+,,,Garuda Indonesian AW lsd,30.09.11,,
+,,,Thomas Cook AL ret,11.12.11,,SCR
+267,16.04.99,HL7553,Korean Air,04.06.99,330-323X,C
+268,02.04.99,3B-NBE,Air Mauritius,16.04.99,340-313X,STD
+269,13.04.99,EI-LAX,Aer Lingus,29.04.99,330-202,
+,,,Novair lsd,29.11.13,,
+,,,Aer Lingus ret,01.04.14,,SCR
+270,31.03.99,TC-JIH,THY Turkish AL,22.04.99,340-313X,
+,,2-AVRC,Avro Capital,16.05.21,,STD
+271,17.03.99,C-GITS,Air Transat lsd,28.04.99,330-243,
+,,,Garuda Indonesian AW slsd,18.10.09,,
+,,,Air Transat ret,03.01.10,,
+,,,Garuda Indonesian AW slsd,10.10.10,,
+,,,Air Transat ret,18.12.10,,
+,,,Garuda Indonesian AW slsd,29.09.11,,
+,,,Air Transat ret,11.12.11,,
+,,,Garuda Indonesian AW slsd,17.09.12,,
+,,,Air Transat ret,28.11.12,,
+,,,Garuda Indonesian AW slsd,09.09.13,,
+,,,Air Transat ret,17.11.13,,
+,,,Garuda Indonesian AW slsd,30.08.14,,
+,,,Air Transat ret,07.11.14,,
+,,OY-VVK,Thomas Cook AL Scandinavia lsd,07.12.18,,
+,,C-GITS,Air Transat ret,14.04.19,,
+,,N271AD,BoU-Bank of Utah,r22.04.22,,STD
+272,07.05.99,C-GGWC,Canada 3000 lsd,28.05.99,330-202,
+,,F-WQQL,PAC&TI,25.02.02,,
+,,I-VLEE,Volare AL lsd,00.08.02,,
+,,EI-DIR,Calliope Ltd ret,18.11.04,,
+,,A6-EYV,Etihad AW lsd,04.02.05,,
+,,EI-DIR,Air One lsd,22.05.08,,
+,,,Alitalia,13.01.09,,
+,,JU-1332,Eznis AW,04.11.22,,C
+273,04.05.99,C-GDVW,Air Canada,02.06.99,340-313X,
+,,9M-XAB,AirAsia X slsd,03.02.09,,
+,,,Air Algerie slsd,11.07.12,,
+,,,AirAsia X ret,05.09.12,,
+,,,Conviasa slsd,03.11.14,,
+,,,AirAsia X ret,02.02.15,,SCR
+274,28.04.99,D-AIGR,Lufthansa,18.05.99,340-313X,
+,,16+01,German Air Force,10.06.09,,
+,,98+47,German Air Force,01.02.11,,
+,,16+01,German Air Force,00.03.11,,C
+275,23.04.99,HB-IQG,Swissair,26.05.99,330-223,
+,,,Swiss Int'l AL lsd,31.03.02,,
+,,VN-A371,Vietnam AL lsd,17.09.09,,
+,,2-AERD,Aircraft Lotus,r20.10.17,,SCR
+276,27.05.99,A4O-KA,Gulf Air,09.06.99,330-243,
+,,A9C-KA,Gulf Air rr,10.12.07,,SCR
+277,07.06.99,C-GFAF,Air Canada,13.01.00,330-343E,C
+278,08.06.99,C-GDVZ,Air Canada,28.06.99,340-313X,
+,,9M-XAC,AirAsia X slsd,03.06.09,,
+,,,Conviasa slsd,04.09.14,,
+,,,AirAsia X ret,04.11.14,,
+,,N278TA,Lufthansa Technik,s09.03.16,,
+,,YA-KMT,Kam Air,03.02.17,,C
+279,30.08.99,C-GFAH,Air Canada,15.10.99,330-343E,C
+280,13.07.99,SX-DFC,Olympic AW,14.10.99,340-313X,
+,,,Olympic AL nn,12.12.03,,
+,,,Olympic Air,29.09.09,,
+,,N280KS,AAG,11.01.12,,
+,,UP-A4002,Bek Air,14.02.17,,
+,,,Kam Air,s30.06.17,,
+,,YK-AZB,Syrianair,17.03.20,,C
+281,03.06.99,A4O-KB,Gulf Air,24.06.99,330-243,
+,,A9C-KB,Gulf Air rr,07.12.07,,SCR
+282,18.06.99,9V-SJO,Singapore AL,08.07.99,340-313X,
+,,A4O-LJ,Gulf Air lsd,01.03.04,,
+,,A9C-LJ,Gulf Air rr,26.11.07,,
+,,M-ABGQ,Falak Three Ltd,06.02.14,,
+,,EX-34004,Mahan Air,03.07.14,,
+,,EP-MMC,Mahan Air,22.08.14,,C
+283,23.06.99,A6-EKS,Emirates AL,07.07.99,330-243,
+,,EI-FNX,I-Fly,r21.06.17,,C
+284,01.10.99,C-GFAJ,Air Canada,02.11.99,330-343E,C
+285,16.06.99,F-HCAT,Corsair,30.06.99,330-243,C
+286,24.06.99,A4O-KC,Gulf Air,12.07.99,330-243,
+,,A9C-KC,Gulf Air rr,06.01.08,,SCR
+287,21.06.99,A4O-KD,Gulf Air,26.07.99,330-243,
+,,PT-MSE,TAM Brazil lsd,01.06.01,,
+,,A4O-KD,Gulf Air ret,00.09.02,,
+,,A9C-KD,Gulf Air rr,19.12.07,,SCR
+288,30.06.99,HB-IQH,Swissair,20.07.99,330-223,
+,,,Swiss Int'l AL lsd,31.03.02,,
+,,D-ABXA,Air Berlin tfd,10.08.11,,
+,,,,,,SCR
+289,03.08.99,F-GLZQ,Air France,07.09.99,340-313X,W/O
+290,19.07.99,OO-SFQ,Sabena lsd,09.08.99,330-223,
+,,,VG AL lsd,14.02.02,,
+,,,Delsey AL nn,08.08.02,,
+,,9M-MKX,Malaysian AL lsd,11.02.03,,
+,,LV-FNI,Aerolineas Argentinas lsd,03.09.13,,STD
+291,13.07.99,HB-IQI,Swissair,06.08.99,330-223,
+,,,Swiss Int'l AL lsd,31.03.02,,
+,,,Edelweiss slsd,15.10.10,,
+,,OO-SFT,Brussels AL lsd,r31.01.17,,STD
+292,30.09.99,SX-DFD,Olympic AW,25.10.99,340-313X,
+,,,Olympic AL nn,12.12.03,,
+,,,Olympic Air,29.09.09,,
+,,UP-A4003,Bek Air,15.02.17,,
+,,EP-MMT,Mahan Air,s27.09.17,,C
+293,15.07.99,A6-EKT,Emirates AL,25.08.99,330-243,
+,,EI-FSE,I-Fly,22.06.17,,C
+294,27.08.99,HB-IQJ,Swissair lsd,15.09.99,330-223,
+,,,Swiss Int'l AL lsd,31.03.02,,
+,,VN-A372,Vietnam AL lsd,19.11.09,,SCR
+295,19.08.99,A6-EKU,Emirates AL,22.09.99,330-243,
+,,EI-FSF,Ifly,21.04.17,,C
+296,08.09.99,OO-SFR,Sabena lsd,06.10.99,330-223,
+,,,VG AL,17.04.02,,
+,,,Delsey AL nn,08.08.02,,
+,,EI-CZS,Calliope Ltd,06.01.03,,
+,,9M-MKV,Malaysian AL lsd,01.04.03,,
+,,UR-WRQ,Windrose Avtn lsd,25.07.13,,
+,,,TAP Air Portugal slsd,27.06.14,,
+,,,Windrose Avtn ret,20.08.14,,
+,,,AirBlue wlsd,02.02.15,,
+,,,Windrose Avtn ret,04.11.16,,
+,,LZ-AWP,DAE Capital,s19.04.18,,SCR
+297,24.09.99,D-AIGS,Lufthansa,13.10.99,340-313X,C
+298,,,NOT BUILT,,330-343E,
+299,17.09.99,HB-IQK,Swissair,06.10.99,330-223,
+,,,Swiss Int'l AL lsd,31.03.02,,
+,,VN-A374,Vietnam AL lsd,10.12.09,,SCR
+300,29.10.99,OO-SFS,Sabena lsd,19.11.99,330-223,
+,,,VG AL lsd,07.06.02,,
+,,,Delsey AL nn,08.08.02,,
+,,EI-CZT,Calliope Ltd,06.01.03,,
+,,9M-MKW,Malaysian AL lsd,21.02.03,,
+,,P4-DLK,Calliope Ltd ret,08.10.13,,
+,,LV-FNJ,Aerolineas Argentinas lsd,07.06.14,,STD
+301,22.10.99,G-MOJO,Airtours International,08.11.99,330-243,
+,,,Premiair lsd,10.11.99,,
+,,,Airtours International ret,27.04.00,,
+,,,Premiair lsd,s1.11.00,,
+,,,Airtours International ret,s22.04.01,,
+,,,Premiair lsd,04.11.01,,
+,,,MyTravel AW nn,01.05.02,,
+,,G-OMYT,MyTravel AW rr,14.05.03,,
+,,,Garuda Indonesian AL lsd,15.11.07,,
+,,,Thomas Cook AL ret,22.01.08,,
+,,,Garuda Indonesian AW lsd,29.09.11,,
+,,,Thomas Cook AL ret,11.12.11,,
+,,,Thomas Cook AL Scandinavia slsd,12.12.15,,
+,,,Thomas Cook AL ret,02.04.16,,
+,,,Thomas Cook AL Scandinavia slsd,09.12.16,,
+,,,Thomas Cook AL ret,17?,,
+,,,Thomas Cook AL Scandinavia slsd,11.12.18,,
+,,,Thomas Cook AL ret,19?,,SCR
+302,10.11.99,EC-HDQ,Iberia,01.12.99,340-313X,
+,,RP-C3435,Philippine AL lsd,13.06.13,,
+,,YA-KMU,Kam Air,03.06.19,,C
+303,07.10.99,4R-ALA,Srilankan AL,26.10.99,330-243,C
+304,17.11.99,D-AIGT,Lufthansa,20.12.99,340-313X,C
+305,14.10.99,HB-IQL,Flightlease,05.11.99,330-223,
+,,,Novair lsd,25.11.99,,
+,,,Swissair ret,11.11.00,,
+,,D-AIMA,Lufthansa lsd,04.06.03,,
+,,D-AXEL,Blue Wings,20.12.04,,
+,,CS-TOE,TAP Air Portugal,28.03.06,,SCR
+306,07.10.99,4R-ALB,Srilankan AL,15.11.99,330-243,C
+307,19.10.99,F-GLZR,Air France,10.11.99,340-313X,SCR
+308,09.11.99,HB-IQM,Swissair,19.11.99,330-223,
+,,D-AIMB,Lufthansa lsd,18.02.03,,
+,,D-ARND,Blue Wings,18.03.05,,
+,,CS-TOF,TAP Air Portugal,10.03.06,,SCR
+309,25.11.99,G-CSJS,Airtours International,10.12.99,330-243,
+,,OY-VKF,Premiair lsd,15.12.99,,
+,,G-CSJS,Airtours Int'l ret,28.04.01,,
+,,OY-VKF,Premiair lsd,29.11.01,,
+,,,MyTravel AW nn,01.05.02,,
+,,,Thomas Cook AL Scandinavia tfd,21.04.08,,
+,,,Sunclass AL nn,31.10.19,,C
+310,02.12.99,F-GLZS,Air France,23.12.99,340-313X,SCR
+311,25.11.99,4R-ALC,Srilankan AL,10.12.99,330-243,C
+312,26.11.99,HB-IQN,Swissair,14.12.99,330-223,
+,,D-AIMC,Lufthansa lsd,26.02.03,,
+,,D-ARNO,Blue Wings,29.03.05,,
+,,CS-TOG,TAP Air Portugal,27.04.06,,SCR
+313,07.12.99,4R-ALD,Srilankan AL,12.01.00,330-243,
+,,OE-IKV,Carlyle Avtn Partners,r18.12.19,,SCR
+314,23.12.99,A6-EKV,Emirates AL,24.01.00,330-243,
+,,C-GUBF,Air Transat,r09.01.18,,C
+315,07.03.00,N670UW,US AW,30.03.00,330-323X,
+,,N270AY,US AW rr,13.09.06,,
+,,,American AL,10.12.13,,STD
+316,05.01.00,A6-EKW,Emirates AL,28.01.00,330-243,
+,,TC-OCL,Onur Air,29.12.15,,SCR
+317,20.12.99,OE-LAP,Austrian AL lsd,25.02.00,330-223,
+,,CS-TOK,TAP Air Portugal,26.09.07,,SCR
+318,24.01.00,EC-HGU,Iberia,09.02.00,340-313X,
+,,RP-C3436,Philippine AL lsd,21.06.13,,
+,,YA-KME,Kam Air,25.04.18,,
+,,9H- ,AirHub AL,15.09.21,,C
+319,09.02.00,F-GLZT,Air France,28.02.00,340-313X,
+,,5R-EAA,Air Madagascar,29.06.12,,STD
+320,21.03.00,F-HBIL,Corsair,31.03.00,330-243,SCR
+321,02.02.00,D-AIGU,Lufthansa,18.02.00,340-313X,C
+322,18.01.00,OO-SFT,Sabena,03.02.00,330-223,
+,,D-AIMD,Lufthansa lsd,23.12.02,,
+,,HB-IQQ,Swiss Int'l AL lsd,10.11.06,,
+,,D-ABXB,Air Berlin lsd,13.07.11,,
+,,G-VLNM,Virgin Atlantic AL lsd,25.04.18,,C
+323,31.03.00,N671UW,US AW,18.04.00,330-323X,
+,,N271AY,US AW rr,07.03.07,,
+,,,American AL,10.12.13,,STD
+324,27.01.00,OO-SFU,Sabena,26.05.00,330-223,
+,,D-AIME,Lufthansa lsd,28.11.02,,
+,,HB-IQR,Swiss Int'l AL lsd,30.11.06,,
+,,VH-SSA,Strategic AL lsd,20.06.09,,
+,,HB-IQR,Swiss Int'l AL ret,26.02.12,,
+,,OO-SFU,Brussels AL lsd,26.04.13,,
+,,N287AC,Bank of Utah,r05.06.20,,STD
+325,09.02.00,D-AIGV,Lufthansa,25.02.00,340-313X,C
+326,15.02.00,A6-EKX,Emirates AL,17.03.00,330-243,
+,,SU-ALA,Air Leisure,23.12.16,,
+,,,Ajwaa AL,15.02.21,,STD
+327,11.02.00,D-AIGW,Lufthansa,10.03.00,340-313X,STD
+328,07.03.00,A6-EKY,Emirates AL,23.03.00,330-243,
+,,SU-ALB,Air Leisure,31.01.17,,
+,,,CIAF Leasing,29.12.19,,C
+329,18.02.00,EC-HGV,Iberia,11.04.00,340-313X,SCR
+330,04.04.00,EI-EWR,Aer Lingus lsd,09.05.00,330-202,
+,,PK-YVI,Metro Batavia lsd,13.08.09,,
+,,EI-EWR,Calliope Ltd,19.03.13,,
+,,9M-XAD,AirAsia X lsd,26.08.13,,
+,,,Saudi Arabian AL slsd,27.04.14,,
+,,EI-EWR,Aer Lingus lsd,29.01.15,,
+,,N330AD,AerCap ret,01.05.20,,STD
+331,16.03.00,TC-JII,THY Turkish AL,21.04.00,340-313X,STD
+332,13.03.00,EC-HGX,Iberia,13.04.00,340-313X,
+,,RP-C3437,Philippine AL lsd,05.09.13,,
+,,N332FY,80C2 Partners LLC,15.08.19,,STD
+333,06.04.00,N672UW,US AW lsd,04.05.00,330-323X,
+,,N272AY,US AW rr,11.10.06,,
+,,,American AL,10.12.13,,STD
+334,28.04.00,A4O-KE,Gulf Air,23.05.00,330-243,
+,,PT-MSD,TAM Brasil lsd,16.06.01,,
+,,A4O-KE,Gulf Air ret,00.09.02,,
+,,A9C-KE,Gulf Air rr,13.12.07,,SCR
+335,17.05.00,D-AIGY,Lufthansa,05.06.00,340-313X,
+,,OO-SCW,Brussels AL lsd,r12.03.18,,
+,,D-AIGY,Lufthansa ret,27.10.19,,C
+336,12.04.00,4R-ALE,Srilankan AL,28.04.00,330-243,W/O
+337,03.05.00,N673UW,US AW lsd,18.05.00,330-323X,
+,,N273AY,US AW rr,08.09.06,,
+,,,American AL,10.12.13,,STD
+338,16.05.00,HL7584,Korean Air,31.05.00,330-323X,C
+339,15.05.00,C-GGWD,Canada 3000 lsd,26.05.00,330-202,
+,,I-VLEF,Volare AL lsd,11.04.02,,
+,,EI-DIP,Calliope Ltd,28.10.04,,
+,,A6-EYW,Etihad AW lsd,04.05.05,,
+,,EI-DIP,Air One lsd,10.03.08,,
+,,,Alitalia,13.01.09,,STD
+340,17.04.00,A4O-KF,Gulf Air,29.05.00,330-243,
+,,A9C-KF,Gulf Air rr,03.12.07,,SCR
+341,03.05.00,4R-ALF,Srilankan AL,15.06.00,330-243,W/O
+342,15.06.00,N674UW,US AW lsd,27.06.00,330-323X,
+,,N274AY,US AW rr,12.09.06,,
+,,,American AL,10.12.13,,STD
+343,18.05.00,HB-IQO,Swissair,23.06.00,330-223,
+,,,Swiss Int'l AL lsd,31.03.02,,
+,,TC-ETP,Atlas Jet Int'l lsd,14.06.10,,
+,,,Saudi Arabian AL slsd,03.08.10,,
+,,,AtlasJet Int'l ret,22.12.10,,
+,,N772RD,Ryan Int'l AL,25.07.12,,
+,,,Atlasjet Int'l lsd,14.09.12,,
+,,TF-EAA,Saudi Arabian AL slsd,01.07.13,,
+,,F-WTDD,Azur Air,s12.01.17,,
+,,F-HHUB,Air Caraibes lsd,31.03.17,,C
+344,15.06.00,C-GFUR,Air Canada,30.06.00,330-343E,C
+345,13.09.00,A6-EKZ,Emirates AL,27.10.00,330-243,
+,,TS-IRA,Syphax AL lsd,20.06.13,,
+,,TC-OCG,Onur Air,25.12.15,,
+,,5A-OSA,Oya International AL,26.11.21,,C
+346,06.06.00,HS-TEM,Thai AW Int,19.07.00,330-323X,STD
+347,16.06.00,D-AIGZ,Lufthansa,29.06.00,340-313X,C
+348,30.08.00,A6-EAA,Emirates AL,15.12.00,330-243,
+,,HC-COH,TAME lsd,09.07.13,,SCR
+349,30.06.00,OY-VKG,Airtours/Premiair,24.07.00,330-343,
+,,,MyTravel AW nn,01.05.02,,
+,,,Garuda slsd,27.12.03,,
+,,,MyTravel AW ret,00.03.04,,
+,,,Garuda Indonesian AL slsd,14.12.04,,
+,,,MyTravel AW ret,23.02.05,,
+,,,Garuda Indonesian AL slsd,03.12.05,,
+,,,MyTravel AW ret,21.03.06,,
+,,,Garuda Indonesian AL slsd,18.11.06,,
+,,,MyTravel AW ret,03.02.07,,
+,,,Garuda Indonesian AL slsd,03.12.07,,
+,,,MyTravel AW ret,23.01.08,,
+,,,Thomas Cook AL Scandinavia ret,21.04.08,,
+,,,Garuda Indonesian AL slsd,30.11.08,,
+,,,Thomas Cook AL Scandinavia ret,15.01.09,,
+,,,Garuda Indonesian AW slsd,10.10.10,,
+,,,Thomas Cook AL Scandinavia ret,20.12.10,,
+,,,Sunclass AL nn,31.10.19,,
+,,T7-ULS,ULS AL Cargo,11.05.21,*F,C
+350,07.07.00,HL7585,Korean Air,26.07.00,330-323X,C
+351,26.07.00,HL7586,Korean Air,10.08.00,330-323X,C
+352,20.06.00,D-AIFA,Lufthansa,25.08.00,340-313X,W/O
+353,30.08.00,SE-RBF,Fll/Novair AL,29.09.00,330-223,
+,,,Libyan Arab AL slsd,20.03.02,,
+,,,Air Luxor slsd,15.05.02,,
+,,,Novair ret,27.10.02,,
+,,,Cubana slsd,16.02.03,,
+,,,Air Luxor slsd,21.06.03,,
+,,,Novair ret,02.11.03,,
+,,VT-IWA,Air India lsd,26.09.07,,
+,,TC-OCE,Onur Air,16.09.15,,
+,,,Saudi Arabian AL slsd,17.09.15,,
+,,,Onur Air ret,23.10.18,,STD
+354,12.07.00,D-AIGX,Lufthansa,08.09.00,340-313X,
+,,OO-SCX,Brussels AL lsd,20.03.18,,
+,,D-AIGX,Lufthansa ret,23.06.19,,C
+355,29.08.00,D-AIFB,Lufthansa,06.10.00,340-313X,
+,,16+02,German Air Force,04.07.11,,C
+356,20.07.00,OY-VKH,Airtours/Premiair,10.08.00,330-343E,
+,,,MyTravel AW nn,01.05.02,,
+,,,Garuda lsd,19.12.03,,
+,,,MyTravel AW ret,05.03.04,,
+,,,Garuda Indonesian AL slsd,10.12.04,,
+,,,MyTravel AW ret,23.02.05,,
+,,,Garuda Indonesian AL slsd,01.12.05,,
+,,,MyTravel AW ret,00.01.06,,
+,,,Garuda Indonesian AL slsd,21.11.06,,
+,,,MyTravel AW ret,24.01.08,,
+,,,Garuda Indonesian AL slsd,20.11.08,,
+,,,Thomas Cook AL Scandinavia ret,16.01.09,,
+,,,Garuda Indonesian AL slsd,19.10.09,,
+,,,Thomas Cook AL Scandinavia ret,01.01.10,,
+,,,Garuda Indonesian AW slsd,10.10.10,,
+,,,Thomas Cook AL Scandinavia ret,20.12.10,,
+,,,Sunclass AL nn,31.10.19,,
+,,T7-SERES,ULS AL Cargo,20.08.21,,C
+357,10.08.00,OY-VKI,Airtours/Premiair,15.09.00,330-343E,
+,,,MyTravel AW nn,01.05.02,,
+,,,Garuda lsd,20.12.03,,
+,,,MyTravel AW ret,06.03.04,,
+,,,Garuda Indonesian AL slsd,16.12.04,,
+,,,MyTravel AW ret,23.02.05,,
+,,,Garuda Indonesian AL slsd,01.12.05,,
+,,C-GVKI,Skyservice AL lsd,05.05.06,,
+,,OY-VKI,MyTravel AW ret,24.10.06,,
+,,,Garuda Indonesian AL slsd,22.11.06,,
+,,,MyTravel AW ret,29.04.07,,
+,,C-GVKI,Skyservice AL lsd,03.05.07,,
+,,OY-VKI,MyTravel AW ret,26.10.07,,
+,,,Garuda Indonesian AL slsd,15.11.07,,
+,,,MyTravel AW ret,24.01.08,,
+,,C-GVKI,Skyservice AL lsd,30.04.08,,
+,,OY-VKI,Garuda Indonesian AL slsd,24.10.08,,
+,,,Thomas Cook AL Scandinavia ret,11.01.09,,
+,,,Garuda Indonesian AL slsd,19.10.09,,
+,,,Thomas Cook AL Scandinavia ret,02.01.10,,
+,,,Garuda Indonesian AW slsd,10.10.10,,
+,,,Thomas Cook AL Scandinavia ret,22.12.10,,
+,,,Sunclass AL nn,31.10.19,,C
+358,08.09.00,TU-TAX,Air Afrique lsd,29.09.00,330-223,
+,,EI-CXF,Calliope Ltd,28.02.02,,
+,,I-EEZA,Eurofly lsd,26.09.02,,
+,,TC-ETK,Atlas Jet Int'l lsd,12.05.09,,
+,,,Saudi Arabian AL slsd,25.09.11,,
+,,,Strategic AL slsd,12.12.11,,
+,,,Atlasjet Int'l AL ret,24.02.12,,
+,,EI-CXF,Calliope Ltd,26.07.12,,
+,,LV-FNK,Aerolineas Argentinas lsd,25.11.13,,STD
+359,05.09.00,CC-CQA,LAN Chile,27.09.00,340-313X,
+,,,LAN nn,31.03.04,,
+,,,LAN AL nn,23.07.04,,SCR
+360,23.04.01,F-WWCA,Airbus 340-600 proto,23.04.01,340-642,STD
+361,05.10.00,PT-MVE,TAM Brasil,10.11.00,330-223,
+,,A6-EYA,Etihad AW lsd,15.11.03,,
+,,PT-MVE,TAM ret,19.10.06,,SCR
+362,26.09.00,SE-RBG,Novair AL lsd ,20.10.00,330-223,
+,,,Air Madrid slsd,24.06.05,,
+,,,Novair ret,10.01.07,,
+,,,TUI AL Belgium slsd,25.02.07,,
+,,,Novair ret,25.03.07,,
+,,,Kuwait AW lsd,20.06.07,,
+,,,Novair ret,12.09.07,,
+,,VT-IWB,Air India lsd,29.11.07,,
+,,TC-OCF,Onur Air,06.10.15,,
+,,N137AR,AAR Corporation,r07.02.20,,SCR
+363,21.09.00,CC-CQC,LAN Chile,27.10.00,340-313X,
+,,,LAN nn,31.03.04,,
+,,,LAN AL nn,23.07.04,,SCR
+364,17.10.00,TU-TAY,Air Afrique lsd,16.11.00,330-223,
+,,EI-CXG,Calliope Ltd,28.02.02,,
+,,I-EEZB,Eurofly lsd,07.08.02,,
+,,TC-ETL,Saudi Arabian AL slsd,08.07.09,,
+,,,Atlasjet Int'l AL ret,05.02.12,,
+,,EI-CXG,Calliope Ltd,02.03.12,,
+,,LV-FNL,Aerolineas Argentinas lsd,20.12.13,,
+,,N640CL,Carlyle Avtn Partners,r14.02.22,,STD
+365,25.10.00,A6-EAB,Emirates AL,30.11.00,330-243,
+,,VH-XFA,Virgin Blue AL lsd,03.03.11,,
+,,,Virgin Australia nn,04.05.11,,
+,,PR-AIY,Azul Linhas Aereas lsd,29.10.14,,
+,,CS-TOS,TAP Air Portugal,09.05.16,,
+,,PR-AIY,Azul Linhas Aereas ret,21.10.17,,C
+366,01.07.00,HB-IQP,Swissair,22.05.01,330-223,
+,,,Swiss Int'l AL lsd,31.03.02,,
+,,VN-A375,Vietnam AL lsd,02.07.09,,
+,,N366SA,BoU,r30.07.18,,SCR
+367,27.10.00,F-GTUA,AOM-Air Outre Mer lsd,01.12.00,340-313X,
+,,,Airlib nn,     10.01,,
+,,4R-ADE,SriLankan AL lsd,21.10.03,,
+,,9H-SUN,Hi Fly Malta lsd,22.01.16,,C
+368,08.11.00,HL7587,Korean Air,29.11.00,330-323X,C
+369,08.11.00,HB-IQZ,Edelweiss Air lsd,17.11.00,330-243,
+,,C-GTSN,Air Transat lsd,18.11.10,,
+,,,XL AW slsd,25.12.10,,
+,,,Air Transat ret,00.06.11,,
+,,,Garuda Indonesian AW slsd,29.09.11,,
+,,,XL AW France slsd,16.12.11,,
+,,,Travel Service AL slsd,29.10.16,,
+,,,Air Transat ret,ar04.17,,
+,,N369BV,AerCap ret,r11.02.21,,STD
+370,15.11.00,N675US,US AW lsd,07.12.00,330-323X,
+,,N275AY,US AW rr,19.09.06,,
+,,,American AL,10.12.13,,STD
+371,18.06.01,F-WWCB,Airbus 340-600 #2 proto,18.06.01,340-642,
+,,G-VGOA,Virgin Atlantic AW,30.08.03,,
+,,YI-ASL,Alnaser AL lsd,30.07.14,,
+,,EP-MME,Mahan Air tfd,08.05.15,,C
+372,20.11.00,A6-EAC,Emirates AL,21.12.00,330-243,
+,,VH-XFB,Virgin Austalia lsd,19.04.11,,
+,,PR-AIX,Azul Linhas Aereas lsd,10.12.14,,
+,,CS-TOT,TAP Air Portugal,07.16,,
+,,PR-AIX,Azul Linhas Aereas ret,15.05.17,,C
+373,30.10.00,F-GNIH,Air France lsd,04.12.00,340-313X,
+,,LV-CSX,Aerolineas Argentinas,19.11.11,,
+,,N373UA,Unical Avtn,r19.10.17,,SCR
+374,01.12.00,F-GTUB,Fll/AOM-Air Outre Mer,20.12.00,340-313X,
+,,,Airlib nn,     10.01,,
+,,4R-ADF,SriLankan AL lsd,25.10.03,*312X,
+,,9H-BIG,Air X Charter,r15.09.16,,C
+375,14.12.00,N676UW,US AW lsd,12.01.01,330-323X,
+,,N276AY,US AW rr,19.09.06,,
+,,,American AL,10.12.13,,STD
+376,24.09.01,,Airbus 340-600 #3,24.09.01,340-642,
+,,G-VATL,Virgin Atlantic AW,31.10.03,,
+,,YI-ASM,Alnaser AL lsd,03.07.14,,
+,,EP-MMF,Mahan Air tfd,08.05.15,,
+,,YV3533,Conviasa,15.03.22,,C
+377,01.12.00,F-GLZU,Air France lsd,15.12.00,340-313X,SCR
+378,15.12.00,EC-HQF,Iberia,16.01.01,340-313X,
+,,ZS-SXG,South African AW lsd,22.10.10,,C
+379,15.12.00,D-AIFC,Lufthansa,26.01.01,340-313X,C
+380,08.01.01,N677UW,US AW,15.02.01,330-323X,
+,,N277AY,US AW rr,12.09.06,,
+,,,American AL,10.12.13,,STD
+381,21.12.00,B-HXL,Cathay Pacific,22.01.01,340-313X,
+,,4R-ADG,SriLankan AL lsd,08.06.11,,
+,,UP-A4001,Bek Air/Mahan Air,s08.10.16,*312,
+,,YK-AZA,Syrianair,10.02.17,,C
+382,12.01.01,A6-EAD,Emirates AL,26.01.01,330-243,SCR
+383,11.06.02,G-VSHY,Virgin Atlantic AW,26.07.02,340-642,
+,,9H-SEA,Hi Fly Malta lsd,03.07.13,,
+,,YI-ASN,Alnaser AL,01.09.14,,
+,,YI-NAA,Alnaser AL rr,08.02.15,,
+,,EP-MMG,Mahan AL tfd,08.05.15,,C
+384,21.12.00,A6-EAE,Emirates AL,31.01.01,330-243,SCR
+385,01.02.01,F-OJGF,Air Tahiti Nui,28.12.01,340-313X,SCR
+386,18.01.01,B-HLM,Cathay Pacific,15.02.01,330-343E,
+,,,Cathay Dragon tfd,30.07.19,,STD
+387,26.01.01,EC-HQH,Iberia,01.03.01,340-313X,
+,,EC-LHM,Iberia lsd,15.07.10,,
+,,RP-C3438,Philippine AL lsd,22.10.13,,
+,,YA-KMH,Kam Air,13.07.18,,C
+388,12.02.01,N678US,US AW,01.03.01,330-323X,
+,,N278AY,US AW rr,03.10.06,,
+,,,American AL,10.12.13,,STD
+389,25.01.01,B-HLN,Cathay Pacific,23.02.01,330-343E,
+,,,Cathay Dragon tfd,25.10.19,,STD
+390,08.02.01,D-AIFD,Lufthansa,16.03.01,340-313X,C
+391,02.09.02,G-VMEG,Virgin Atlantic AW,05.10.02,340-642,
+,,YI-ASN,Alnaser AL,06.02.15,,
+,,EP-MMH,Mahan Air tfd,08.05.15,,C
+392,09.03.01,A6-EAF,Emirates AL,28.03.01,330-243,
+,,SU-ALC,Air Leisure,10.03.17,,
+,,,Azman Air lsd,02.10.17,,
+,,,Air Leisure ret,22.03.18,,STD
+393,13.03.01,B-HLO,Cathay Pacific,30.03.01,330-343E,
+,,,Cathay Dragon tfd,10.01.20,,
+,,,Cathay Pacifc tfd,20.01.20,,C
+394,11.02.02,F-WWTE,Airbus 340-500 proto #1,11.02.02,340-541,
+,,A6-ERF,Emirates AL,30.07.04,,SCR
+395,25.06.01,C-GZIA,Canada 3000 AL lsd,19.09.01,340-313X,
+,,F-OJTN,Air Tahiti Nui lsd,18.01.02,,
+,,,Air Caledonie Int'l slsd,17.08.14,,
+,,,Air Tahiti Nui ret,14,,STD
+396,21.02.01,A6-EAG,Emirates AL,06.04.01,330-243,
+,,B-LHA,Hong Kong AL,14.02.18,,STD
+397,16.03.01,EI-DAA,Aer Lingus,17.04.01,330-202,
+,,,Novair AL lsd,01.12.14,,
+,,,Aer Lingus ret,31.03.15,,C
+398,09.04.01,G-WWBM,bmi British Midland,27.04.01,330-243,
+,,,South African AW lsd,16.12.02,,
+,,,bmi British Midland ret,30.05.03,,
+,,,THY Turkish AL slsd,10.06.10,,
+,,,bmi British Midland ret,31.03.11,,
+,,G-CHTZ,Thomas Cook AL,31.10.13,,
+,,,,,,SCR
+399,08.03.01,F-GNII,Air France,06.04.01,340-313X,
+,,EC-MQM,Plus Ultra L.A.,21.06.17,,C
+400,23.03.01,C-GHKR,Air Canada,16.05.01,330-343E,C
+401,13.04.01,G-WWBD,bmi British Midland,09.05.01,330-243,
+,,,SAS slsd,09.05.01,,
+,,,bmi British Midland ret,15.11.01,,
+,,,South African AW lsd,02.12.02,,
+,,,bmi British Midland ret,30.11.03,,
+,,,Virgin Nigeria AW lsd,28.01.07,,
+,,,bmi British Midland ret,10.05.07,,SCR
+402,03.04.01,B-18801,China AL,26.04.01,340-313X,
+,,N402XA,Aersale Inc,r18.04.18,,SCR
+403,03.04.01,D-ALPA,LTU Int'l AW,18.05.01,330-223,
+,,,Air Berlin tfd,27.03.09,,
+,,G-VMNK,Virgin Atlantic AW lsd,r02.02.18,,SCR
+404,09.05.01,G-WWBB,bmi British Midland lsd,30.05.01,330-243,
+,,,South African AW slsd,19.12.02,,
+,,,bmi British Midland ret,31.05.03,,
+,,4R-ALG,SriLankan AL slsd,15.07.10,,
+,,TC-OCK,Onur Air lsd,04.16,,SCR
+405,27.04.01,B-HYG,Dragonair,29.05.01,330-343E,
+,,,Cathay Dragon nn,22.11.16,,STD
+406,17.05.01,B-18802,China AL,08.06.01,340-313X,
+,,3DC-SDF,Swazi Gvmt-King Mswati III,05.16,,C
+407,21.05.01,B-HYH,Dragonair lsd,11.06.01,330-343E,
+,,TC-SGJ,Saga AL lsd,29.08.09,,
+,,,THY Turkish AL slsd,21.10.09,,
+,,,Saga AL ret,11.06.10,,
+,,,Mongolian AL slsd,30.06.10,,
+,,,THY Turkish AL slsd,01.11.10,,
+,,C-GTSD,Air Transat lsd,08.07.11,,
+,,,Garuda Indonesian AW slsd,16.09.12,,
+,,,Air Transat ret,29.11.12,,
+,,,Garuda Indonesian AW slsd,07.09.13,,
+,,,Air Transat ret,20.11.13,,
+,,,XL AW France slsd,s15.12.15,,
+,,,Air Transat ret,05.16,,C
+408,28.05.01,C-GHKW,Air Canada,19.06.01,330-343E,C
+409,15.05.01,A6-EAH,Emirates AL,22.06.01,330-243,
+,,JY-JVA,Jordan Aviation,r30.05.16,,C
+410,16.10.02,ZS-SNA,South African AW,24.12.02,340-642,STD
+411,11.06.01,B-18803,China AL,28.06.01,340-313X,
+,,,,,,SCR
+412,12.06.01,C-GHKX,Air Canada,28.06.01,330-343E,C
+413,29.06.01,SE-REA,SAS,20.07.01,340-313X,
+,,LN-RKF,SAS rr lsd,28.11.01,,SCR
+414,05.06.01,EC-HQN,Iberia,10.07.01,340-313X,
+,,EC-LKS,Iberia,03.03.11,,SCR
+415,05.07.01,B-18805,China AL,20.07.01,340-313X,
+,,,,,,SCR
+416,10.10.02,G-VOGE,Virgin Atlantic AW,29.11.02,340-642,
+,,9H-TEQ,Hi Fly Malta lsd,15.10.14,,
+,,YI-NAD,Alnaser AL,18.11.14,,
+,,EP-MMI,Mahan Air,08.05.15,,
+,,YV3535,Conviasa,s12.06.22,,C
+417,04.12.02,ZS-SNB,South African AW,20.12.02,340-642,STD
+418,25.07.01,B-HLP,Cathay Pacific AW,10.08.01,330-343E,C
+419,30.07.01,C-GHLM,Air Canada,16.08.01,330-343E,C
+420,10.08.01,B-HLQ,Cathay Pacific AW,31.08.01,330-343E,C
+421,07.09.01,B-HLR,Cathay Pacific AW,28.09.01,330-343E,C
+422,24.08.01,F-GZCA,Air France lsd,20.12.01,330-203,C
+423,11.09.01,B-HLS,Cathay Pacific AW,05.10.01,330-343E,C
+424,06.09.01,SE-REB,SAS,26.09.01,340-313X,
+,,LN-RKG,SAS rr lsd,30.11.01,,SCR
+425,03.09.01,HL7701,Korean Air,25.10.01,330-323X,
+,,OK-YBA,CSA Czech AL lsd,14.05.13,,STD
+426,30.01.03,ZS-SNC,South African AW,11.02.03,340-642,C
+427,09.10.01,G-OJMB,JMC AL lsd,09.11.01,330-243,
+,,,Garuda Indonesian AW slsd,17.01.02,,
+,,,JMC AL ret,27.03.02,,
+,,,MEA-Middle East AL lsd,25.01.03,,
+,,,Thomas Cook AL ret,22.02.03,,
+,,,Garuda Indonesian AL slsd,24.11.06,,
+,,,Thomas Cook AL ret,00.02.07,,
+,,,Garuda Indonesian AL slsd,14.11.07,,
+,,,Thomas Cook AL ret,21.01.08,,
+,,C-GTSI,Air Transat lsd,20.12.11,,
+,,,Travel Service AL slsd,29.10.17,,
+,,,Air Transat ret,04.04.18,,
+,,OK-GBB,Travel Service AL Poland lsd,29.10.18,,
+,,C-GTSI,Air Transat ret,03.04.19,,
+,,,,,,STD
+428,12.09.01,HL7702,Korean Air,25.10.01,330-323X,C
+429,12.10.01,CC-CQE,LAN Chile,29.10.01,340-313X,
+,,,LAN nn,31.03.04,,
+,,,LAN AL nn,23.07.04,,SCR
+430,11.10.01,OY-KBI,SAS lsd,15.11.01,340-313X,SCR
+431,07.06.03,EC-INO,Iberia,24.06.03,340-642,
+,,9H-FFC,Air X Charter,r01.21,,
+,,TF-MFC,Air Atlanta Icelandic,03.11.21,,C
+432,09.10.01,D-ALPB,LTU Int'l AW lsd,09.11.01,330-223,
+,,,Air Berlin tfd,17.04.09,,
+,,G-VMIK,Virgin Atlantic AW lsd,24.01.18,,STD
+433,09.10.01,B-18806,China AL,31.10.01,340-313X,SCR
+434,26.09.01,D-AIFE,Lufthansa,29.10.01,340-313X,C
+435,11.10.01,OY-KBA,SAS lsd,16.11.01,340-313X,STD
+436,28.09.02,B-HQA,Cathay Pacific AW lsd,19.12.02,340-642,
+,,B-6508,Hainan AL lsd,03.02.09,,
+,,N711LF,BoU,14.11.14,,SCR
+437,07.11.01,A6-EAI,Emirates AL,26.11.01,330-243,
+,,TC-OCH,Onur Air lsd,03.03.16,,W/O
+438,08.11.01,F-OSEA,Air Tahiti Nui lsd,27.12.02,340-313X,SCR
+439,14.11.01,B-HLT,Cathay Pacific AW,28.11.01,330-343E,
+,,,Cathay Dragon tfd,03.09.19,,STD
+440,01.08.03,EC-IOB,Iberia,27.08.03,340-642,
+,,9H-LFC,Air X Charter,r01.21,,
+,,TF-LFC,Air Atlanta Icelandic,21.10.21,,C
+441,27.11.01,A7-ACH,Qatar AW,12.12.03,330-203*202,
+,,EI-GEY,Aer Lingus,s11.05.18,,C
+442,15.11.01,CC-CQF,LAN Chile,14.12.01,340-313X,
+,,,LAN nn,31.03.04,,
+,,,LAN AL nn,23.07.04,,SCR
+443,29.11.01,F-GZCB,Air France,17.12.01,330-203,C
+444,16.01.02,D-ALPC,LTU Int'l AW lsd,31.01.02,330-223,
+,,,Air Berlin tfd,02.06.09,,
+,,F-HTIC,Aigle Azur lsd,14.06.18,,STD
+445,07.01.03,C-GKOL,Air Canada,26.07.04,340-541,
+,,PT-MSN,TAM lsd,13.11.07,,SCR
+446,04.12.01,F-OSUN,Air Tahiti Nui lsd,27.12.02,340-313X,SCR
+447,06.12.01,D-AIFF,Lufthansa,21.12.01,340-313X,C
+448,09.01.02,F-GZCC,Air France lsd,29.01.02,330-203,C
+449,03.12.02,G-VFOX,Virgin Atlantic AW,23.12.02,340-642,
+,,9H-TER,Hi Fly Malta lsd,18.11.14,,
+,,YI-NAE,Alnaser AL lsd,26.11.14,,
+,,EP-MMQ,Mahan Air,08.05.15,,C
+450,10.01.02,OY-KBM,SAS lsd,01.02.02,340-313X,
+,,,Hi Fly slsd,02.07.10,,
+,,,Adagold Aviation slsd,04.01.11,,
+,,,Hi Fly ret,26.05.11,,
+,,,SAS ret,19.01.12,,STD
+451,09.01.02,A6-EAJ,Emirates AL,29.01.02,330-243,
+,,9H-CLX,Comlux Malta,07.15,,
+,,P4-MLO,Comlux Aruba tfd,05.19,,C
+452,04.02.02,A6-EAK,Emirates AL,27.02.02,330-243,
+,,B-LHB,Hong Kong AL,13.06.18,,STD
+453,16.11.02,B-HQB,Cathay Pacific AW lsd,29.11.02,340-642,
+,,B-6509,Hainan AL lsd,03.06.09,,
+,,N171LF,BOU,08.10.14,,SCR
+454,22.01.02,D-ALPD,LTU Int'l AW lsd,14.02.02,330-223,
+,,,Air Berlin tfd,08.05.09,,
+,,EC-MTT,Wamos Air lsd,02.03.18,,
+,,,,,,STD
+455,04.02.03,A6-EAS,Emirates AL,09.10.03,330-243,
+,,C-GUBH,Air Transat,r18.09.17,,C
+456,07.02.02,G-OJMC,JMC AL lsd,05.03.02,330-243,
+,,,Thomas Cook AL nn,01.03.03,,
+,,4R-ALJ,SriLankan AL lsd,09.03.12,,
+,,EI-GVH,I-Fly lsd,14.03.21,,C
+457,23.07.03,A6-ERA,Emirates AL,22.11.03,340-541,
+,,F-WHUG,,s23.12.14,,SCR
+458,25.02.02,F-GZCD,Air France lsd,19.03.02,330-203,C
+459,30.01.02,EC-ICF,Iberia,28.02.02,340-313X,
+,,RP-C3439,Philippine AL lsd,02.04.14,,
+,,EC-NBU,Plus Ultra L.A.,04.19,,C
+460,17.09.03,EC-IQR,Iberia,06.10.03,340-642,STD
+461,19.03.02,EC-IDB,Iberworld lsd,09.04.02,330-243,
+,,,Garuda Indonesian AW slsd,29.12.04,,
+,,,Iberworld ret,04.03.05,,
+,,,Etihad AW slsd,11.12.05,,
+,,,Surinam AW slsd,25.03.06,,
+,,,Air Comet slsd,27.12.06,,
+,,CS-TRA,Orbest slsd,18.05.07,,
+,,,Novair slsd,00.12.07,,
+,,,Orbest ret,16.04.09,,
+,,,Novair slsd,29.10.09,,
+,,,Orbest ret,14.04.10,,
+,,EC-LKE,Air Europa lsd,22.12.10,,
+,,,Orbest ret,15.07.12,,
+,,EC-LVL,Air Europa lsd,26.03.13,,
+,,,,,,STD
+462,19.02.02,A6-EAL,Emirates AL lsd,12.03.02,330-243,
+,,B-5907,Sichuan AL lsd,02.07.12,,
+,,PR-AIW,Azul Linhas Aereas,11.12.14,,C
+463,19.11.02,I-VLEG,Volare AL lsd,27.11.02,330-203,
+,,A7-AFN,Qatar AW lsd,06.02.04,*-202,
+,,TC-JNF,THY Turkish AL,15.05.09,,
+,,EI-DDU,GECAS-Celestial AT,r31.08.17,,SCR
+464,28.03.03,C-GKOM,Air Canada,28.06.04,340-541,
+,,PT-MSL,TAM lsd,14.11.07,,
+,,D-AAAL,Lufthansa Technik,04.12.14,,STD
+465,12.03.02,F-GZCE,Air France lsd,28.03.02,330-203,C
+466,26.03.02,PT-MVF,TAM lsd,01.07.02,330-203,
+,,9H-JFS,Maleth-Aero,02.06.21,,C
+467,22.03.02,OY-KBC,SAS lsd,10.04.02,340-313X,SCR
+468,09.05.02,B-6050,China Eastern AL,30.06.03,340-642,
+,,D-AAAU,Lufthansa Technik,20.12.14,,SCR
+469,11.03.02,D-ALPE,LTU Int'l AW lsd,09.04.02,330-223,
+,,,Air Berlin tfd,04.12.08,,
+,,EC-MTU,Wamos Air lsd,09.04.18,,STD
+470,03.04.02,OY-KBD,SAS lsd,29.04.02,340-313X,SCR
+471,22.09.03,A6-ERB,Emirates AL,23.10.03,340-541,
+,,,,,,SCR
+472,30.04.02,PT-MVG,TAM lsd,01.07.02,330-203,
+,,EI-GEW,I-Fly,04.08.18,,
+,,9H-BFS,Maleth-Aero,r09.20,,C
+473,22.04.02,A7-ACA,Qatar AW,10.05.02,330-203,
+,,9H-RTU,Luke Air,08.11.19,,C
+474,22.04.02,EC-IDF,Iberia lsd,21.05.02,340-313X,
+,,RP-C3441,Philippine AL lsd,02.07.14,,
+,,C5-MIA,Macka Invest Co,s22.05.22,,STD
+475,17.02.03,B-HQC,Cathay Pacific AW lsd,27.06.03,340-642,
+,,B-6510,Hainan AL lsd,22.10.08,,
+,,N371LF,BOU,23.05.14,,SCR
+476,30.04.02,D-ALPF,LTU Int'l AW lsd,29.05.02,330-223,
+,,,Air Berlin tfd,8,,
+,,G-VWND,Virgin Atlantic AW lsd,23.03.18,,STD
+477,29.04.02,PT-MVH,TAM lsd,29.07.02,330-203,
+,,CS-TOQ,TAP Air Portugal,10.08.14,,
+,,,,,,STD
+478,03.10.03,9V-SGC,Singapore AL,19.12.03,340-541,
+,,F-WJKJ,,,,SCR
+479,28.05.02,B-HYI,Dragonair,26.06.02,330-343E,
+,,,Cathay Dragon nn,22.11.16,,STD
+480,27.05.02,C-GPTS,Air Transat lsd,14.06.02,330-243,
+,,,Star AL slsd,30.10.03,,
+,,,Air Transat ret,15.05.04,,
+,,,XL AW slsd,26.12.09,,
+,,,Garuda Indonesian AW lsd,11.10.10,,
+,,,Air Transat ret,20.12.10,,
+,,,Garuda Indonesian AW lsd,27.09.11,,
+,,,Air Transat ret,09.12.11,,
+,,,Garuda Indonesian AW slsd,17.09.12,,
+,,,Air Transat ret,29.11.12,,
+,,,Garuda Indonesian AW slsd,06.09.13,,
+,,,Air Transat ret,20.11.13,,C
+481,06.06.02,F-GZCF,Air France lsd,28.06.02,330-203,C
+482,08.08.03,D-AIHA,Lufthansa lsd,23.12.03,340-642,SCR
+483,23.11.02,EC-IIH,Iberia lsd,06.12.02,340-313X,
+,,F-WDTF,Azur Aviation,25.11.15,,
+,,T7-MAN,Azur Aviation rr,s05.05.16,,
+,,9H-SOL,Hi Fly Malta,26.02.18,,C
+484,02.07.02,HL7709,Korean Air,08.08.02,330-323X,C
+485,12.09.03,A6-ERC,Emirates AL,29.11.03,340-541,
+,,F-WHUH,Airbus Financial Svc,08.12.14,,SCR
+486,05.06.02,PT-MVK,TAM lsd,29.07.02,330-203,
+,,CS-TOR,TAP Air Portugal,24.04.14,,
+,,,,,,STD
+487,25.06.02,A7-HJJ,Qatar AW,27.08.02,330-203,C
+488,04.06.03,B-6051,China Eastern AL,30.06.03,340-642,
+,,,,,,SCR
+489,,A7-ACB,Qatar AW,01.08.02,330-203,
+,,EI-GGN,Air Italy tfd,r27.09.18,,
+,,9H-PTN,Luke Air,07.03.20,,C
+490,18.07.02,HL7710,Korean Air,04.10.02,330-323X,C
+491,,A6-EAM,Emirates AL,19.09.02,330-243,
+,,TC-OCM,Onur Air,15.12.17,,STD
+492,11.11.03,9V-SGA,Singapore AL,31.12.03,340-541,
+,,,Airbus Financial Svc,10.01.14,,SCR
+493,05.07.02,D-ALPG,LTU Int'l AW lsd,06.09.02,330-223,
+,,,Air Berlin tfd,19.03.09,,
+,,F-HTAC,Aigle Azur lsd,21.04.18,,
+,,F-HUNO,Air Caraibes Atlantique lsd,10.12.19,,C
+494,22.07.02,A6-EAN,Emirates AL,13.09.02,330-243,
+,,EI-EYO,CAF,17.10.12,,
+,,PR-AIU,Azul Linhas Aereas,26.09.15,,C
+495,11.06.03,A7-HHH,Qatar Gvmt,15.09.03,340-541,C
+496,20.09.02,OY-KBN,SAS lsd,16.10.02,330-343E,
+,,LN-RKM,SAS rr,16.10.12,,C
+497,03.09.02,LN-RKH,SAS lsd,01.10.02,330-343E,
+,,YR-,Dan Air lsd,21.02.22,,C
+498,19.10.02,F-GZCG,Air France,20.12.02,330-203,C
+499,15.11.03,9V-SGB,Singapore AL,12.01.04,340-541,
+,,,Airbus Financial Svc,,,SCR
+500,11.09.02,F-GZCH,Air France lsd,18.10.02,330-203,C
+501,25.10.02,F-GRSQ,Star AL lsd,25.11.02,330-243,
+,,,XL AW nn,23.11.06,,
+,,,Garuda Indonesian AW slsd,06.09.13,,
+,,,XL AW ret,19.11.13,,
+,,,Garuda Indonesian AW slsd,02.09.14,,
+,,,XL AW ret,04.11.14,,
+,,TC-OCV,Onur Air,01.04.20,,STD
+502,24.09.02,F-GZCI,Air France lsd,20.12.02,330-203,C
+503,08.10.02,F-GZCJ,Air France lsd,22.11.02,330-203,C
+504,06.11.02,I-VLEH,Volare AL lsd,19.11.02,330-203,
+,,EI-DDV,GTS rr,23.01.04,,
+,,A7-AFO,Qatar AW lsd,14.03.04,*202,
+,,TC-JNG,THY Turkish AL lsd,15.05.09,*203,
+,,D-AXGG,Eurowings-SunExpress Germany,25.10.17,,C
+505,21.10.02,5B-DBS,Cyprus AW lsd,10.12.02,330-243,
+,,EC-LQO,Air Europa lsd,24.04.12,,
+,,9S-PSJ,flyCAA,14.01.21,,
+,,9S-ASJ,flyCAA rr,s25.02.21,,C
+506,07.02.03,VH-EBC,Qantas,12.03.03,330-201,
+,,,Jetstar AW lsd,21.12.06,*202,
+,,,Qantas ret,21.07.14,,C
+507,23.11.02,F-OHSD,Air Caledonie Int'l,10.12.02,330-202,
+,,2-FOHS,GA Telesis ret,21.10.19,,SCR
+508,11.10.02,VH-EBA,Qantas,05.12.02,330-201,
+,,,Jetstar AW lsd,15.02.07,*202,
+,,,Qantas ret,24.08.14,,C
+509,16.12.02,A6-EAO,Emirates AL,07.03.03,330-243,
+,,TC-OCN,Onur Air,01.12.17,,
+,,,,,,STD
+510,23.11.02,F-OJSE,Air Caledonie Int'l,13.12.02,330-202,
+,,,,,,STD
+511,17.01.03,A7-ACC,Qatar AW,07.02.03,330-203,
+,,EI-GGO,Air Italy tfd,05.09.18,,
+,,A7-ACC,Qatar AW ret,r28.07.20,,
+,,EI-GGO,WTCT,r23.09.20,,STD
+512,26.11.02,B-HYJ,Dragonair,16.12.02,330-343E,
+,,,Cathay Dragon nn,22.11.16,,STD
+513,07.02.03,VH-EBD,Qantas,18.04.03,330-201,
+,,,Jetstar AW lsd,01.11.06,,
+,,,Qantas ret,04.09.14,,C
+514,09.09.03,B-6052,China Eastern AL,24.10.03,340-642,
+,,,Lufthansa Technik,04.15,,STD
+515,16.01.03,SE-REE,SAS lsd,20.02.03,330-343E,
+,,LN-RKO,SAS rr,11.01.13,,C
+516,03.02.03,F-GZCK,Air France lsd,04.03.03,330-203,C
+517,10.10.03,D-AIHB,Lufthansa,25.11.03,340-642,STD
+518,,A6-EAQ,Emirates AL,29.04.03,330-243,
+,,C-GUBC,Air Transat,r13.07.17,,C
+519,17.02.03,F-GZCL,Air France lsd,24.03.03,330-203,C
+520,29.10.03,A6-ERD,Emirates AL,03.12.03,340-541,
+,,2-RBLC,Global AW,r07.11.18,,STD
+521,10.03.03,A7-ACD,Qatar AW,31.03.03,330-203,
+,,EI-GGP,Air Italy tfd,02.06.18,,
+,,A7-ACR,Qatar AW ret,s16.10.20,,STD
+522,26.11.02,VH-EBB,Qantas,23.12.02,330-201,
+,,,Jetstar AW lsd,29.10.06,,
+,,,Qantas ret,26.05.14,,C
+523,23.10.03,D-AIHC,Lufthansa lsd,08.12.03,340-642,STD
+524,09.01.03,N801NW,Northwest AL,28.08.03,330-323X,
+,,,Delta AL,29.10.08,,C
+525,28.02.03,A6-EAP,Emirates AL,02.04.03,330-243,
+,,TC-OCO,Onur Air,27.07.18,,STD
+526,21.03.03,5B-DBT,Cyprus AW lsd,10.04.03,330-243,
+,,EC-LQP,Air Europa lsd,11.04.12,,STD
+527,04.04.03,F-OMEA,MEA-Middle East AL lsd,30.04.03,330-243,
+,,A9C-KG,Gulf Air lsd,23.04.09,,
+,,PR-AIZ,Azul Linhas Aereas lsd,01.07.14,,C
+528,08.04.03,9V-SJP,Singapore AL,29.04.03,340-313X,
+,,B-18851,China AL lsd,22.10.03,,
+,,,Mandarin AL tfd,21.03.06,,
+,,A7-AAH,Qatar AW,00.08.07,,C
+529,27.03.03,F-OMEB,MEA-Middle East AL lsd,20.05.03,330-243,
+,,A9C-KH,Gulf Air lsd,02.06.09,,
+,,TC-JNV,THY Turkish AL,19.11.13,,
+,,PR-AIT,Azul L.A. lsd,17.06.15,,C
+530,04.06.03,B-16301,EVA Air lsd,26.06.03,330-203,
+,,D-AXGA,Eurowings-SunExpress Germany,07.10.15,,C
+531,13.10.03,ZS-SND,South African AW,07.11.03,340-642,C
+532,10.04.03,F-OMEC,MEA-Middle East AL lsd,11.06.03,330-243,
+,,A9C-KI,Gulf Air lsd,20.05.09,,
+,,PR-AIV,Azul Linhas Aereas lsd,13.08.14,,C
+533,06.06.03,N802NW,Northwest AL,08.07.03,330-323X,C
+,,,Delta AL,29.10.08,,
+534,31.10.03,ZS-SNE,South African AW lsd,18.11.03,340-642,STD
+535,12.05.03,B-16302,EVA Air lsd,04.07.03,330-203,
+,,VP-BDV,VIM AL,23.12.16,,
+,,,Aer Lingus lsd ntu,13.04.18,,STD
+536,28.04.03,A6-EAR,Emirates AL,24.06.03,330-243,
+,,C-GUBD,Air Transat,r12.05.17,,C
+537,26.11.03,D-AIHD,Lufthansa lsd,16.12.03,340-642,STD
+538,11.06.03,HB-JMA,Swiss Int'l AL lsd,30.06.03,340-313X,C
+539,07.07.03,B-HLU,Cathay Pacific AW,08.09.03,330-343E,C
+540,18.11.03,D-AIHE,Lufthansa,16.01.04,340-642,STD
+541,28.05.03,B-18807,China AL,11.07.03,340-313X,SCR
+542,29.08.03,N803NW,Northwest AL,16.09.03,330-323X,
+,,,Delta AL,29.10.08,,C
+543,13.01.04,D-AIHF,Lufthansa,06.02.04,340-642,STD
+544,18.09.03,ZS-SXA,South African AW,08.03.04,340-313E,
+,,9H-ACX,Airbus Financial Svc,r27.12.20,,STD
+545,03.07.03,HB-JMB,Swiss Int'l AL,26.09.03,340-313X,C
+546,22.07.03,HB-JMC,Swiss Int'l AL,06.10.03,340-313X,C
+547,03.12.03,ZS-SNF,South African AW,28.01.04,340-642,C
+548,08.09.03,B-HLV,Cathay Pacific AW,26.09.03,330-343E,C
+549,09.09.03,N804NW,Northwest AL,26.09.03,330-323X,
+,,,Delta AL,29.10.08,,C
+550,07.08.03,HL7720,Korean AL,15.10.03,330-323X,C
+551,12.11.03,I-LIVM,Livingston AL lsd,26.11.03,330-243,
+,,EI-EON,Livingston AL rr,28.09.10,,
+,,EC-LNH,Air Europa lsd,29.06.11,,
+,,,Wamos lsd,01.06.17,,
+,,,,,,STD
+552,09.10.03,N805NW,Northwest AL,31.10.03,330-323X,
+,,,Delta AL,29.10.08,,C
+553,05.11.03,VH-QPA,Qantas,26.11.03,330-301,C
+554,30.09.03,9V-SJQ,Singapore AL,31.10.03,340-313X,
+,,A4O-LI,Gulf Air lsd,03.12.03,,
+,,A9C-LI,Gulf Air rr,13.11.07,,SCR
+555,12.06.03,B-16303,EVA AW lsd,04.02.04,330-203,
+,,D-AXGC,Eurowings-SunExpress Germany lsd,18.02.16,,C
+556,29.10.03,HB-JMD,Swiss Int'l AL,08.12.03,340-313X,
+,,,Edelweiss Air tfd,31.08.18,,C
+557,16.12.03,ZS-SNG,South African AW,28.01.04,340-642,
+,,D-AUSZ,USC Universal Sky Carrier,s08.12.22,,STD
+558,10.10.03,VH-QPB,Qantas,12.12.03,330-301,C
+559,10.10.03,HB-JME,Swiss Int'l AL,19.11.03,340-313X,
+,,,Edelweiss Air tfd,03.03.18,,C
+560,16.03.04,9V-SGD,Singapore AL,08.04.04,340-541,
+,,F-WJKM,Airbus Industrie,19.03.14,,
+,,VP-BMS,Las Vegas Sands Corp,05.07.14,,C
+561,25.10.03,HB-JMF,Swiss Int'l AL,28.11.03,340-313X,
+,,,Edelweiss Air tfd,14.03.17,,C
+562,12.11.03,HB-JMG,Swiss Int'l AL lsd,22.12.03,340-313X,
+,,,Edelweiss Air tfd,12.09.16,,C
+563,06.03.04,9V-SGE,Singapore AL,04.05.04,340-541,
+,,T7-SAU,,29.01.14,,STD
+564,18.11.03,VH-QPC,Qantas,22.01.04,330-301,C
+565,07.11.03,B-HLW,Cathay Pacific AW,12.12.03,330-343E,C
+566,20.01.04,D-AIHH,Lufthansa,12.03.04,340-642,STD
+567,10.01.04,F-GZCM,Air France,30.01.04,330-203,C
+568,08.12.03,SE-REF,SAS lsd,28.01.04,330-343E,
+,,LN-RKN,SAS rr,13.11.12,,C
+569,06.02.04,D-AIHI,Lufthansa,27.04.04,340-642,C
+570,09.02.04,D-AIKA,Lufthansa,03.03.04,330-343E,
+,,OO-SFK,Brussels AL tfd,r08.03.19,,
+,,D-AIKA,Eurowings Discover tfd,29.09.21,,C
+571,02.03.04,A7-ACE,Qatar AW,05.04.04,330-203,
+,,EI-GFX,Air Italy tfd,17.05.18,,
+,,A7-ACP,Qatar AW ret,02.09.20,,
+,,EI-GFX,Castlelake,r29.10.20,,STD
+572,02.02.04,A6-ERE,Emirates AL,21.05.04,340-541,SCR
+573,09.01.04,B-16305,EVA AW lsd,26.02.04,330-203,
+,,D-AXGD,Eurowings-SunExpress Germany,13.03.16,,C
+574,09.01.04,VH-QPD,Qantas,27.10.04,330-303,C
+575,18.02.04,G-VEIL,Virgin Atlantic AW,08.04.04,340-642,
+,,,,,,SCR
+576,19.01.04,D-AIKB,Lufthansa,19.03.04,330-343E,
+,,,Eurowings Discover tfd,04.09.21,,C
+577,02.06.04,B-6053,China Eastern AL,28.06.04,340-642,
+,,,Lufthansa Technik,11.07.15,,STD
+578,10.02.04,N806NW,Northwest AL,19.03.04,330-323X,
+,,,Delta AL,29.10.08,,C
+579,30.01.04,D-AIKC,Lufthansa,31.03.04,330-343E,
+,,OO-SFL,Brussels AL,17.05.19,,
+,,D-AIKC,Eurowings Discover tfd,r27.01.22,,C
+580,16.04.04,D-AIHK,Lufthansa,05.05.04,340-642,STD
+581,02.03.04,B-HYQ,Dragonair lsd,19.03.04,330-343E,
+,,,Cathay Dragon nn,22.11.16,,STD
+582,20.02.04,ZS-SXB,South African AW,07.04.04,340-313E,
+,,9H-ACY,Airbus Financial Svc,r27.12.20,,STD
+583,04.05.04,D-AIHL,Lufthansa,28.05.04,340-642,STD
+584,13.03.04,F-GZCN,Air France lsd,30.03.04,330-203,C
+585,27.02.04,HB-JMH,Swiss Int'l AL,28.04.04,340-313X,C
+586,29.06.04,B-6055,China Eastern AL,28.07.04,340-642,
+,,,Lufthansa Technik,,,STD
+587,18.03.04,B-16306,EVA AW lsd,22.04.04,330-203,
+,,LV-GKO,Aerolineas Argentinas,13.09.16,,C
+588,01.03.04,N807NW,Northwest AL,04.06.04,330-323X,
+,,,Delta AL,29.10.08,,C
+589,,ZS-SNJ,NOT BUILT,,340-642,
+590,11.03.04,ZS-SXC,South African AW,27.04.04,340-313E,
+,,9H-ACZ,Airbus Financial Svc,r27.12.20,,STD
+591,25.03.04,N808NW,Northwest AL,30.04.04,330-323X,
+,,,Delta AL,29.10.08,,C
+592,,,NOT BUILT,,340-642,
+593,23.04.04,VH-QPE,Qantas,28.06.04,330-303,C
+594,18.04.05,ZS-SNK,NOT BUILT,,340-642,
+595,29.03.04,VH-QPF,Qantas,18.06.04,330-303,C
+596,,,NOT BUILT,,340-642,
+597,27.05.04,I-LIVN,Livingston AL lsd,13.07.04,330-243,
+,,EC-LMN,Air Europa lsd,24.05.11,,
+,,F-HXXL,XL AW France lsd,06.17,,
+,,TC-NYB,Air Anka,due22,,STD
+598,22.04.04,HB-JMI,Swiss Int'l AL,28.05.04,340-313X,C
+599,,,NOT BUILT,,340-642,
+600,26.05.04,SU-GCE,Egyptair,21.06.04,330-243*F,C
+601,07.09.04,EC-IZX,Iberia,06.10.04,340-642,STD
+602,19.05.04,B-18301,China AL,29.06.04,330-302,C
+603,03.05.04,VH-QPG,Qantas,22.07.04,330-303,C
+604,17.09.04,EC-IZY,Iberia,09.11.04,340-642,
+,,G-ECLE,European Skybus,19.08.22,,C
+605,09.06.04,A7-HHM,Qatar AW,03.08.04,330-203*202CJ,
+,,,Qatar Amiri Flight,03.10.12,,C
+606,19.10.04,EC-JBA,Iberia,24.11.04,340-642,STD
+607,10.06.04,B-18302,China AL,08.07.04,330-302,C
+608,04.11.04,A6-ERG,Emirates AL,30.11.04,340-541,
+,,,,,,STD
+609,08.06.04,N851NW,Northwest AL,21.07.04,330-223,
+,,,Delta AL,29.10.08,,C
+610,09.06.04,SU-GCF,Egyptair,27.07.04,330-243*F,C
+611,23.11.04,A6-ERH,Emirates AL,17.12.04,340-541,
+,,2-RLAW,Global AW,r09.04.18,,
+,,ZS-GAU,Global AW rr,21.06.19,,C
+612,29.07.04,A7-AFL,Qatar AW lsd,03.09.04,330-202,
+,,D-AXGE,Eurowings-SunExpress Germany,14.09.16,,C
+613,,,NOT BUILT,,330-203,
+614,23.07.04,N852NW,Northwest AL,23.08.04,330-223,
+,,,Delta AL,29.10.08,,C
+615,25.11.04,G-VSSH,Virgin Atlantic AW,31.01.05,340-642,
+,,YI-,Alnaser AL,25.03.15,,
+,,EP-MMR,Mahan Air,08.05.15,,C
+616,25.06.04,A7-AFM,Qatar AW lsd,07.09.04,330-202,
+,,D-AXGF,Eurowings-SunExpress Germany,03.11.16,,C
+617,04.01.05,EC-JCY,Iberia lsd,27.01.05,340-642,SCR
+618,08.07.04,N853NW,Northwest AL,15.09.04,330-223,
+,,,Delta AL,29.10.08,,C
+619,28.01.05,EC-JCZ,Iberia lsd,25.02.05,340-642,STD
+620,26.08.04,N854NW,Northwest AL,23.09.04,330-223,
+,,,Delta AL,29.10.08,,C
+621,23.07.04,N855NW,Northwest AL,07.10.04,330-223,
+,,,Delta AL,29.10.08,,C
+622,21.12.04,G-VNAP,Virgin Atlantic AW,24.02.05,340-642,
+,,9H-EAL,Maleth-Aero,16.04.20,,C
+623,10.09.04,A7-AEA,Qatar AW,25.10.04,330-302,
+,,VP-CNV,Castlelake,,,STD
+624,07.02.05,HS-TLA,Thai AW Int,06.04.05,340-541,STD
+625,02.09.04,7O-ADP,Yemenia AW lsd,25.10.04,330-243,
+,,TC-OCI,Onur Air/Saudi Arabian AL,10.08.15,,
+,,,AerCap ret,21.07.21,,STD
+626,11.03.05,ZS-SNH,South African AW lsd,14.04.05,340-642,STD
+627,10.09.04,I-LIVL,Livingston AL lsd,15.10.04,330-243,
+,,,Kuwait AW slsd,11.06.09,,
+,,,Livingston AL ret,11.12.09,,
+,,EI-EOK,Livingston AL rr,30.09.10,,
+,,7O-ADX,Yemenia AW lsd,24.11.10,,
+,,EI-EOK,WIL ret,29.07.11,,
+,,4R-ALH,SriLankan AL lsd,08.12.11,,C
+628,14.04.05,HS-TLB,Thai AW Int,29.04.05,340-541,STD
+629,27.08.04,D-AIKD,Lufthansa,12.10.04,330-343E,
+,,,Eurowings Discover tfd,18.02.22,,C
+630,18.04.05,ZS-SNI,South African AW lsd,16.05.05,340-642,STD
+631,05.10.04,N856NW,Northwest AL,25.10.04,330-223,
+,,,Delta AL,29.10.08,,C
+632,28.09.04,7O-ADT,Yemenia AW lsd,22.11.04,330-243,
+,,TC-OCJ,Onur Air/Saudi Arabian AL,10.08.15,,
+,,,AerCap ret,21.07.21,,STD
+633,06.10.04,N857NW,Northwest AL,16.11.04,330-223,
+,,,Delta AL,29.10.08,,C
+634,11.10.04,B-16307,EVA Air lsd,24.11.04,330-203,
+,,LV-GKP,Aerolineas Argentinas,09.02.17,,C
+635,29.10.04,F-GSEU,Star AL lsd,09.12.04,330-243,
+,,,XL AW nn,23.11.06,,
+,,,White AW lsd,25.06.07,,
+,,,XL AW ret,00.10.07,,
+,,,Garuda Indonesian AW slsd,16.09.12,,
+,,,XL AW ret,27.11.12,,
+,,VP-BUC,Nordwind AL,03.03.21,,
+,,RA-73270,Nordwind AL rr,13.03.22,,C
+636,18.10.04,D-AIKE,Lufthansa,03.12.04,330-343E,
+,,,Eurowings Discover tfd,07.09.22,,C
+637,17.11.04,A7-AEB,Qatar AW,16.12.04,330-302,STD
+638,26.11.04,A7-ACF,Qatar AW,21.12.04,330-202,
+,,EI-GGR,Air Italy tfd,31.10.18,,
+,,A7-ACQ,Qatar AW ret,12.10.20,,
+,,EI-GGR,Castlelake,r17.11.20,,STD
+639,16.03.05,G-VGAS,Virgin Atlantic AW,09.05.05,340-642,SCR
+640,10.11.04,HL7736,Asiana AL,20.12.04,330-323X,C
+641,25.11.04,B-18303,China AL,10.12.04,330-302,C
+642,08.11.04,D-AIKF,Lufthansa,17.12.04,330-343E,C
+643,25.11.04,ZS-SXD,South African AW lsd,28.02.05,340-313E,
+,,VT-JWA,Jet AW slsd,23.05.05,,
+,,ZS-SXD,South African AW ret,30.05.07,,C
+644,06.12.04,7T-VJV,Air Algerie,26.01.05,330-202,C
+645,16.12.04,D-AIKG,Lufthansa,28.01.05,330-343E,
+,,OO-SFP,Brussels AL,09.08.19,,
+,,D-AIKG,Lufthansa ret,07.12.21,,C
+646,08.12.04,ZS-SXE,South African AW,04.03.05,340-313E,
+,,VT-JWB,Jet AW lsd,31.05.05,,
+,,ZS-SXE,South African AW ret,26.06.07,,
+,,D-AUSC,USC Universal Sky Carrier,s08.12.22,,STD
+647,13.01.05,7T-VJW,Air Algerie,14.02.05,330-202,C
+648,17.01.05,D-AIKH,Lufthansa,11.02.05,330-343E,
+,,,Eurowings Discover tfd,22.09.21,,C
+649,01.02.05,B-6056,China Southern AL,25.02.05,330-243,C
+650,12.01.05,7T-VJX,Air Algerie,25.02.05,330-202,C
+651,09.02.05,ZS-SXF,South African AW,18.03.05,340-313E,
+,,VT-JWC,Jet AW slsd,06.06.05,,
+,,ZS-SXF,South African AW ret,10.07.07,,C
+652,23.02.05,B-6057,China Southern AL,16.03.05,330-243,C
+653,27.01.05,7T-VJY,Air Algerie,15.03.05,330-202,C
+654,25.02.05,B-HWF,Dragonair lsd,18.03.05,330-343E,
+,,9M-XXR,AirAsia X lsd,17.03.14,,
+,,PK-XRC,Indonesia AirAsia slsd,29.12.14,,
+,,9M-XXR,AirAsia X ret,s28.06.21,,C
+655,24.02.05,B-16308,EVA Air lsd,23.03.05,330-203,
+,,VQ-BMI,VIM AL lsd,18.05.17,,STD
+656,11.03.05,B-6058,China Southern AL,22.04.05,330-243,C
+657,15.02.05,F-GZCO,Air France,04.04.05,330-203,C
+658,29.04.05,A6-EYD,Etihad AW lsd,27.05.05,330-243,STD
+659,30.03.05,A7-AEC,Qatar AW,25.04.05,330-302,
+,,,,,,STD
+660,25.02.05,F-GZCP,Air France,18.04.05,330-203,W/O
+661,22.03.05,B-16309,EVA Air lsd,04.05.05,330-203,
+,,VP-BIO,VIM AL lsd,20.09.17,,
+,,SU-TCH,Almasria Universal AL lsd,16.02.18,,
+,,EI-GTE,Aptree Aviation,r05.08.20,,SCR
+662,12.04.05,B-HWG,Dragonair lsd,04.05.05,330-343E,
+,,9M-XXL,AirAsia X lsd,03.05.13,,
+,,HS-XTA,Thai AirAsia X,15.01.14,,C
+663,31.03.05,N809NW,Northwest AL,13.05.05,330-323X,
+,,,Delta AL,29.10.08,,C
+664,19.05.05,B-6059,China Southern AL,09.06.05,330-243,C
+665,04.05.05,I-EEZJ,Eurofly lsd,27.05.05,330-223,
+,,,Meridiana Fly,28.02.10,,
+,,D-ABXC,Air Berlin lsd,01.11.12,,
+,,9M-MTU,Malaysian AL lsd,30.03.18,,C
+666,25.03.05,SU-GCG,Egyptair,17.06.05,330-243,C
+667,11.04.05,7T-VJZ,Air Algerie,01.06.05,330-202,C
+668,13.05.05,F-OLOV,Air Tahiti Nui,13.06.05,340-313E,
+,,9H-ZMK,AirHub AL,16.06.21,,C
+669,23.05.05,B-LAA,Cathay Pacific AL lsd,28.06.05,330-343E,
+,,,Dragonair lsd,20.09.13,,
+,,,Cathay Dragon nn,22.11.16,,
+,,,Cathay Pacific AL tfd,20.10.20,,C
+670,03.06.05,EC-JHP,Iberworld lsd,28.06.05,330-343E,
+,,,XL AW slsd,29.03.08,,
+,,,Iberworld ret,22.04.08,,
+,,,Garuda Indonesian AW slsd,20.10.09,,
+,,,Iberworld ret,02.01.10,,
+,,,XL AW France slsd,31.01.10,,
+,,,Iberworld ret,02.05.10,,
+,,,Orbest Orizonia AL,01.05.11,,
+,,EC-LXA,Air Europa lsd,29.06.13,,
+,,,Garuda Indonesian AW slsd,07.09.13,,
+,,,Air Europa ret,19.11.13,,
+,,,Evelop! AL,13.02.17,,
+,,,Iberojet  ,13.05.21,,C
+671,22.04.05,B-18305,China AL,16.06.05,330-302,C
+672,18.05.05,EC-JFX,Iberia,10.06.05,340-642,STD
+673,27.05.05,B-LAB,Cathay Pacific AL lsd,17.06.05,330-343E,
+,,,Dragonair slsd,27.07.13,,
+,,,Cathay Dragon nn,22.11.16,,STD
+674,13.05.05,N810NW,Northwest AL,21.06.05,330-323X,
+,,,Delta AL,29.10.08,,C
+675,17.05.05,B-18306,China AL,08.07.05,330-302,C
+676,16.06.05,HL7740,Asiana AL,13.07.05,330-323X,C
+677,06.06.05,HS-TNA,Thai AW Int,29.06.05,340-642,STD
+678,23.06.05,B-16310,EVA Air,22.07.05,330-203,C
+679,16.06.05,B-LAC,Cathay Pacific AL lsd,27.07.05,330-343E,
+,,OO-SFH,Brussels AL lsd,26.11.19,,C
+680,27.07.05,A7-AED,Qatar AW,29.08.05,330-302,C
+681,24.06.05,HS-TNB,Thai AW Int,26.07.05,340-642,STD
+682,01.08.05,PH-AOA,KLM,25.08.05,330-203,C
+683,27.06.05,SU-GCH,Egyptair,13.08.05,330-243,C
+684,08.07.05,A7-AFP,Qatar AW lsd,19.09.05,330-202,
+,,D-AXGB,Eurowings-SunExpress Germany,03.12.15,*203,C
+,,,Ocean tfd,dueQ2-21,,
+685,30.06.05,A6-ERI,Emirates AL,01.08.05,340-541,
+,,,,,,STD
+686,19.07.05,PH-AOB,KLM,29.09.05,330-203,C
+687,07.07.05,D-AIKI,Lufthansa,09.09.05,330-343E,C
+688,28.07.05,A6-EYE,Etihad AW lsd,30.09.05,330-243,STD
+689,12.07.05,HS-TNC,Thai AW Int,05.10.05,340-642,STD
+690,21.07.05,N811NW,Northwest AL,12.09.05,330-323X,
+,,,Delta AL,29.10.08,,C
+691,18.08.05,B-18307,China AL,21.09.05,330-302,C
+692,06.10.05,B-HWH,Dragonair lsd,23.11.05,330-343E,
+,,9M-XXO,AirAsia X lsd,22.11.13,,
+,,HS-XTC,Thai AirAsia X tfd,r23.02.15,,C
+693,07.09.05,B-16311,EVA Air,03.10.05,330-203,C
+694,06.09.05,A6-ERJ,Emirates AL,29.09.05,340-541,
+,,2-RLAV,Global AW,r22.02.18,,STD
+695,30.08.05,VH-QPH,Qantas,12.10.05,330-303,C
+696,16.09.05,SU-GCI,Egyptair,07.10.05,330-243,
+,,,Air Nigeria lsd,13.05.12,,
+,,,Egyptair ret,ar09.12,,
+,,,Ajwaa AL,10.21,,C
+697,31.08.05,TC-JNA,THY Turkish AL,12.12.05,330-203,C
+698,13.09.05,HS-TLC,Thai AW Int,25.10.05,340-541,
+,,HS-TYV/60204/L19-1/59,Royal Thai Air Force,29.08.16,,C
+699,13.09.05,B-18308,China AL,20.10.05,330-302,C
+700,07.10.05,PT-MVL,TAM lsd,28.10.05,330-203,
+,,TC-AGL,AtlasGlobal AL,20.12.18,,
+,,9H-MFS,Maleth-Aero,02.10.20,,C
+701,26.09.05,D-AIKJ,Lufthansa,04.11.05,330-343E,
+,,OO-SFJ,Brussels AL lsd,10.10.18,,C
+702,15.09.05,EC-JLE,Iberia,18.10.05,340-642,STD
+703,26.10.05,PH-AOC,KLM,21.11.05,330-203,C
+704,15.11.05,TC-JNB,THY Turkish AL,21.12.05,330-203,C
+705,11.10.05,VH-QPI,Qantas,16.11.05,330-303,C
+706,07.10.05,G-VWKD,Virgin Atlantic AW lsd,28.11.05,340-642,SCR
+707,24.10.05,B-18309,China AL,08.12.05,330-302,C
+708,16.11.05,HL7741,Asiana AL,12.12.05,330-323X,C
+709,09.11.05,SU-GCJ,Egyptair,14.12.05,330-243*F,C
+710,27.10.05,HS-TND,Thai AW Int,28.11.05,340-642,STD
+711,01.12.05,A7-AEE,Qatar AW,23.12.05,330-302,C
+712,30.11.05,VH-QPJ,Qantas,19.12.05,330-303,C
+713,21.12.05,B-6119,China Eastern AL,23.01.06,330-343E,
+,,,China Eastern Yunnan AL,16.07.12,,
+,,,China Eastern AL ret,29.09.14,,
+,,9M-XBD,AirAsia X,20.10.18,,
+,,G-EODS,Titan AW,27.08.21,*P2F,C
+714,07.12.05,B-18310,China AL,20.01.06,330-302,C
+715,18.11.05,A7-AGB,Qatar AW,29.09.06,340-642,SCR
+716,22.11.05,B-HWI,Dragonair lsd,18.01.06,330-343E,
+,,9M-XXQ,AirAsia X lsd,19.03.14,,
+,,PK-XRA,Indonesia AirAsia,16.07.14,,
+,,9M-XXQ,AirAsia X tfd,s29.05.21,,C
+717,09.01.06,A6-EYF,Etihad AW,27.02.06,330-243,
+,,,,,,STD
+718,04.01.06,N858NW,Northwest AL,24.01.06,330-223,
+,,,Delta AL,29.10.08,,C
+719,04.11.05,HS-TNE,Thai AW Int,09.12.05,340-642,STD
+720,02.12.05,B-6120,China Eastern AL,25.01.06,330-343E,
+,,,China Eastern Yunnan AL,31.01.13,,
+,,,China Eastern AL ret,27.10.14,,
+,,HS-XTG,Thai AirAsia X,12.04.18,,C
+721,19.01.06,A7-AEF,Qatar AW,17.02.06,330-302,C
+722,19.01.06,N859NW,Northwest AL,08.02.06,330-223,
+,,,Delta AL,29.10.08,,C
+723,04.01.06,G-VBLU,Virgin Atlantic AW lsd,30.01.06,340-642,SCR
+724,27.01.06,A6-EYG,Etihad AW,29.03.06,330-243,STD
+725,02.01.06,B-18351,China AL lsd,10.02.06,330-302,
+,,9S-ABS,CAA-Compagnie Africaine d'Aviation,11.05.22,,C
+726,03.02.06,SU-GCK,Egyptair,27.02.06,330-243,C
+727,30.11.05,EC-JNQ,Iberia,10.02.06,340-642,STD
+728,17.01.06,B-6121,China Eastern AL,28.02.06,330-243,
+,,C-GUBL,Air Transat,27.03.18,,
+,,G-TCCI,Thomas Cook AL lsd,29.10.18,,
+,,,Condor slsd,30.11.18,,
+,,C-GUBL,Air Transat ret,06.05.19,,C
+729,14.02.06,A6-EYH,Etihad AW,24.04.06,330-243,STD
+730,02.03.06,A6-EYI,Etihad AW,20.06.06,330-243,STD
+731,01.02.06,EC-JOH,Iberia,27.03.06,340-642,W/O
+732,02.02.06,B-6122,China Eastern AL,13.03.06,330-243,
+,,C-GUBT,Air Transat,r17.05.18,,C
+733,08.03.06,EC-JPF,Air Europa lsd,31.03.06,330-202,
+,,AP-BNE,Serene Air lsd,27.08.20,,C
+734,24.02.06,A7-AEG,Qatar AW,13.03.06,330-302,C
+735,20.02.06,B-6123,China Eastern AL,28.03.06,330-243,
+,,,,,,SCR
+736,09.02.06,G-VWIN,Virgin Atlantic AW lsd,28.02.06,340-642,
+,,9H-NHS,Maleth-Aero lsd,07.05.20,,
+,,G-ECLD,European Cargo tfd,r04.02.22,,C
+737,22.03.06,A6-EYJ,Etihad AW,29.06.06,330-243,STD
+738,08.04.06,PH-AOD,KLM,25.04.06,330-203,C
+739,21.03.06,D-ALPH,LTU Int'l AW lsd,12.04.06,330-223,
+,,,Air Berlin tfd,03.04.08,,
+,,EI-GCZ,I-Fly lsd,s24.04.18,,C
+740,03.06.06,A7-AGA,Qatar AW,08.09.06,340-642,STD
+741,02.03.06,B-HWJ,Dragonair lsd,20.04.06,330-343E,
+,,9M-XXM,AirAsia X lsd,14.08.13,,
+,,,Air Algerie slsd,09.06.14,,
+,,,AirAsia X ret,21.09.14,,
+,,HS-XTD,Thai AirAsia X tfd,18.08.15,,
+,,EC-NOF,Wamos Air,05.10.21,,C
+742,29.03.06,TC-JNC,THY Turkish AL,11.05.06,330-203,C
+743,31.03.06,A7-ACG,Qatar AW,28.04.06,330-202,C
+744,16.03.06,EC-JPU,Iberia,24.04.06,340-642,STD
+745,15.03.06,EC-JQG,Air Europa lsd,24.04.06,330-202,
+,,EC-JQG,Plus Ultra L.A.,dueQ2-22,,STD
+746,24.04.06,A7-ACI,Qatar AW,17.05.06,330-202,C
+747,30.03.06,EC-330,Royal Australian AF,31.05.06,330-203MRTT,
+,,A39-001,Royal Australian AF,29.12.11,,C
+748,30.03.06,A6-EHA,Etihad AW,09.06.06,340-541,
+,,I-TALY,Italian Air Force,02.02.16,,STD
+749,28.04.06,EC-JQQ,Air Europa lsd,18.05.06,330-202,
+,,EC-NUL,Plus Ultra L.A.,30.06.22,,C
+750,04.05.06,B-6070,Air China,06.06.06,330-243,C
+751,20.04.06,VT-JWD,Jet AW lsd,31.05.06,330-243,
+,,,Gulf Air slsd,06.02.09,,
+,,,Oman Air slsd,14.05.09,,
+,,,Jet AW ret,13.12.09,,
+,,A6-EYY,Air Seychelles lsd,03.07.12,,
+,,S7-ADB,Air Seychelles rr,10.15,,
+,,DQ-FJO,Fiji AW,s12.05.18,,STD
+752,27.04.06,B-18311,China AL,20.06.06,330-302,C
+753,10.05.06,G-VFIT,Virgin Atlantic AW,24.05.06,340-642,
+,,G-ECLB,European Aviation,11.06.20,,
+,,,European Cargo tfd,11.11.21,,C
+754,09.06.06,TC-JND,THY Turkish AL,28.06.06,330-203,C
+755,26.04.06,B-16312,EVA AW,30.05.06,330-203,C
+756,01.06.06,B-6071,Air China,20.06.06,330-243,C
+757,28.04.06,A6-EHB,Etihad AW,13.07.06,340-541,
+,,2-EALI,European Aviation,r05.01.21,,STD
+758,08.06.06,F-ORLY,Air Caraibes lsd,26.06.06,330-323X,C
+759,18.05.06,B-6072,Air China,07.07.06,330-243,C
+760,04.07.06,A7-ACJ,Qatar AW,04.08.06,330-202,
+,,A7-ACS,Qatar AW lsd,13.08.21,,C
+761,11.08.06,A6-EHC,Etihad AW,15.09.06,340-541,
+,,2-EALH,European Aviation,r05.01.21,,STD
+762,17.07.06,D-AIHM,Lufthansa,05.09.06,340-642,SCR
+763,01.09.06,D-AIHN,Lufthansa,27.09.06,340-642,SCR
+764,09.06.06,G-VFIZ,Virgin Atlantic AW,19.07.06,340-642,
+,,F-HHIT,European Aviation,s02.20,,
+,,C5-MIB,Macka Invest Company,s10.05.22,,STD
+765,08.08.06,G-VYOU,Virgin Atlantic AW,23.08.06,340-642,
+,,2-EALJ,European Aviation,29.10.19,,
+,,5N-AAM,Azman Air,06.02.20,,C
+766,13.10.06,A7-AGC,Qatar AW,20.11.06,340-642,
+,,2-AGCC,Castlelake,06.19,,SCR
+767,11.10.06,D-AIHO,Lufthansa,31.10.06,340-642,SCR
+768,05.09.06,G-VRED,Virgin Atlantic AW,19.10.06,340-642,
+,,G-ECLC,European Aviation,29.11.19,,C
+769,22.06.06,B-18312,China AL,24.07.06,330-302,
+,,LY-LEO,GetJet AW,01.02.19,,
+,,9H-LEON,AirHub AL,02.05.22,,C
+770,26.07.06,PH-AOE,KLM,28.08.06,330-203,C
+771,08.11.06,D-AIHP,Lufthansa,28.11.06,340-642,STD
+772,02.06.06,HL7746,Asiana AL,12.07.06,330-323X,C
+773,20.06.06,B-6125,China Eastern AL lsd,28.07.06,330-343E,
+,,HS-XTH,Thai AirAsia X,16.12.18,,C
+774,11.07.06,TC-JNE,THY Turkish AL,28.07.06,330-203,C
+775,13.10.06,HS-TLD,Thai AW Int,11.04.07,340-541,STD
+776,04.07.06,B-LAD,Cathay Pacific AW lsd,25.08.06,330-342,C
+777,29.08.06,B-6126,China Eastern AL,22.09.06,330-343E,
+,,B-LDR,Air Hong Kong,10.06.20,*F,C
+778,10.08.06,N860NW,Northwest AL,21.09.06,330-223,
+,,,Delta AL,29.10.08,,C
+779,28.11.06,VP-CCC,National Air Service lsd,11.12.06,340-642ACJ,
+,,4K-AI08,Azerbaijan AL lsd,12.02.14,,C
+780,30.08.06,B-6073,Air China,26.09.06,330-243,C
+781,04.09.06,B-6127,China Eastern AL,28.09.06,330-343E,
+,,,Shanghai AL,31.03.14,,
+,,B-LDQ,Air Hong Kong,23.08.20,*F,C
+782,01.08.06,B-6128,China Eastern AL,13.09.06,330-343E,
+,,,China Eastern Yunnan AL,06.07.12,,
+,,,China Eastern AL ret,28.10.14,,
+,,9M-XBE,AirAsia X,23.11.18,,C
+783,31.10.06,A6-EHD,Etihad AW,21.12.06,340-541,
+,,G-ECLF,European Skybus,24.10.22,,C
+784,10.10.06,N812NW,Northwest AL,26.10.06,330-323E,
+,,,Delta AL,29.10.08,,C
+785,26.09.06,B-6075,Air China,08.11.06,330-243,STD
+786,09.10.06,B-HWK,Dragonair lsd,25.10.06,330-343E,
+,,9M-XXN,AirAsia X lsd,24.10.13,,
+,,HS-XTB,Thai AirAsia X tfd,01.05.14,,
+,,EC-NOG,Wamos Air,09.11.21,,C
+787,15.11.06,G-VWEB,Virgin Atlantic AW,20.12.06,340-642,
+,,2-EALL,European Aviation,27.02.20,,
+,,9H-PPE,Maleth-Aero lsd,s04.06.20,,C
+788,31.10.06,A6-EYK,Etihad AW,24.11.06,330-243,STD
+789,28.09.06,A7-AEH,Qatar AW,18.10.06,330-302,
+,,EI-EIK,Aer Lingus,02.03.20,,C
+790,03.01.07,D-AIHQ,Lufthansa,26.01.07,340-642,SCR
+791,15.09.06,B-6129,China Eastern AL,23.10.06,330-343E,
+,,HS-XTJ,Thai AirAsia X,10.01.19,,
+,,9H-SMI,SmartLynx AL Malta,27.01.22,,C
+792,12.10.06,A7-ACK,Qatar AW,23.11.06,330-202,C
+793,08.11.06,3B-NBI,Air Mauritius,29.11.06,340-313E,SCR
+794,30.01.07,D-AIHR,Lufthansa,23.02.07,340-642,SCR
+795,24.10.06,G-TCXA,Thomas Cook AL lsd,16.11.06,330-243,
+,,C-GTSJ,Air Transat lsd,18.11.11,,C
+796,18.10.06,N861NW,Northwest AL,09.11.06,330-223,
+,,,Delta AL,29.10.08,,C
+797,31.10.06,B-6076,Air China,06.12.06,330-243,C
+798,16.02.07,A7-AGD,Qatar AW,28.03.07,340-642,
+,,2-AGDD,Castlelake,r18.06.19,,SCR
+799,30.11.06,N813NW,Northwest AL,20.12.06,330-323X,
+,,,Delta AL,29.10.08,,C
+800,27.11.06,3B-NBJ,Air Mauritius,14.12.06,340-313E,SCR
+801,13.11.06,PH-AOF,KLM,15.12.06,330-203,C
+802,23.11.06,I-EEZL,Eurofly lsd,14.12.06,330-223,
+,,EI-EZL,Eurofly rr,27.11.09,,
+,,,Meridiana Fly,28.02.10,,
+,,,Saudi Arabian AL lsd,30.10.11,,
+,,,bmi British Midland lsd,20.05.12,,
+,,,Meridiana Fly ret,08.08.12,,
+,,,THY Turkish AL slsd,16.09.12,,
+,,,Meridiana Fly ret,08.10.13,,
+,,,Conviasa slsd,00.01.14,,
+,,,Meridiana Fly ret,09.05.14,,
+,,CS-TRX,Orbest AL,18.04.15,,
+,,EC-MKT,Evelop! Airline lsd,s08.06.16,,
+,,D-ABXG,Air Berlin,08.12.16,,
+,,EC-MTY,Evelop Airline,15.03.18,,
+,,,,,,STD
+803,15.11.06,HL7747,Asiana AL,18.12.06,330-323X,C
+804,09.02.07,G-VBUG,Virgin Atlantic AW lsd,28.02.07,340-642,SCR
+805,,B-18352,China AL lsd,08.02.07,330-302,C
+806,01.12.06,N814NW,Northwest AL,17.01.07,330-323X,
+,,,Delta AL,29.10.08,,C
+807,29.11.06,VT-JWE,Jet AW lsd,12.01.07,330-243,
+,,,Oman Air slsd,28.04.09,,
+,,,Jet AW ret,19.11.09,,
+,,A6-EYZ,Air Seychelles slsd,07.03.13,,
+,,,Etihad AW ret,26.04.15,,
+,,S7-VDM,Air Seychelles lsd,03.17,,
+,,DQ-FJP,Fiji AW lsd,26.06.18,,STD
+808,,A7-ACL,NOT BUILT,,,
+809,11.01.07,A6-EYL,Etihad AW,31.01.07,330-243,STD
+810,05.12.06,B-6079,Air China,23.01.07,330-243,
+,,EZ-,Turkmenistan AL,due22,,STD
+811,20.12.06,PH-AOH,KLM lsd,02.02.07,330-203,
+,,AP-BMI,Shaheen Air Int lsd,02.03.16,,
+,,LZ-ONE,GullivAir lsd,30.07.20,,C
+812,05.03.07,D-AIHS,Lufthansa,27.03.07,340-642,SCR
+813,21.12.06,A7-AEI,Qatar AW,07.02.07,330-302,C
+814,01.02.07,EC-JZL,Air Europa lsd,22.02.07,330-203,
+,,,National Air Service lsd,19.11.10,,
+,,,Novair slsd,25.02.11,,
+,,,Air Europa ret,11?,,
+,,,,,,STD
+815,12.01.07,B-6080,Air China,16.02.07,330-243,
+,,,,,,STD
+816,,,NOT BUILT,,330-203,
+817,19.01.07,N815NW,Northwest AL,22.02.07,330-323X,
+,,,Delta AL,29.10.08,,C
+818,06.02.07,B-6077,China Southern AL,28.02.07,330-243,
+,,EC-NBN,Wamos Air,23.03.19,,C
+819,24.01.07,PH-AOI,KLM lsd,26.02.07,330-203,
+,,AP-BMJ,Shaheen Air Int lsd,19.04.16,,
+,,TC-AGD,AtlasGlobal AL,23.04.19,,
+,,AP-BNF,Serene Air lsd,24.03.21,,C
+820,31.01.07,A7-ACL,Qatar AW,14.03.07,330-202,
+,,A7-ACT,Qatar AW lsd,13.08.21,,C
+821,21.02.07,B-6082,China Eastern AL,23.03.07,330-243,C
+822,13.02.07,EC-KDF,Air Comet lsd,28.03.07,330-223,
+,,4X-ABE,Israir slsd,03.04.08,,
+,,I-EEZM,Eurofly ret,11.03.09,,
+,,,Meridiana Fly,28.02.10,,
+,,EI-EZJ,ILFC Ireland ret,21.01.13,,
+,,D-ABXD,Air Berlin,13.05.13,,
+,,9M-MTV,Malaysian AL lsd,23.03.18,,C
+823,19.02.07,B-18315,China AL,23.03.07,330-302,C
+824,14.03.07,A6-EYM,Etihad AW,03.05.07,330-243,
+,,D-AIYA,Condor,02.06.22,,C
+825,28.02.07,VT-JWF,Jet AW slsd,27.04.07,330-202,
+,,A6-AGA,Etihad AW,08.01.14,,
+,,I-EJGA,Alitalia slsd,01.06.15,,
+,,,,,,STD
+826,27.02.07,A7-AEJ,Qatar AW,22.03.07,330-302,C
+827,14.03.07,N816NW,Northwest AL,04.04.07,330-323X,
+,,,Delta AL,29.10.08,,C
+828,13.03.07,D-ALPI,LTU Int'l AW lsd,20.04.07,330-223,
+,,,Air Berlin tfd,16.04.08,,
+,,9M-MTW,Malaysian AL lsd,25.06.18,,C
+829,04.05.07,A6-EHE,Etihad AW,29.06.07,340-642,
+,,,European Aviation,r26.11.18,,STD
+830,19.03.07,B-6083,China Eastern AL,16.04.07,330-343E,
+,,,Shanghai AL tfd,16.12.19,,C
+831,27.04.07,VT-JWG,Jet AW lsd,30.05.07,330-202,
+,,A6-AGB,Etihad AW,08.01.14,,
+,,I-EJGB,Alitalia slsd,05.06.15,,
+,,,,,,STD
+832,26.04.07,A6-EYN,Etihad AW,18.06.07,330-243,
+,,,Air Belgium lsd,19.08.22,*P2F,C
+833,27.03.07,EC-KCP,Iberworld lsd,16.04.07,330-343E,
+,,,XL AW slsd,01.05.08,,
+,,CS-TRH,XL AW slsd,12.09.10,,
+,,,Orbest Orizonia AL ret,11.04.11,,
+,,,Garuda Indonesian AW lsd,27.08.11,,
+,,,Orbest Orizonia AL ret,12.12.11,,
+,,,XL AW slsd,16.12.11,,
+,,,Orbest Orizonia AL ret,30.04.12,,
+,,,Garuda Indonesian AW lsd,16.09.12,,
+,,,Orbest Orizonia AL ret,18.10.12,,
+,,,Calima de Aviacion lsd,00.07.13,,
+,,,Evelop Airline,30.11.13,,
+,,,Orbest ret,20.03.16,,
+,,,Iberojet lsd,13.05.21,,C
+834,05.04.07,PH-AOK,KLM lsd,09.05.07,330-203,
+,,AP-BMK,Shaheen Air Int lsd,07.07.16,,
+,,JY-JVB,Jordan Aviation,20.02.20,,C
+835,11.04.07,OH-LQB,Finnair,25.05.07,340-313E,
+,,OO-ABA,Air Belgium,r16.02.18,,
+,,9H-AHUB,AirHub AL,16.02.22,,C
+836,25.04.07,B-6085,China Eastern AL,11.06.07,330-343E,C
+837,01.08.07,A6-EHF,Etihad AW,28.08.07,340-642,
+,,2-EALB,European Aviation,r31.05.18,,STD
+838,28.03.07,B-18316,China AL,16.05.07,330-302,C
+839,16.04.07,B-6081,Air China,15.05.07,330-243,C
+840,18.05.07,B-6078,China Southern AL,02.07.07,330-243,
+,,EC-NCK,Wamos Air,22.06.19,,C
+841,02.05.07,EI-DUO,Aer Lingus,25.05.07,330-202,C
+842,29.05.07,VH-EBE,Jetstar AW lsd,21.06.07,330-202,
+,,,Qantas ret,16.10.15,,C
+843,26.04.07,N817NW,Northwest AL,06.06.07,330-323X,
+,,,Delta AL,29.10.08,,C
+844,01.06.07,OH-LQC,Finnair,21.06.07,340-313E,
+,,OO-ABB,Air Belgium,r16.02.18,,
+,,YR-LRB,Legend AL,due22,,STD
+845,21.06.07,HL7754,Asiana AL,11.07.07,330-323X,C
+846,03.04.08,D-AIHT,Lufthansa,29.04.08,340-642,C
+847,24.05.07,EI-DUZ,Aer Lingus,26.06.07,330-302,C
+848,06.05.08,D-AIHU,Lufthansa,29.05.08,340-642,STD
+849,23.05.07,A7-ACM,Qatar AW,13.06.07,330-202,C
+850,27.06.07,B-LAE,Cathay Pacific AW,27.07.07,330-342,C
+851,26.06.07,B-6095,China Eastern AL,16.07.07,330-343E,C
+852,05.07.07,A6-EYO,Etihad AW,20.09.07,330-243,
+,,D-AIYB,Condor,05.04.22,,C
+853,13.07.07,VH-EBF,Jetstar AW lsd,24.08.07,330-202,
+,,,Qantas AW ret,r20.08.15,,STD
+854,02.08.07,A6-EYP,Etihad AW,15.10.07,330-243,
+,,EI-MAA,MasAir Cargo,01.03.22,*F,C
+855,10.08.07,B-LAF,Cathay Pacific AW,31.08.07,330-343E,C
+856,21.09.07,A6-AHG (due),Etihad AW,,340-642,W/O
+857,04.07.07,N818NW,Northwest AL,01.08.07,330-323X,
+,,,Delta AL,29.10.08,,C
+858,10.07.07,N819NW,Northwest AL,05.09.07,330-323X,
+,,,Delta AL,29.10.08,,C
+859,01.08.07,N820NW,Northwest AL,13.09.07,330-323X,
+,,,Delta AL,29.10.08,,C
+860,11.07.07,B-6090,Air China,04.09.07,330-243,C
+861,04.09.07,B-18317,China AL,01.10.07,330-302,C
+862,,B-6096,China Eastern AL,11.09.07,330-343E,
+,,,Shanghai AL,25.10.13,,C
+863,20.09.07,3B-TSL,Midroc Aviation,23.11.07,330-243,
+,,UP-A3001,Kazakhstan Gvmt,09.03.10,,C
+864,,,NOT BUILT,,330-200,
+865,08.08.07,N821NW,Northwest AL,16.10.07,330-323X,
+,,,Delta AL,29.10.08,,C
+866,,B-6097,China Eastern AL,25.09.07,330-343E,
+,,,Shanghai AL,01.11.13,,
+,,,China Eastern AL tfd,05.12.20,,C
+867,24.09.07,B-6091,Air China,22.10.07,330-243,C
+868,07.09.07,A6-EYQ,Etihad AW,28.09.07,330-243,
+,,XA-,MasAir Cargo,27.01.22,*F,C
+869,24.10.07,PT-MVM,TAM,30.11.07,330-223,
+,,TC-JIO,THY Turkish AL lsd,27.06.14,,C
+870,31.10.07,A6-EHH,Etihad AW,21.12.07,340-642,
+,,,,,,STD
+871,25.09.07,EC-332,EADS CASA/Airbus,21.12.07,330-203,
+,,F-WWCB,Airbus test rr,23.08.13,,
+,,9H-LFS,Maleth-Aero lsd,17.02.21,,C
+872,,,NOT BUILT,,330-200,
+873,05.10.07,B-6092,Air China,31.10.07,330-243,C
+874,09.04.08,VT-VJK,Kingfisher AL slsd,12.06.08,330-223,
+,,D-ALAA,Lufthansa Technik,00.05.13,,
+,,TC-LNA,THY Turkish AL,18.06.15,,
+,,LZ-AWZ,GullivAir lsd,26.02.21,,C
+875,18.10.07,B-6116,Hainan AL lsd,13.11.07,330-243,C
+876,29.10.07,PT-MVN,TAM,12.12.07,330-223,
+,,TC-JIP,THY Turkish AL lsd,02.09.14,,C
+877,23.10.07,CS-TOL,TAP Air Portugal,26.11.07,330-202,
+,,LV-KAN,Aerolineas Argentinas,13.04.22,,C
+878,,,NOT BUILT,,330-200,
+879,26.10.07,B-6086,China Southern AL,13.12.07,330-343E,
+,,TC-MCM,MNG Cargo,17.11.21,*F,C
+880,,,NOT BUILT,,330-200,
+881,15.11.07,B-6118,Hainan AL lsd,11.12.07,330-243,C
+882,29.10.07,VT-JWH,Jet AW lsd,16.11.07,330-202,
+,,TC-JIL,THY Turkish AL lsd,07.03.14,,
+,,,,,,STD
+883,06.11.07,3B-NBM,Air Mauritius,07.12.07,330-202,
+,,7O-AFE,Yemenia,04.02.22,,C
+884,09.11.07,B-6093,Air China,03.12.07,330-243,C
+885,20.11.07,VT-JWJ,Jet AW lsd,05.12.07,330-202,
+,,,Etihad AW slsd,29.05.13,,
+,,A6-EYC,Etihad AW,17.09.13,,
+,,YU-ARA,Air Serbia lsd,11.05.16,,STD
+,,JY- ,Jordan Aviation,due22,,
+886,06.02.08,4K-AZ85,Azerbaijan AL lsd,24.12.12,340-542,C
+887,26.11.07,VH-EBG,Qantas,13.12.07,330-202,C
+888,29.11.07,VT-JWK,Jet AW lsd,17.12.07,330-202,
+,,A6-EYA,Etihad AW slsd,30.08.13,,
+,,VT-JWW,Jet AW ret,07.15,,STD
+889,27.11.07,B-6087,China Southern AL,19.12.07,330-343E,
+,,TC-MCN,MNG AL,05.06.21,,C
+890,29.11.07,B-6113,Air China,11.01.08,330-243,C
+891,23.05.08,VT-VJL,Kingfisher AL lsd,26.06.08,330-223,
+,,EI-EWH,Skua Ltd,29.03.12,,
+,,5N-JIC,Arik Air lsd,08.07.13,,
+,,N819CA,National AL lsd ntu,,,STD
+892,17.12.07,VH-EBH,Qantas lsd,22.01.08,330-202,
+,,EC-339,MRTT,s28.08.17,*MRTT,
+,,A39-006,Royal Australian AF,01.09.17,,C
+893,18.12.07,A7-AEM,Qatar AW,28.01.08,330-302,
+,,EI-EIL,Aer Lingus,16.03.21,,C
+894,09.04.08,4K-AZ86,Azerbaijan AL lsd,22.12.12,340-542,C
+895,19.12.07,B-LAG,Cathay Pacific AW lsd,23.01.08,330-342,
+,,OO-SFC,Brussels AL lsd,r15.03.18,,C
+896,09.01.08,D-AIKK,Lufthansa,31.01.08,330-343E,C
+897,05.03.08,D-AIHV,Lufthansa,28.03.08,340-642,STD
+898,17.01.08,VH-EBI,Qantas lsd,08.02.08,330-202,
+,,EC-334,MTAD,,*MRTT,
+,,A39-007,Royal Australian AF,16.05.19,,C
+899,14.01.08,CS-TOM,TAP Air Portugal,05.02.08,330-202,
+,,LV-KAO,Aerolineas Argentinas,18.07.22,,C
+900,28.01.08,PH-AOL,KLM lsd,14.02.08,330-203,
+,,AP-BML,Shaheen Air Int lsd,30.03.16,,
+,,TC-AGF,AtlasGlobal AL,16.07.19,,
+,,AP-BNG,Serene Air lsd,02.06.21,,C
+901,11.01.08,VT-JWL,Jet AW lsd,01.02.08,330-202,
+,,TC-JIM,THY Turkish AL,16.03.14,,
+,,,,,,STD
+902,29.05.08,F-WJKN,Tunisian Gvmt,30.11.09,340-542,
+,,TS-KRT,Tunisian Gvmt,19.12.09,,
+,,TC-CAN,Turkish Gvmt,01.17,,C
+903,28.01.08,B-6117,Air China,20.02.08,330-243,C
+904,30.01.08,CS-TON,TAP Air Portugal,19.02.08,330-202,STD
+905,29.01.08,D-AIKL,Lufthansa,05.03.08,330-343E,C
+906,12.02.08,B-6088,Hainan AL lsd,11.03.08,330-243,C
+907,07.02.08,A7-AEN,Qatar AW,03.03.08,330-302,C
+908,21.02.08,B-6098,China Southern AL,17.03.08,330-343E,
+,,TC-OCS,Onur Air,24.11.19,,
+,,9H-SMA,SmartLynx AL Malta,11.10.21,,C
+909,07.02.08,B-6115,Air China,11.03.08,330-243,C
+910,17.06.08,F-WJKH,Arik Air,30.09.08,340-542,
+,,CS-TFW,Arik Air,11.12.08,,SCR
+911,13.02.08,D-ALPJ,Air Berlin,31.03.08,330-223,
+,,9M-MTX,Malaysian AL lsd,25.05.18,,C
+912,18.07.08,CS-TFX,Arik Air,29.04.09,340-542,
+,,,Hi Fly ret,08.06.15,,C
+913,25.02.08,D-AIKM,Lufthansa,19.03.08,330-343E,C
+914,11.03.08,CS-TOO,TAP Air Portugal,02.04.08,330-202,C
+915,26.03.08,B-LAH,Cathay Pacific AW lsd,30.04.08,330-342,
+,,OO-SFB,Brussels AL lsd,r08.02.18,,C
+916,28.02.08,B-6099,China Eastern AL,03.04.08,330-243,C
+917,15.05.08,7T-VPP,Algerian Government,10.06.08,340-541,C
+918,06.03.08,A7-AEO,Qatar AW,14.04.08,330-302,C
+919,11.03.08,B-6089,Hainan AL lsd,15.04.08,330-243,
+,,,Tianjin AL slsd,r03.05.16,,
+,,,Hainan AL ret,12.16,,C
+920,20.03.08,B-18353,China AL lsd,02.05.08,330-302,C
+921,30.04.08,OH-LQD,Finnair lsd,29.05.08,340-313E,
+,,OO-ABD,Air Belgium,r15.08.18,,
+,,YR-LRC,Legend AL,r22.07.22,,C
+922,17.04.08,D-AIKN,Lufthansa,21.05.08,330-343E,C
+923,29.04.08,VT-JWM,Jet AW lsd,29.05.08,330-202,
+,,,Etihad AW slsd,06.06.13,,
+,,A6-EYB,Etihad AW rr,07.08.13,,
+,,VT-JWV,Jet AW ret,21.05.14,,STD
+924,29.08.08,F-WJKG,Royal Jordanian AF,24.10.08,340-642CJ,
+,,HZ-AA,Alpha Star Aviation Svcs,15.06.15,,
+,,HZ-SKY,Sky Prime Aviation Svcs tfd,29.12.15,,C
+925,18.04.08,PH-AON,KLM lsd,11.04.13,330-203,
+,,,,,,STD
+926,22.05.08,F-ORMA,MEA - Middle East AL,16.06.08,330-243,
+,,OD-MED,MEA - Middle East AL,13.05.13,,C
+927,26.05.08,VT-VJN,Kingfisher AL lsd,29.08.08,330-223,
+,,EI-EWG,Nightjar Ltd,29.03.12,,
+,,5N-JID,Arik Air,29.10.13,,
+,,,Pembroke ret,28.09.17,,SCR
+928,25.04.08,B-6100,China Eastern AL,25.07.08,330-343E,C
+929,01.10.08,A6-EHI,Etihad AW,29.10.08,340-642,
+,,2-EALC,European Aviation,r20.07.18,,
+,,EC-NFO,Plus Ultra L.A.,due05.20,,STD
+930,04.06.08,B-6130,Air China,23.06.08,330-243,C
+931,15.05.08,EC-KOM,Air Europa lsd,18.06.08,330-202,
+,,,Novair slsd,01.12.10,,
+,,,Air Europa ret,25.02.11,,
+,,,Novair slsd,01.12.12,,
+,,,Air Europa ret,30.03.13,,
+,,,Plus Ultra L.A.,09.06.22,,C
+932,05.06.08,VT-JWN,Jet AW lsd,27.06.08,330-202,
+,,TC-JIN,THY Turkish AL,06.05.14,,
+,,SX,Olympus AW,due05.22,,STD
+933,07.11.08,A6-EHJ,Etihad AW,15.12.08,340-642,
+,,EC-NFP,Plus Ultra L.A.,20.11.19,,
+,,G-ECLA,European Aviation,04.02.21,,
+,,C5-MIC,Macka Invest Company,29.05.22,,STD
+934,29.05.08,CS-TOP,TAP Air Portugal,18.06.08,330-202,C
+935,19.06.08,B-6111,China Southern AL,10.07.08,330-343E,
+,,EC-NHM,Wamos Air,03.07.20,,C
+936,19.06.08,B-6506,China Eastern AL,30.07.08,330-343E,C
+937,19.06.08,B-6112,China Southern AL,17.07.08,330-343E,
+,,9H-SMC,SmartLynx AL Malta,28.06.21,,
+,,B-6112,Sichuan AL,due22,*F,C
+938,02.07.08,OH-LQE,Finnair,31.07.08,340-313E,
+,,OO-ABE,Air Belgium,28.06.18,,
+,,9H-HOP,Airhub AL,08.12.21,,C
+939,09.07.08,VT-VJO,Kingfisher AL lsd,22.08.08,330-223,
+,,D-ALAB,Lufthansa Technik,08.05.13,,
+,,TC-LNB,THY Turkish AL,05.09.15,,
+,,,TAME Ecuador lsd,02.06.17,,
+,,,THY Turkish AL ret,03.08.17,,
+,,LZ-AWY,GullivAir lsd,25.02.21,,C
+940,20.05.08,VH-EBJ,Qantas lsd,06.06.08,330-202,
+,,,Jetstar AW slsd,07.12.10,,
+,,,Qantas ret,s17.04.15,,C
+941,07.07.08,B-6131,Air China,25.07.08,330-243,C
+942,11.07.08,B-6507,China Eastern AL,08.08.08,330-343E,C
+943,01.08.08,EC-KUO,Air Comet lsd,28.08.08,330-223,
+,,EI-ELI,AALN,30.12.09,,
+,,VN-A376,Vietnam AL lsd,19.07.10,,
+,,,Bamboo AW lsd ntu,,,STD
+944,08.07.08,B-6132,Air China,25.08.08,330-243,C
+945,01.07.08,VH-EBK,Qantas lsd,05.08.08,330-202,
+,,,Jetstar AW,29.11.09,,
+,,,Qantas AW ret,r13.08.15,,C
+946,30.07.08,VT-VJP,Kingfisher AL lsd,27.08.08,330-223,
+,,D-ANJB,Lufthansa Technik,03.05.13,,
+,,VN-A383,Vietnam AL lsd,04.07.14,,
+,,EI-GCU,I-Fly lsd,08.12.17,,STD
+947,14.08.08,VT-JWP,Jet AW lsd,24.09.08,330-202,
+,,,,,,STD
+948,02.09.08,N948AC,Avianca lsd,30.09.08,330-243,
+,,G-TCXB,Thomas Cook AL lsd,17.06.15,,
+,,,Sunclass AL lsd,r07.12.19,,
+,,,,,,STD
+949,28.08.08,PT-MVO,TAM,02.10.08,330-223,
+,,TC-JIR,THY Turkish AL lsd,25.07.14,,C
+950,16.07.08,EC-KTG,Air Europa lsd,04.09.08,330-202,
+,,,Finnair slsd,12.11.08,,
+,,,Air Europa ret,06.04.09,,
+,,,Novair slsd,01.12.11,,
+,,,Air Europa ret,30.03.12,,STD
+,,G-KJAS,Hans Air lsd,due22,,
+951,14.04.08,EC-333,Royal Australian AF,22.05.08,330-203,
+,,A39-002,Royal Australian AF,22.06.11,,C
+952,26.09.08,9M-XXA,AirAsia X,31.10.08,330-343E,
+,,,National Air Services lsd,27.10.14,,
+,,,AirAsia X ret,s14.02.16,,
+,,VN-A810,VietJet Air,31.03.22,,C
+953,06.08.08,HS-TNF,Thai AW Int,29.10.08,340-642,STD
+954,02.09.08,B-6500,China Southern AL,24.09.08,330-343E,
+,,9H-SME,SmartLynx AL Malta,20.06.21,,C
+955,17.09.08,M-ABUS,Global Jet Luxembourg,08.10.08,340-313ECJ,
+,,M-IABU,Klaret Aviation,18.12.09,,
+,,,Global Jet Luxembourg,03.05.12,,
+,,,Margaux Aviation,17.02.21,,C
+956,10.09.08,VT-JWQ,Jet AW slsd,24.12.08,330-202,
+,,,,,,STD
+957,09.09.08,B-6505 ,Air China,15.10.08,330-243,C
+958,01.10.08,B-6502,China Southern AL,21.10.08,330-343E,
+,,9H-VDC,Galistair Malta,16.05.22,*F,C
+959,03.10.08,B-LAI,Cathay Pacific AW lsd,27.10.08,330-342,
+,,OO-SFD,Brussels AL lsd,22.05.18,,C
+960,14.01.09,EC-LEU,Iberia,01.07.09,340-642,STD
+961,01.10.08,PT-MVP,TAM,29.10.08,330-223,
+,,OE-ICZ,AMES-CAMO,00.05.14,,
+,,TC-JIS,THY Turkish AL lsd,12.09.14,,C
+962,20.10.08,EC-KVS,Air Comet,07.11.08,330-223,
+,,EI-ELJ,AALN,30.12.09,,
+,,VN-A377,Vietnam AL lsd,31.08.10,,
+,,2-RLAY,UMB Bank ret,r22.10.18,,STD
+963,30.10.08,VP-BLX,Aeroflot lsd,19.11.08,330-243,
+,,EC-NUI,Wamos Air,09.05.22,,C
+964,02.10.08,B-6501,China Southern AL,12.11.08,330-343E,
+,,,MasAir Cargo,23.10.22,*F,C
+965,05.11.08,F-OONE,Air Caraibes lsd,11.12.08,330-323E,
+,,EI-GPJ,I-Fly lsd,28.11.19,,C
+966,29.10.08,XA-MXP,Mexicana lsd,26.11.06,330-243,
+,,C-GTSR,Air Transat lsd,30.09.10,,
+,,,Garuda Indonesian AW slsd,27.08.14,,
+,,,Air Transat ret,07.11.14,,
+,,,Air Caraibes lsd,08.12.15,,
+,,,Air Transat ret,ar04.16?,,
+,,,Air Caraibes lsd,13.12.16,,C
+967,17.10.08,N967CG,Avianca slsd,25.11.08,330-243,
+,,G-TCXC,Thomas Cook AL lsd,29.04.16,,
+,,,Sunclass AL lsd,12.12.19,,
+,,,,,,STD
+968,23.10.08,PT-MVQ,TAM,28.11.08,330-223,
+,,D-ABXE,Air Berlin,18.12.16,,
+,,9M-MTY,Malaysian AL lsd,26.12.18,,C
+969,24.10.08,EC-334,MTAD,08.12.08,330-203,
+,,A39-003,Royal Australian AF,16.05.19,*203MRTT,C
+970,05.11.08,EC-KXB,Air Comet lsd,02.12.08,330-223,
+,,JY-AIE,Royal Jordanian AL lsd,21.05.10,,
+,,CS-TRY,SATA-Azores AL lsd,04.02.16,,
+,,9H-CFS,Maleth-Aero,14.02.22,,C
+971,12.11.08,XA-MXQ,Mexicana lsd,17.12.08,330-243,
+,,C-GTSZ,Air Transat lsd,30.09.10,,
+,,,Condor slsd,31.10.17,,
+,,,Air Transat ret,14.04.18,,C
+972,03.12.08,D-AIHW,Lufthansa,22.12.08,340-642,STD
+973,01.12.08,VP-BLY,Aeroflot lsd,18.12.08,330-243,
+,,YU-ARB,Air Serbia lsd,24.04.21,,C
+974,03.12.08,9M-XXB,AirAsia X,18.12.08,330-343E,
+,,VN-A811,VietJet Air,25.12.21,,C
+975,21.11.08,A6-EYR,Etihad AW lsd,13.01.09,330-243,
+,,D-AIYC,Condor lsd,09.02.22,,C
+976,14.11.08,VH-EBL,Qantas lsd,12.12.08,330-203,C
+977,04.12.08,PT-MVR,TAM,30.12.08,330-223,
+,,TC-JIT,THY Turkish AL lsd,00.09.14,,C
+978,16.12.08,9V-STA,Singapore AL lsd,20.01.09,330-343E,
+,,HS-XTI,Thai AirAsia X,28.09.18,,C
+979,10.12.08,EC-KYC,Air Comet lsd,23.01.09,330-223,
+,,JY-AIF,Royal Jordanian AL lsd,21.05.10,,
+,,VP-BUA,Nordwind AL lsd,25.06.18,,
+,,RA-73328,Nordwind AL rr,29.04.22,,C
+980,27.01.09,EC-338,MTAD,09.11.09,330-202,
+,,2401,Royal Saudi Air Force,25.06.13,,C
+981,27.01.09,D-AIHX,Lufthansa,25.02.09,340-642,STD
+982,05.01.09,B-6133,Hainan AL lsd,18.02.09,330-243,C
+983,23.01.09,9V-STB,Singapore AL lsd,17.02.09,330-343E,
+,,OO-SFG,Brussels AL lsd,08.11.18,,C
+984,13.01.09,OD-MEA,MEA - Middle East AL,05.02.09,330-243,C
+985,15.12.08,EI-EAV,Aer Lingus,27.02.09,330-302,C
+986,05.02.09,9V-STC,Singapore AL lsd,24.02.09,330-343E,
+,,C-GHKC,Air Canada lsd,21.12.20,,C
+987,27.02.09,D-AIHY,Lufthansa,24.03.09,340-642,C
+988,02.02.09,PK-GPJ,Garuda Indonesian AW lsd,24.04.09,330-243,
+,,B-8549,Beijing Capital AL,01.08.16,,C
+989,14.01.09,D-AIKO,Lufthansa,18.02.09,330-343E,C
+990,02.03.09,HS-TEN,Thai AW Int,01.04.09,330-343E,C
+991,28.01.09,A6-EYS,Etihad AW lsd,04.03.09,330-243,
+,,D-AIYD,Condor lsd,07.03.22,,C
+992,17.03.09,A9C-KJ,Gulf Air,18.05.09,330-243,
+,,EC-MAJ,Air Europa lsd,21.03.14,,
+,,,Wamos Air,30.09.20,,C
+993,29.07.09,EC-LCZ,Iberia,29.09.09,340-642,STD
+994,17.02.09,OH-LTM,Finnair lsd,26.03.09,330-302E,C
+995,16.02.09,OD-MEC,MEA - Middle East AL,20.05.09,330-243,C
+996,10.03.09,EC-331,MTAD,07.07.10,330-202,
+,,2402,Royal Saudi Air Force,16.02.13,,C
+997,05.03.09,9V-STD,Singapore AL,27.03.09,330-343E,
+,,CS-TOU,TAP Air Portugal,10.04.17,,
+,,C-GEFA,Air Canada,16.04.19,,C
+998,19.02.08,OD-MEB,MEA - Middle East AL,25.03.09,330-243,C
+999,18.06.09,5A-ONF,Afriqiyah AW,11.08.09,330-202,W/O
+1000,23.03.09,HB-JHA,Swiss Int'l AL,15.04.09,330-343E,C
+1001,05.03.09,HL7792,Asiana AL lsd,23.04.09,330-323E,C
+1002,06.05.09,F-WJKL,HSH Nordbank,30.07.09,330-223,
+,,5N-EIA,Arik Air lsd,10.06.10,,
+,,JY-AIG,Royal Jordanian AL lsd,29.07.11,,
+,,VP-BUB,Nordwind AL lsd,24.07.18,,STD
+1003,07.04.09,HS-TEO,Thai AW Int,07.05.09,330-343E,C
+1004,05.11.09,TC-JDO,THY Turkish AL,29.09.10,330-243F,C
+1005,14.04.09,D-AIHZ,Lufthansa,06.05.09,340-642,STD
+1006,25.03.09,9V-STE,Singapore AL lsd,08.04.09,330-343E,
+,,CS-TOV,TAP Air Portugal,22.05.17,,
+,,C-GEGC,Air Canada,23.05.19,,C
+1007,10.04.09,OH-LTN,Finnair lsd,24.04.09,330-302E,C
+1008,24.03.09,CS-TFZ,Hi Fly lsd,28.04.09,330-243,
+,,,Garuda Indonesian AW lsd,20.10.09,,
+,,,Hi Fly ret,01.01.10,,
+,,,Belgium AF lsd,10.03.10,,
+,,,Hi Fly ret,20.04.10,,
+,,,XL AW France slsd,01.07.10,,
+,,,Hi Fly ret,20.12.10,,
+,,,XL AW France slsd,14.08.11,,
+,,,Garuda Indonesian AW slsd,27.09.11,,
+,,,Hi Fly ret,11.12.11,,
+,,,Corsair slsd,28.05.12,,
+,,,Hi Fly ret,19.12.12,,
+,,,Garuda Indonesian AW slsd,05.09.13,,
+,,,National Air Services slsd,24.03.14,,
+,,,Hi Fly ret,21.10.14,,
+,,4R-ALS,Srilankan AL lsd,03.10.18,,C
+1009,07.04.09,N968AV,Avianca lsd,29.04.09,330-243,C
+1010,01.04.09,9V-STF,Singapore AL,29.04.09,330-343E,
+,,OO-SFE,Brussels AL,16.05.18,,C
+1011,10.04.09,N279AY,US AW,02.06.09,330-243,
+,,,American AL,10.12.13,,STD
+1012,22.04.09,9V-STG,Singapore AL lsd,13.05.09,330-343E,
+,,CS-TOW,TAP Air Portugal,27.07.17,,
+,,C-GEGI,Air Canada,11.09.19,,C
+1013,30.03.09,OH-LTO,Finnair lsd,15.05.09,330-302E,STD
+1014,19.05.09,VQ-BBE,Aeroflot lsd,11.06.09,330-243,
+,,LY-PLW,Heston AL,07.12.21,,C
+1015,30.04.09,9V-STH,Singapore AL lsd,28.05.09,330-343E,
+,,CS-TOX,TAP Air Portugal,23.08.17,,
+,,C-GEGP,Air Canada,08.10.19,,C
+1016,06.05.09,N969AV,Avianca lsd,28.05.09,330-243,
+,,G-TCXD,Thomas Cook AL lsd,05.04.19,,
+,,N819CA,National AL lsd,25.10.19,,C
+1017,12.06.09,EC-KZI,Iberia,29.06.09,340-642,STD
+1018,19.05.09,HB-JHB,Swiss Int'l AL,10.06.09,330-343E,C
+1019,23.03.09,F-WJKM,HSH Nordbank,31.07.09,330-223,
+,,VN-A378,Vietnam AL lsd,03.07.10,,
+,,,,,,STD
+1020,12.06.09,PK-GPH,Garuda Indonesian AW lsd,29.06.09,330-243,
+,,B-8019,Beijing Capital AL,11.07.15,,C
+1021,02.06.09,F-GOTO,Air Caraibes lsd,18.06.09,330-323E,
+,,EI-GOT,I-Fly lsd,15.06.19,,C
+1022,04.06.09,N280AY,US AW,18.06.09,330-243,
+,,,American AL,10.12.13,,STD
+1023,27.04.09,OH-LTP,Finnair,18.06.09,330-302E,C
+1024,12.08.09,5A-ONG,Afriqiyah AW,08.09.09,330-202,W/O
+1025,12.05.09,EI-EDY,Aer Lingus,12.06.09,330-302,
+,,G-EIDY,Aer Lingus UK tfd,01.10.21,,C
+1026,18.06.09,HB-JHD,Swiss Int'l AL,26.08.09,330-343E,C
+1027,,,NOT BUILT,,340-642,
+1028,26.06.09,PK-GPK,Garuda Indonesian AW lsd,21.07.09,330-243,
+,,B-8550,Beijing Capital AL lsd,15.11.16,,C
+1029,25.06.09,HB-JHC,Swiss Int'l AL,29.07.09,330-343E,C
+1030,23.07.09,A6-EHK,Etihad AW,17.08.09,340-642,
+,,9H-PGS,Maleth-Aero,01.03.19,,C
+1031,24.11.09,B-LNC,Hong Kong AL,21.05.10,330-223,C
+1032,20.01.10,A6-DCA,Etihad AW,09.08.10,330-243F,
+,,D-ALMC,DHL Air-EAT,01.10.18,,
+,,EI-HEE,ASL AL Ireland tfd,21.03.20,,
+,,B-LDS,Air Hong Kong tfd,05.01.21,,C
+1033,04.06.09,EC-335,MTAD,10.07.09,330-243,
+,,G-VYGE,Airtanker,01.08.14,,
+,,ZZ334,Royal AF-RAF,13.08.14,,C
+1034,15.07.10,B-6521,Hainan AL lsd,06.08.10,330-223,
+,,B-LNI,Hong Kong AL ret,29.06.11,,C
+1035,06.07.09,HS-TEP,Thai AW Int,29.07.09,330-343E,C
+1036,,EC-336,MTAD,19.08.09,330-203,
+,,A39-004,Royal Australian AF,08.11.11,,C
+1037,30.07.09,HS-TEQ,Thai AW Int,23.12.09,330-343E,C
+1038,13.08.09,A4O-DA,Oman Air lsd,14.09.09,330-243,C
+1039,06.11.09,B-LNE,Hong Kong AL,17.09.10,330-223,C
+1040,06.08.09,A6-EHL,Etihad AW,23.09.09,340-642,
+,,2-EALA,European Aviation,r08.05.18,,
+,,EC-NFQ,Plus Ultra L.A.,21.01.20,,C
+1041,20.08.09,N281AY,US AW lsd,11.09.09,330-243,
+,,,American AL,10.12.13,,STD
+1042,27.10.09,B-LND,Hong Kong AL,12.05.10,330-223,C
+1043,07.09.09,5A-ONH,Afriqiyah AW,01.10.09,330-202,STD
+1044,10.09.09,A4O-DB,Oman Air,01.10.09,330-343,C
+1045,03.08.09,VQ-BBF,Aeroflot lsd,08.09.09,330-243,
+,,LY-TKL,Heston AL,22.10.21,,C
+1046,18.08.09,EC-337,MTAD,07.09.09,330-243,
+,,G-VYGA,Airtanker,22.12.11,,
+,,ZZ330,Royal AF,05.04.12,,C
+1047,12.08.09,VQ-BBG,Aeroflot lsd,18.09.09,330-243,
+,,LY-MAC,Heston AL,25.02.22,,C
+1048,14.09.09,9M-XXC,AirAsia X,30.09.09,330-343E,C
+1049,02.10.09,A4O-DC,Oman Air lsd,26.10.09,330-243,C
+1050,,,NOT BUILT,,330-243,
+1051,30.06.10,B-LNZ,Hong Kong AL,03.09.10,330-243F,C
+1052,12.10.09,PK-GPI,Garuda Indonesian AW lsd,30.10.09,330-243,
+,,B-8221,Beijing Capital AL lsd,26.11.15,,C
+1053,10.09.09,VP-CAC,Comlux Aviation,19.11.09,330-243CJ,
+,,,Constellation Aviation Services,25.05.12,,C
+1054,13.10.10,B-LNG,Hong Kong AL,28.10.10,330-223,C
+1055,10.09.09,HL7793,Asiana AL lsd,27.10.09,330-323E,C
+1056,,VT-JWR,NOT BUILT,,330-202,
+1057,24.09.09,3B-NBL,Air Mauritius,28.10.09,330-202,
+,,,,,,STD
+1058,08.10.09,VQ-BCQ,Aeroflot lsd,29.10.09,330-343E,
+,,HS-XTK,Thai AirAsia X,09.12.19,,
+,,HL8501,T'Way Air,24.02.22,,C
+1059,11.10.10,B-LNF,Hong Kong AL lsd,18.11.10,330-223,C
+1060,19.10.09,HS-TER,Thai AW Int,23.12.09,330-343E,C
+1061,03.11.09,VH-EBM,Qantas lsd,23.11.09,330-202,C
+1062,11.10.10,B-LNY,Hong Kong AL,03.11.10,330-243F,C
+1063,23.10.09,A4O-DD,Oman Air,30.11.09,330-343E,C
+1064,,,NOT BUILT,,330-202,
+1065,06.11.09,VQ-BCU,Aeroflot lsd,30.11.09,330-343E,
+,,HS-XTL,Thai AirAsia X,24.01.20,,
+,,HL8502,T'Way Air,31.03.22,,C
+1066,21.10.09,9M-XXD,AirAsia X,18.11.09,330-343E,C
+1067,26.10.09,OH-LTR,Finnair lsd,17.12.09,330-302E,C
+1068,,,NOT BUILT,,330-223,
+1069,06.11.09,N282AY,US AW lsd,24.11.09,330-243,
+,,,American AL,10.12.13,,STD
+1070,01.09.10,A6-DCB,Etihad AW,17.09.10,330-243F,
+,,D-ALMD,DHL Air-EAT,06.09.18,,C
+,,EI-HEF,ASL AL Ireland tfd,due20,,
+1071,02.12.09,A6-AFA,Etihad AW,23.12.09,330-343E,STD
+1072,19.11.09,VQ-BCV,Aeroflot lsd,10.12.09,330-343E,
+,,HL8500,T'Way Air,19.05.22,,C
+1073,18.11.09,N973AV,Avianca slsd,07.12.09,330-243,STD
+1074,06.11.09,HS-TES,Thai AW Int,23.12.09,330-343E,C
+1075,10.11.09,9M-XXE,AirAsia X,22.12.09,330-343E,C
+1076,18.11.09,N283AY,US AW lsd,07.12.09,330-243,
+,,,American AL,10.12.13,,STD
+1077,08.12.09,VQ-BEK,Aeroflot lsd,19.01.10,330-343E,
+,,F-HJAZ,Corsair lsd,14.02.20,,C
+1078,23.11.09,OH-LTS,Finnair,11.02.10,330-302E,STD
+1079,26.01.10,EC-LEV,Iberia,26.03.10,340-642,STD
+1080,10.12.09,EC-339,MTAD,28.01.10,330-243,
+,,1300,United Arab Emirates AF,26.02.12,,C
+1081,10.12.09,A6-AFB,Etihad AL,28.01.10,330-343E,STD
+1082,12.01.10,B-6518,Sichuan AL lsd,04.02.10,330-243,
+,,TC-NYP,Air Anka Hava Yollari,13.08.22,,C
+1083,,,NOT BUILT,,340-642,
+1084,21.12.09,HB-JHE,Swiss Int'l AL,28.01.10,330-343E,C
+1085,17.12.09,9V-STI,Singapore AL lsd,05.02.10,330-343E,
+,,OO-SFX,Brussels AL lsd,24.02.16,,C
+1086,18.01.10,HS-TET,Thai AW Int,29.03.10,330-343E,C
+1087,03.02.10,B-6512,Air China,09.03.10,330-343E,C
+1088,17.02.10,OH-LTT,Finnair,15.04.10,330-302E,C
+1089,03.02.10,HB-JHF,Swiss Int'l AL,16.04.10,330-343E,C
+1090,09.02.10,HS-TEU,Thai AW Int,29.03.10,330-343E,C
+1091,11.05.10,9K-GBA,Kuwait Government,11.06.10,340-542CJ,C
+1092,18.05.11,TC-JDP,THY Turkish AL,22.06.11,330-243F,C
+1093,24.02.10,A4O-DE,Oman Air,23.03.10,330-343E,C
+1094,01.02.10,VH-EBN,Qantas lsd,23.02.10,330-202,C
+1095,09.02.10,N284AY,US AW,24.03.10,330-243,
+,,,American AL,10.12.13,,STD
+1096,25.02.10,B-6135,China Southern AL,31.03.10,330-223,C
+1097,19.02.10,EC-LEQ,Iberworld lsd,16.03.10,330-343E,
+,,,PAL AL slsd,00.12.10,,
+,,,Iberworld ret,07.03.11,,
+,,,Orbest Orizonia AL,01.05.11,,
+,,,Aerolinea Principal Chile slsd,06.01.12,,
+,,,Orbest Orizonia AL,05.03.12,,
+,,,Garuda Indonesian AW lsd,16.09.12,,
+,,,Orbest Orizonia AL ret,30.11.12,,
+,,,Aerolinea Principal Chile slsd,03.01.13,,
+,,EC-LXR,Air Europa lsd,10.06.13,,
+,,,Garuda Indonesian AW slsd,07.09.13,,
+,,,Air Europa ret,18.11.13,,
+,,,PAL AL slsd,11.01.14,,
+,,,Air Europa ret,05.03.14,,
+,,CS-WFP,World2Fly,11.06.21,,C
+1098,19.02.10,9V-STJ,Singapore AL lsd,10.03.10,330-343E,
+,,TF-GAY,Wow Air,07.06.16,,
+,,TC-LOL,THY Turkish AL,18.12.19,,
+,,PK-LDW,Lion Air,10.10.22,,C
+1099,11.02.10,9V-STK,Singapore AL lsd,15.03.10,330-343E,
+,,B-LNR,Hong Kong AL lsd,08.07.16,,C
+1100,01.03.10,N285AY,US AW,23.03.10,330-243,
+,,,American AL,10.12.13,,STD
+1101,24.02.10,HB-JHG,Swiss Int'l AL,16.06.10,330-343E,C
+1102,16.11.10,9K-GBB,Kuwait Government,07.12.10,340-542CJ,C
+1103,09.03.09,VQ-BEL,Aeroflot lsd,13.04.10,330-343E,
+,,F-HROK,Corsair International,16.07.20,,C
+1104,26.03.10,N380HA,Hawaiian AL lsd,27.04.10,330-243,C
+1105,11.03.10,9V-STL,Singapore AL lsd,30.04.10,330-343E,
+,,B-LNS,Hong Kong AL lsd,20.07.16,,C
+1106,11.03.10,EI-ELA,Aer Lingus,07.04.10,330-302E,
+,,G-EILA,Aer Lingus UK tfd,18.09.21,,C
+1107,30.03.10,9V-STM,Singapore AL lsd,16.04.10,330-343E,
+,,B-LNT,Hong Kong AL,14.09.16,,
+,,M-PVGK,DHL Air,24.07.20,,
+,,D-ACVG,DHL Air-EAT,07.05.21,*F,C
+1108,01.04.10,HZ-AQA,Saudi Arabian AL,10.05.10,330-343E,C
+1109,,,NOT BUILT,,340-642,
+1110,07.04.10,B-6511,Air China,10.05.10,330-343E,C
+1111,,,NOT BUILT,,330-243,
+1112,25.03.10,PT-MVS,TAM,06.05.10,330-223,
+,,D-ABXF,Air Berlin,19.03.17,,
+,,9M-MTZ,Malaysian AL lsd,10.07.18,,C
+1113,,,NOT BUILT,,340-542,
+1114,27.04.10,N381HA,Hawaiian AL,27.05.10,330-243,C
+1115,27.06.11,B-LNX,Hong Kong AL lsd,13.07.11,330-243F,C
+1116,21.04.10,B-6515,China Southern AL,11.05.10,330-223,C
+1117,,,NOT BUILT,,330-243,
+1118,13.04.10,PT-MVT,TAM lsd,17.06.10,330-223,
+,,TC-JIZ,THY Turkish AL lsd,14.07.15,,C
+1119,,,NOT BUILT,,330-203,
+1120,21.05.10,A4O-DF,Oman Air,09.06.10,330-243,C
+1121,,,NOT BUILT,,330-343E,
+1122,25.06.10,EC-LFS,Iberia,16.07.10,340-642,STD
+1123,06.05.10,EI-EJG,Alitalia lsd,06.07.10,330-202,
+,,,ITA AW lsd,15.10.21,,C
+1124,06.05.10,9V-STN,Singapore AL lsd,21.05.10,330-343,
+,,B-LNU,Hong Kong AL,03.09.16,,
+,,M-EKSL,DHL Air,15.12.20,*F,
+,,B-LDT,Air Hong Kong tfd,10.01.21,,C
+1125,,,NOT BUILT,,330-302,
+1126,07.05.10,9M-XXF,AirAsia X,12.07.10,330-343E,C
+1127,11.05.10,HZ-AQB,Saudi Arabian AL,28.06.10,330-343E,C
+1128,,,NOT BUILT,,330-223,
+1129,02.06.10,B-6516,China Southern AL,18.06.10,330-223,C
+1130,02.06.10,B-6513,Air China,22.06.10,330-343E,C
+1131,27.05.10,9M-XXG,AirAsia X,24.09.10,330-343E,C
+1132,07.06.10,9V-STO,Singapore AL lsd,25.06.10,330-343,
+,,OO-SFF,Brussels AL lsd,18.07.19,,C
+1133,30.06.10,HL8211,Korean Air,26.07.10,330-223,C
+1134,,,NOT BUILT,,330-223,
+1135,01.07.10,EI-EJH,Alitalia lsd,23.07.10,330-202,
+,,,ITA AW lsd,15.10.21,,C
+1136,18.08.11,9M-MUA,Malaysian AS Cargo,14.09.11,330-200F,C
+1137,23.06.10,HZ-AQC,Saudi Arabian AL,15.07.10,330-343E,C
+1138,01.07.10,B-6517,Sichuan AL lsd,23.07.10,330-243,C
+1139,,,NOT BUILT,,330-200,
+1140,,,NOT BUILT,,330-200F,
+1141,08.07.10,HZ-AQD,Saudi Arabian AL,23.08.10,330-343E,C
+1142,,,NOT BUILT,,340-542,
+1143,27.07.10,SU-GDS,Egyptair,27.08.10,330-343E,C
+1144,,,NOT BUILT,,330-200,
+1145,27.07.10,HB-JHH,Swiss Int'l AL,13.08.10,330-343E,C
+1146,20.08.10,9V-STP,Singapore AL lsd,13.09.10,330-343E,
+,,B-22103,Transasia AW lsd,01.10.15,,
+,,B-LHD,Hong Kong AL ,17.08.17,,
+,,,,,,STD
+1147,26.08.10,HZ-AQE,Saudi Arabian AL,27.09.10,330-343E,C
+1148,17.10.11,9M-MUB,Malaysian AS,14.11.11,330-223F,C
+1149,24.08.10,9V-STQ,Singapore AL lsd,17.09.10,330-343E,
+,,C-GKUG,Air Canada lsd,02.03.20,,C
+1150,02.09.10,TC-JNH,THY Turkish AL,28.09.10,330-343E,C
+1151,31.08.10,HL7794,Asiana AL lsd,27.09.10,330-323E,C
+1152,,,NOT BUILT,,,
+1153,07.10.10,HZ-AQF,Saudi Arabian AL,25.10.10,330-343E,C
+1154,,,NOT BUILT,,330-200,
+1155,09.09.10,HL8212,Korean Air,29.09.10,330-223,C
+1156,16.09.10,9V-STR,Singapore AL lsd,08.10.10,330-343E,
+,,C-GKUH,Air Canada,26.10.19,,C
+1157,20.09.10,9V-STS,Singapore AL lsd,13.10.10,330-343E,
+,,B-22105,Transasia AW lsd,05.11.15,,
+,,4L-GKL,Air Georgia,04.03.22,,STD
+1158,,,NOT BUILT,,330-200F,
+1159,29.09.10,B-6519,Hainan AL lsd,15.10.10,330-243,C
+1160,27.09.10,TC-JNI,THY Turkish AL,13.10.10,330-343E,C
+1161,17.09.10,PH-AOM,KLM,22.10.10,330-203,
+,,9H-PAX,Airhub Aviation,09.09.22,,C
+1162,,,NOT BUILT,,330-200,
+1163,24.09.10,B-LAJ,Cathay Pacific AW,22.10.10,330-342E,C
+1164,19.12.11,9M-MUC,Malaysian AS,25.01.12,330-223F,
+,,,THY Turkish AL lsd,15.01.13,,
+,,,Malaysian AS ret,12.08.14,,
+,,TC-JOO,THY Turkish AL,02.10.18,,C
+1165,28.09.10,9M-XXH,AirAsia X,22.11.10,330-343E,
+,,,Air Algerie slsd,21.06.14,,
+,,,AirAsia X ret,13.08.14,,C
+,,VN-A812,VietJet Air,due22,,
+1166,,,NOT BUILT,,330-200F,
+1167,29.10.10,A6-AFC,Etihad AW,10.11.10,330-343E,STD
+1168,26.10.10,B-6520,Hainan AL lsd,02.12.10,330-343E,C
+1169,11.10.10,VH-EBO,Qantas lsd,15.11.10,330-202,C
+1170,08.11.10,TC-JNJ,THY Turkish AL,30.11.10,330-343E,C
+1171,25.10.10,N382HA,Hawaiian AL lsd,10.11.10,330-243,C
+1172,16.11.10,TC-JNK,THY Turkish AL,30.11.10,330-343E,C
+1173,10.11.10,OH-LTU,Finnair,26.11.10,330-302E,C
+1174,19.11.10,VH-EBP,Qantas lsd,14.12.10,330-202,C
+1175,08.03.12,B-5900,Yangtze River Express lsd,15.06.12,330-243F,
+,,B-LNV,Hong Kong AL,26.02.14,,C
+1176,,,NOT BUILT,,330-200,
+1177,03.11.10,B-18355,China AL lsd,19.11.10,330-302,C
+1178,24.11.10,B-6527,Hainan AL lsd,23.01.11,330-343,C
+1179,,,NOT BUILT,,330-200,
+1180,27.03.12,9M-MUD,Malaysian AS,11.04.12,330-223F,C
+1181,08.11.10,HB-JHI,Swiss Int'l AL,16.12.10,330-343E,C
+1182,,,NOT BUILT,,330-200,
+1183,22.11.10,EC-336,MTAD,15.12.10,330-203MRTT,
+,,A39-005,Royal Australian AF,30.11.12,,C
+1184,26.11.10,PK-GPL,Garuda Indonesian AW lsd,15.12.10,330-243,C
+1185,,,NOT BUILT,,330-200,
+1186,15.12.10,EC-334,MTAD,14.01.11,330-243,
+,,UAF1301,United Arab Emirates AF,29.10.13,,C
+1187,21.12.10,B-6523,Air China,25.01.11,330-343E,C
+1188,07.12.10,HB-JHJ,Swiss Int'l AL,21.01.11,330-343E,C
+1189,10.12.10,HZ-AQH,Saudi Arabian AL,12.01.11,330-343E,C
+1190,23.12.10,B-6529,Hainan AL lsd,25.01.11,330-343E,C
+1191,17.01.11,ZS-SXZ,South African AW,07.02.11,330-243,
+,,,,,,STD
+1192,04.01.11,HZ-AQG,Saudi Arabian AL,07.02.11,330-343E,C
+1193,18.01.11,HB-JHQ,Edelweiss Air lsd,18.02.11,330-343E,
+,,D-AFYQ,Eurowings Discover tfd,12.08.21,,C
+1194,,,NOT BUILT,,330-200,
+1195,12.01.11,G-VSXY,Virgin Atlantic AW,24.02.11,330-343E,C
+1196,28.01.11,B-LAK,Cathay Pacific,25.02.11,330-343E,C
+1197,,,NOT BUILT,,330-200,
+1198,03.02.11,VH-EBQ,Jetstar AW slsd,25.02.11,330-202,
+,,,Qantas ret,23.01.14,,C
+1199,02.02.11,B-6525,Air China,21.02.11,330-343E,C
+1200,25.01.11,HL8227,Korean Air,14.02.11,330-223,C
+1201,20.01.11,G-VKSS,Virgin Atlantic AW lsd,28.02.11,330-343E,C
+1202,02.02.11,B-6528,China Southern AL,22.02.11,330-223,C
+1203,07.02.11,HL8228,Korean Air,07.03.11,330-223,C
+1204,21.01.11,TC-JNL,THY Turkish AL,30.03.11,330-343E,C
+1205,06.05.11,A6-AFD,Etihad AW,31.05.11,330-343E,STD
+1206,18.02.11,B-18391,China AL lsd,15.03.11,330-343E,
+,,G-VLUV,Virgin Atlantic AW ret,30.11.12,,C
+1207,,,NOT BUILT,,330-200,
+1208,14.02.11,N974AV,Avianca lsd,24.03.11,330-243,
+,,PR-OBS,Avianca Brazil tfd,15.06.18,,
+,,N974AV,Avianca ret,03.03.19,,C
+1209,23.02.11,9M-MTA,Malaysian AS,04.04.11,330-323E,C
+1210,02.03.11,ZS-SXY,South African AW lsd,22.03.11,330-243,
+,,EC-NOE,Aura AL,07.10.21,,C
+1211,25.02.11,HL7795,Asiana lsd,23.03.11,330-323E,C
+1212,04.03.11,TC-JNM,THY Turkish AL,24.03.11,330-343E,C
+1213,10.03.11,PT-MVU,TAM,14.04.11,330-223,
+,,TC-JIV,THY Turkish AL lsd,27.04.15,,
+,,VP-BYU,Nordwind AL lsd,07.07.17,,
+,,TC-LOH,THY Turkish AL lsd,06.05.18,,C
+1214,18.03.11,PK-GPM,Garuda Indonesian AW lsd,14.04.11,330-243,C
+1215,17.03.11,B-18392,China AL slsd,11.04.11,330-343E,
+,,G-VGEM,Virgin Atlantic AW ret,30.10.12,,C
+1216,14.03.11,B-6530,Air China,06.04.11,330-343E,C
+1217,23.03.11,N383HA,Hawaiian AL,12.04.11,330-243,C
+1218,29.03.11,EI-EJI,Alitalia lsd,15.04.11,330-202,STD
+1219,29.03.11,9M-MTB,Malaysian AS,04.05.11,330-323E,C
+1220,04.04.11,B-6526,China Southern AL,29.04.11,330-223,C
+1221,18.04.11,PT-MVV,TAM,11.05.11,330-223,
+,,TC-JIY,THY Turkish AL lsd,29.05.15,,
+,,VP-BYV,Nordwind AL lsd,10.07.17,,
+,,TC-LOI,THY Turkish AL lsd,09.05.18,,C
+1222,19.04.11,B-LAL,Cathay Pacific,13.05.11,330-343E,C
+1223,01.04.11,ZS-SXX,South African AW lsd,06.05.11,330-243,
+,,,,,,STD
+1224,27.04.11,N975AV,Avianca lsd,19.05.11,330-243,
+,,9H-MRX,HiFly Malta (?),01.03.22,,STD
+1225,18.04.11,EI-EJJ,Alitalia lsd,19.05.11,330-202,STD
+1226,30.05.11,A6-AFE,Etihad AW,29.06.11,330-343E,STD
+1227,,A4O-DG,Oman Air,25.05.11,330-243,C
+1228,12.04.11,TC-JNN,THY Turkish AL,16.05.11,330-343E,C
+1229,26.05.11,9M-MTC,Malaysian AS,10.06.11,330-323E,C
+1230,31.05.11,SU-GDT,Egyptair,23.11.11,330-343E,C
+1231,06.05.11,G-VINE,Virgin Atlantic AW lsd,08.07.11,330-343,
+,,N771RD,Ryan Int'l AL lsd,22.11.11,,
+,,G-VINE,Virgin Atlantic AW ret,13.08.12,,C
+1232,26.05.11,VQ-BQX,Aeroflot,23.06.11,330-343E,
+,,RA-73782,Aeroflot rr,12.04.22,,C
+1233,13.05.11,B-6531,China Southern AL,22.06.11,330-223,C
+1234,23.05.11,9M-MTD,Malaysian AS,24.06.11,330-323E,C
+1235,24.05.11,EC-330,MTAD,15.06.11,330-202MRTT,
+,,2403,Royal Saudi Air Force,23.01.13,,C
+1236,08.06.11,ZS-SXW,South African AW lsd,01.07.11,330-243,
+,,YU-ARC,Air Serbia lsd,16.11.22,,C
+1237,20.06.11,B-6533,Air China,12.07.11,330-243,C
+1238,31.08.11,SU-GDU,Egyptair,25.11.11,330-343E,C
+1239,08.06.11,B-LAM,Cathay Pacific AW,29.07.11,330-343E,C
+1240,11.07.11,TC-TUR,Turkish Government,06.10.11,330-243,C
+1241,30.06.11,B-6535,Sichuan AL lsd,29.07.11,330-243,C
+1242,,,NOT BUILT,,330-200,
+1243,20.07.11,9M-MTE,Malaysian AS,03.08.11,330-323E,C
+1244,29.07.11,B-6532,China Southern AL,29.08.11,330-223,C
+1245,28.07.11,A6-AFF,Etihad AW,22.08.11,330-343E,STD
+1246,08.09.11,SU-GDV,Egyptair,20.12.11,330-343E,C
+1247,22.07.11,VQ-BQY,Aeroflot,30.08.11,330-343E,
+,,RA-73783,Aeroflot rr,19.04.22,,C
+1248,11.08.11,EC-331,MTAD,25.08.11,330-243,
+,,G-VYGB,Airtanker,20.12.12,,
+,,ZZ331,Royal Air Force,21.02.13,,C
+1249,22.07.11,ZS-SXV,South African AW lsd,06.09.11,330-243,
+,,VP-CGI,,,,STD
+1250,12.08.11,EC-332,MTAD,27.09.11,330-243,
+,,1302,United Arab Emirates AF,00.07.13,,C
+1251,05.09.11,VH-EBR,Jetstar AW lsd,28.09.11,330-202,
+,,,Qantas ret,18.02.14,,C
+1252,31.08.11,EI-EJK,Alitalia lsd,15.09.11,330-202,
+,,,ITA AW lsd,15.10.21,,C
+1253,,,NOT BUILT,,330-202,
+1254,22.09.11,B-16331,EVA Air lsd,20.10.11,330-302,C
+1255,29.08.11,B-6539,Hainan AL lsd,19.12.11,330-343E,C
+1256,13.09.11,VN-A379,Vietnam AL lsd,19.10.11,330-223,
+,,TC-GRA,Southwind AL,08.07.22,,C
+1257,,,NOT BUILT,,330-202,
+1258,20.10.11,VH-EBS,Jetstar AW slsd,10.11.11,330-202,
+,,,Qantas ret,19.04.13,,C
+1259,02.09.11,N384HA,Hawaiian AL,05.10.11,330-243,C
+1260,21.09.11,B-6536,Air China lsd,17.10.11,330-243,C
+1261,10.10.11,PK-GPN,Garuda Indonesian AW lsd,10.11.11,330-243,
+,,HL8512,Fly Gangwon,25.11.22,,C
+1262,19.10.11,B-6537,China Eastern AL,17.11.11,330-243,C
+1263,13.10.11,HS-TBA,Thai AW Int,16.11.11,330-343E,C
+1264,28.09.11,VQ-BNS,Aeroflot lsd,16.11.11,330-343E,
+,,RA-73700,Aeroflot rr,13.04.22,,C
+1265,20.10.11,F-HPTP,Air Caraibes,25.11.11,330-323E,
+,,EI-GWF,I-Fly lsd,05.06.21,,C
+1266,07.10.11,VN-A381,Vietnam AL lsd,28.11.11,330-223,
+,,VP-BUT,Nordwind AL lsd,29.09.21,,
+,,TC-GRB,Southwind AL,07.22,,C
+1267,08.11.11,B-6538,China Eastern AL,05.12.11,330-243,C
+1268,27.10.11,B-16332,EVA Air lsd,29.11.11,330-302,C
+1269,03.11.11,HS-TBB,Thai AW Int,06.12.11,330-343E,C
+1270,17.11.11,VQ-BQZ,Aeroflot,12.12.11,330-343E,
+,,RA-73784,Aeroflot rr,08.04.22,,C
+1271,16.11.11,ZS-SXU,South African AW lsd,07.12.11,330-243,
+,,,,,,STD
+1272,25.11.11,B-18356,China AL lsd,14.12.11,330-302,C
+1273,,,NOT BUILT,,330-202,
+1274,03.11.11,B-16333,EVA Air lsd,15.12.11,330-302,C
+1275,18.11.11,EC-330,MTAD,12.12.11,330-243,
+,,G-VYGC,Airtanker,01.05.13,,
+,,ZZ332,Royal Air Force,13.09.13,,C
+1276,05.12.11,HB-JHK,Swiss Int'l AL,11.01.12,330-343E,C
+1277,21.12.11,B-LNJ,Hong Kong AL,20.01.12,330-243,
+,,,Hainan AL lsd,24.12.12,,
+,,,Hong Kong AL ret,30.03.14,,
+,,2-BJNL,Hong Kong AL rr,22.10.21,,STD
+1278,20.12.11,B-18357,China AL lsd,19.01.12,330-302,C
+1279,06.12.11,N279AV,Avianca lsd,12.01.12,330-243,
+,,,TACA Peru tfd,22.10.12,,
+,,,Avianca Peru nn,28.05.13,,C
+1280,19.12.11,B-6543,China Eastern AL,19.01.12,330-243,C
+1281,05.12.11,9M-MTF,Malaysian AS,23.01.12,330-323E,C
+1282,19.12.11,B-6540,Air China,17.01.12,330-243,C
+1283,13.12.11,EI-EJL,Alitalia lsd,30.01.12,330-202,
+,,,ITA AW lsd,15.10.21,,C
+1284,11.01.12,VQ-BMV,Aeroflot,01.02.12,330-343E,
+,,RA-73701,Aeroflot rr,14.05.22,,C
+1285,27.01.12,B-LAN,Cathay Pacific AW,24.02.12,330-343E,C
+1286,26.01.12,B-LNK,Hong Kong AL,17.02.12,330-243,
+,,,Hainan AL lsd,20.10.12,,
+,,,Hong Kong AL ret,26.10.13,,C
+1287,02.02.12,PH-AKA,KLM lsd,29.02.12,330-303,C
+1288,02.02.12,PK-GPO,Garuda Indonesian AW lsd,22.02.12,330-243,C
+1289,03.02.12,HS-TBC,Thai AW Int,23.02.12,330-343E,
+,,,,,,STD
+1290,01.02.12,HB-JHL,Swiss Int'l AL,24.02.12,330-343E,C
+1291,24.01.12,B-6545,China Eastern AL,21.02.12,330-243,
+,,,Shanghai AL tfd,04.03.13,,C
+1292,09.02.12,D-AIKP,Lufthansa,04.04.12,330-343E,C
+1293,28.02.12,VH-XFC,Virgin Australia AL lsd,05.04.12,330-243,
+,,5B-DDJ,Tus AW,ntu,,STD
+1294,20.02.12,PH-AKB,KLM lsd,20.03.12,330-303,C
+1295,24.02.12,N385HA,Hawaiian AL,09.03.12,330-243,C
+1296,09.03.12,G-VRAY,Virgin Atlantic AW,30.03.12,330-343E,C
+1297,17.02.12,B-6542,China Southern AL,29.03.12,330-223,C
+1298,28.02.12,TC-JNO,THY Turkish AL,16.03.12,330-343E,C
+1299,06.03.12,VQ-BMX,Aeroflot,29.03.12,330-343E,
+,,RA-73159,Aeroflot rr,due22,,C
+1300,27.03.12,PH-AKD,KLM lsd,18.04.12,330-303,C
+1301,22.03.12,VQ-BMY,Aeroflot,12.04.12,330-343E,
+,,RA-73702,Aeroflot rr,22.04.22,,C
+1302,06.04.12,N386HA,Hawaiian AL,26.04.12,330-243,C
+1303,29.03.12,B-6546,China Eastern AL,20.04.12,330-243,
+,,,Shanghai AL tfd,06.03.13,,C
+1304,04.04.12,B-6541,Air China,24.04.12,330-243,C
+1305,11.04.12,D-AIKQ,Lufthansa,27.04.12,330-343E,C
+1306,22.03.12,VH-XFD,Virgin Australia AL lsd,25.04.12,330-243,
+,,,,,,STD
+1307,06.04.12,TC-JNP,THY Turkish AL,26.04.12,330-343E,C
+1308,11.04.12,EI-EJM,Alitalia lsd,14.05.12,330-202,
+,,,ITA AW lsd,15.10.21,,C
+1309,11.04.12,B-6547,China Southern AL,10.05.12,330-223,C
+1310,18.04.12,N388HA,Hawaiian AL lsd,11.05.12,330-243,C
+1311,16.04.12,TC-JNR,THY Turkish AL,09.05.12,330-343E,C
+1312,07.05.12,EC-337,MTAD,25.05.12,330-243MRTT,
+,,G-VYGD,Airtanker,03.06.13,,
+,,ZZ333,Royal AF,15.08.13,,C
+1313,24.04.12,EI-EJN,Alitalia lsd,29.05.12,330-202,STD
+1314,04.05.12,D-AIKR,Lufthansa,31.05.12,330-343E,C
+1315,09.05.12,G-VNYC,Virgin Atlantic AW lsd,28.06.12,330-343E,C
+1316,30.05.12,N389HA ,Hawaiian AL lsd,15.06.12,330-243,C
+1317,16.05.12,B-LAO,Cathay Pacific AL lsd,15.06.12,330-343E,C
+1318,10.05.12,9M-MTG,Malaysian AS,31.05.12,330-323E,C
+1319,18.05.12,VH-XFE,Virgin Australia AL lsd,18.06.12,330-243,STD
+1320,01.06.12,B-LNW,Hong Kong AL lsd,22.06.12,330-243F,C
+1321,06.06.12,VP-CBE,Hong Kong Jet,19.07.12,330-202,
+,,VP-CKQ,Skytrooper,17.05.19,,C
+1322,14.06.12,B-LNL,Hong Kong AL,29.06.12,330-243,
+,,,Hainan AL lsd,27.11.12,,
+,,,Hong Kong AL ret,16.11.13,,C
+1323,12.06.12,VQ-BPI,Aeroflot,11.07.12,330-343E,
+,,RA-73785,Aeroflot rr,09.04.22,,C
+1324,05.06.12,B-5902,China Eastern AL,26.06.12,330-243,C
+1325,11.06.12,B-5905,Hainan AL lsd,09.07.12,330-343E,C
+1326,11.06.12,HL8258,Asiana AL lsd,03.07.12,330-323E,C
+1327,22.06.12,EI-EJO,Alitalia lsd,12.07.12,330-202,
+,,,ITA AW lsd,15.10.21,,C
+1328,22.06.12,VQ-BPJ,Aeroflot,16.07.12,330-343E,
+,,RA-73786,Aeroflot rr,10.04.22,,C
+1329,26.07.12,G-VGBR,Virgin Atlantic AW,24.08.12,330-343E,C
+1330,27.06.12,B-6549,Air China,13.07.12,330-243,C
+1331,02.07.12,B-5903,China Eastern AL,23.07.12,330-243,C
+1332,06.07.12,TC-MCZ,MNG AL,29.08.12,330-243F,C
+1333,17.07.12,B-6503,Air China,10.08.12,330-343E,C
+1334,04.07.12,EC-338,MTAD,23.07.12,330-243MRTT,
+,,G-VYGF,Airtanker,28.06.13,,
+,,ZZ335,Royal AF,15.08.13,,C
+1335,26.07.12,B-6548,China Southern AL,30.08.12,330-223,C
+1336,10.07.12,9M-MTH,Malaysian AS,30.07.12,330-323E,C
+1337,16.08.12,9M-MTI,Malaysian AS,31.08.12,330-323E,C
+1338,19.07.12,HS-TBD,Thai AW Int,18.09.12,330-343E,C
+1339,30.08.12,YI-AQY,Iraqi AW,30.11.12,330-202,C
+1340,24.07.12,HL8259,Asiana AL lsd,12.09.12,330-323E,C
+1341,19.09.12,G-VWAG,Virgin Atlantic AW,15.10.12,330-343E,C
+1342,31.08.12,N342AV,Avianca lsd,17.09.12,330-243,C
+1343,20.08.12,B-LAP,Cathay Pacific AW,28.09.12,330-343E,C
+1344,28.08.12,TC-JDR,THY Turkish AL,09.10.12,330-243F,C
+1345,10.07.12,VQ-BPK,Aeroflot,24.09.12,330-343E,
+,,RA-73787,Aeroflot rr,16.04.22,,C
+1346,20.09.12,B-18358,China AL lsd,15.10.12,330-302,C
+1347,06.08.12,9M-MTJ,Malaysian AS,21.09.12,330-323E,C
+1348,31.08.12,HS-TBE,Thai AW Int,19.10.12,330-343E,
+,,,,,,STD
+1349,29.08.12,B-LAQ,Cathay Pacific AW,17.10.12,330-343E,C
+1350,01.10.12,F-WXAD,Qatar AW lsd,19.12.12,330-243F,
+,,A7-AFV,Qatar AW,18.02.13,,
+,,B-308L,Sichuan AL  ,11.07.19,,C
+1351,21.09.12,VT-JWR,Jet AW lsd,17.12.12,330-302,
+,,VP-BUH,Nordwind AL lsd,09.08.21,,STD
+1352,26.09.12,G-VUFO,Virgin Atlantic AW,15.11.12,330-343E,C
+1353,06.10.12,B-5901,Air China,30.10.12,330-343E,C
+1354,04.10.12,EI-EJP,Alitalia lsd,22.10.12,330-202,
+,,,ITA AW lsd,15.10.21,,C
+1355,11.10.12,HB-JHM,Swiss Int'l AL,31.10.12,330-343E,
+,,,Edelweiss Air lsd,00.04.13,,
+,,,Swiss Int'l AL ret,r04.15,,C
+1356,08.10.12,VP-BDD,Aeroflot,30.10.12,330-343E,
+,,RA-73788,Aeroflot rr,05.04.22,,C
+1357,05.11.12,B-22101,Transasia AW,26.11.12,330-343E,
+,,N803AV,Avianca lsd,23.01.18,,
+,,,DHL Air-EAT,due22,,STD
+1358,10.10.12,B-LNM,Hong Kong AL,30.11.12,330-343E,C
+1359,24.10.12,F-HSKY,Corsair lsd,16.11.12,330-343E,C
+1360,25.10.12,F-HXLF,XL AW France lsd,30.11.12,330-303,
+,,,Garuda Indonesian AW slsd,01.09.14,,
+,,,XL AW France ret,06.11.14,,
+,,VP-BUI,Nordwind AL lsd,18.08.21,,
+,,EC-NYJ,Wamos Air lsd,due22,,STD
+1361,09.11.12,VT-JWS,Jet AW lsd,12.12.12,330-302,
+,,VP-BUM,Nordwind AL lsd,22.06.21,,STD
+1362,06.11.12,B-LAR,Cathay Pacific AW,26.11.12,330-343E,C
+1363,25.10.12,EC-333,MTAD,09.11.12,330-243,
+,,G-VYGG,Airtanker,06.12.12,,
+,,ZZ336,Royal Air Force,21.09.15,,C
+1364,15.11.12,PK-GPP,Garuda Indonesian AW,30.11.12,330-243,
+,,,,,,STD
+1365,26.10.12,VH-EBV,Qantas lsd,23.11.12,330-202,C
+1366,16.11.12,B-LAX,Cathay Pacific AW,07.12.12,330-343E,C
+1367,22.11.12,B-18359,China AL lsd,06.12.12,330-302,C
+1368,30.11.12,N330QT,Tampa Cargo slsd,19.12.12,330-243F,C
+1369,09.11.12,B-LNN,Hong Kong AL,11.12.12,330-343E,
+,,B-5910,Hainan AL lsd,20.11.13,,
+,,B-LNN,Hong Kong AL ret,03.02.16,,C
+1370,07.12.12,VT-JWT,Jet AW lsd,21.12.12,330-302,
+,,VP-BUP,Nordwind AL lsd,02.07.21,,STD
+1371,29.11.12,VP-BDE,Aeroflot,13.12.12,330-343E,
+,,RA-73789,Aeroflot rr,08.04.22,,C
+1372,24.11.12,B-5908,China Eastern AL,20.12.12,330-243,C
+1373,04.12.12,B-5906,Air China,21.12.12,330-343E,C
+1374,22.11.12,HS-TBF,Thai AW Int,16.01.13,330-343E,STD
+1375,13.12.12,B-5920,China Eastern AL,11.01.13,330-243,C
+1376,14.12.12,F-HZEN,Corsair lsd,15.01.13,330-343E,C
+1377,11.01.13,EC-LUB,Iberia,05.02.13,330-302,C
+1378,08.01.13,B-22102,Transasia AW,25.01.13,330-343E,
+,,N804AV,Avianca lsd,21.04.18,,
+,,,DHL Air-EAT,due22,,STD
+1379,03.01.13,EC-340,MTAD,18.01.13,330-202MRTT,C
+,,2404,Royal Saudi Air Force,,,
+1380,30.01.13,N331QT,Tampa Cargo slsd,22.03.13,330-243F,C
+1381,17.01.13,PH-AKE,KLM,27.02.13,330-303,C
+1382,30.01.13,9V-STT,Singapore AL lsd,08.03.13,330-343E,
+,,EC-NBP,Evelop AL,29.04.19,,
+,,9H-SMD,SmartLynx AL Malta,27.04.21,,C
+1383,19.12.12,B-5916,Air China,06.02.13,330-343E,C
+1384,15.01.13,B-LNO,Hong Kong AL,05.02.13,330-343E,C
+1385,29.01.13,EC-LUK,Iberia,19.02.13,330-302,C
+1386,31.01.13,A7-AFY,Qatar AW lsd,16.03.13,330-243F,
+,,B-308P,Sichuan AL lsd,13.07.19,,C
+1387,17.01.13,B-LAZ,Cathay Pacific AW,25.02.13,330-343E,C
+1388,30.01.13,9M-MTK,Malaysian AS,15.02.13,330-323E,C
+1389,18.01.13,N390HA,Hawaiian AL lsd,25.02.13,330-243,C
+1390,14.01.13,EC-336,MTAD,01.03.13,330-243MRTT,
+,,G-VYGH,Airtanker,30.01.14,,
+,,ZZ337,Royal Air Force,26.02.14,,C
+1391,13.02.13,VT-JWU,Jet AW lsd,01.03.13,330-302,
+,,VP-BUJ,Nordwind AL lsd,18.10.21,,STD
+1392,30.01.13,B-5917,China Southern AL,11.03.13,330-323E,C
+1393,11.02.13,HL8276,Korean Air,08.03.13,330-223,C
+1394,19.02.13,DQ-FJT,Air Pacific,14.03.13,330-243,
+,,,Fiji AW,27.06.13,,C
+1395,19.02.13,9M-MTL,Malaysian AS,18.03.13,330-323E,C
+1396,21.02.13,B-5918,Air China,18.03.13,330-243,C
+1397,12.03.13,B-5923,Sichuan AL lsd,28.03.13,330-343E,C
+1398,08.03.13,B-LNP,Hong Kong AL,22.03.13,330-343E,C
+1399,22.03.13,N391HA,Hawaiian AL,09.04.13,330-243,C
+1400,08.03.13,N280AV,Avianca lsd,21.03.13,330-243,
+,,JU-1111,MIAT Mongolian AW,29.11.22,,C
+1401,12.03.13,9V-STU,Singapore AL lsd,09.04.13,330-343E,
+,,9H-HFC,HiFly Malta,16.12.19,,
+,,B-LDU,Air Hong Kong,16.08.22,*F,C
+1402,28.02.13,B-5921,China Eastern AL,26.04.13,330-243,
+,,,China Eastern Yunnan AL,28.10.14,,C
+1403,01.03.13,HB-JHN,Swiss Int'l AL,15.04.13,330-343E,C
+1404,22.03.13,N392HA,Hawaiian AL lsd,11.04.13,330-243,C
+1405,02.04.13,EC-LUX,Iberia,19.04.13,330-302,C
+1406,10.04.13,A7-AFZ,Qatar AW lsd,24.04.13,330-243F,
+,,B-308Q,Sichuan AL,12.09.19,,C
+1407,21.03.13,VH-XFG,Virgin Australia AL lsd,19.04.13,330-243,
+,,EC-NZJ,Privilege Style,due12.22,,STD
+1408,14.03.13,HS-TBG,Thai AW Int,22.04.13,330-343E,
+,,,,,,STD
+1409,10.04.13,B-LBA,Cathay Pacific AW,26.04.13,330-343E,C
+1410,05.04.13,PK-GPQ,Garuda Indonesian AW,30.04.13,330-243,C
+1411,28.03.13,9M-XXI,AirAsia X,22.04.13,330-343E,C
+1412,23.04.13,5A-LAR,Libyan AL,15.07.13,330-202,C
+1413,23.04.13,B-5919,Air China,17.05.13,330-343E,C
+1414,30.04.13,A6-DCC,Etihad AW,28.05.13,330-243F,
+,,D-ALMB,DHL Air-EAT,23.10.18,,
+,,EI-HED,ASL Ireland,18.12.18,,
+,,B-LDP,Air Hong Kong tfd,s26.03.20,,C
+1415,25.04.13,N286AY,US AW,23.05.13,330-243,
+,,,American AL,10.12.13,,STD
+1416,23.04.13,DQ-FJU,Air Pacific,17.05.13,330-243,
+,,,Fiji AW,27.06.13,,C
+1417,16.04.13,N287AY,US AW,30.05.13,330-243,
+,,,American AL,10.12.13,,STD
+1418,13.05.13,TC-JDS,THY Turkish AL,30.05.13,330-243F,C
+1419,29.04.13,EC-331,MTAD,27.05.13,330-243,
+,,ZZ338,Royal AF,06.06.14,,C
+1420,15.05.13,RP-C3341,Cebu Pacific AL lsd,13.06.13,330-343E,
+,,9H-PTP,FlyPop,10.12.21,,C
+1421,13.05.13,B-5926,China Eastern AL,04.06.13,330-243,
+,,,China Eastern Yunnan AL,27.10.14,,C
+1422,03.06.13,N393HA,Hawaiian AL,17.06.13,330-243,C
+1423,16.05.13,9M-XXJ,AirAsia X,10.06.13,330-343E,C
+,,,Conviasa lsd,s19.02.15,,
+,,,AirAsia X ret,01.08.15,,
+,,,,,,STD
+1424,30.05.13,5A-LAS,Libyan AL,27.06.13,330-202,W/O
+1425,28.05.13,B-5922,China Southern AL,20.06.13,330-323E,C
+1426,17.06.13,EC-LXK,Iberia,27.06.13,330-302,C
+1427,05.06.13,9V-STV,Singapore AL lsd,21.06.13,330-343E,
+,,A4O-DZ,Oman Air lsd,31.08.19,,
+,,,,,,STD
+1428,05.06.13,N332QT,Tampa Cargo slsd,01.07.13,330-243F,C
+1429,06.06.13,B-5930,China Eastern AL,01.07.13,330-243,
+,,,China Eastern Yunnan AL,29.09.14,,C
+1430,05.06.13,B-5928,China Southern AL,23.07.13,330-323E,C
+1431,27.05.13,9M-MTM,Malaysian AS,31.07.13,330-323E,C
+1432,02.07.13,B-5929,Sichuan AL lsd,19.07.13,330-343E,C
+1433,17.06.13,9M-XXK,AirAsia X,12.07.13,330-343E,
+,,,National Air Services lsd,15.12.14,,
+,,,AirAsia X ret,ar15,,
+,,,,,,STD
+1434,19.06.13,B-5925,Air China,01.08.13,330-243,C
+1435,24.06.13,HL8282,Asiana AL lsd,15.07.13,330-323E,C
+1436,27.06.13,B-LBB,Cathay Pacific AW,19.07.13,330-343E,C
+1437,03.10.13,EC-LYF,Iberia,13.11.13,330-302,C
+1438,02.07.13,B-5935,Hainan AL lsd,06.08.13,330-343E,C
+1439,28.06.13,EC-333,MTAD,02.08.13,330-243MRTT,
+,,G-VYGJ,Airtanker,15.08.14,*KC2,C
+1440,12.07.13,B-5931,China Eastern AL,05.08.13,330-243,
+,,,Shanghai AL tfd,24.07.14,,C
+1441,18.07.13,N288AY,US AW,09.08.13,330-243,
+,,,American AL,10.12.13,,STD
+1442,01.08.13,TC-JCI,THY Turkish AL,27.08.13,330-243F,C
+1443,24.07.13,B-LBC,Cathay Pacific AW,19.08.13,330-343E,C
+1444,23.07.13,B-5927,Air China,04.09.13,330-243,C
+1445,30.07.13,RP-C3342,Cebu Pacific AL lsd,03.09.13,330-343E,
+,,9H-POP,FlyPop,10.11.21,,C
+1446,28.08.13,PK-GPR,Garuda Indonesian AW,25.09.13,330-343E,C
+1447,16.07.13,9V-STW,Singapore AL lsd,13.09.13,330-343E,
+,,C-GOFV,Air Canada,due/ntu,,STD
+1448,30.08.13,N334QT,Tampa Cargo slsd,29.10.13,330-243F,C
+1449,29.08.13,RP-C8782,Philippine AL,26.09.13,330-343E,C
+1450,10.09.13,B-18360,China AL lsd,02.12.13,330-302,C
+1451,23.08.13,V5-ANO,Air Namibia lsd,25.09.13,330-243,
+,,,,,,STD
+1452,22.08.13,VH-XFH,Virgin Australia AL lsd,25.09.13,330-243,
+,,,,,,STD
+1453,04.09.13,9V-STY,Singapore AL lsd,27.09.13,330-343E,
+,,9H-TAJ,HiFly Malta,02.11.19,,
+,,,DHL Air-EAT,due22,,STD
+1454,26.09.13,HZ-AQI,Saudi Arabian AL,28.10.13,330-343E,C
+1455,13.08.13,N289AY,US AW,21.10.13,330-243,
+,,,American AL,10.12.13,,STD
+1456,02.09.13,RP-C8780,Philippine AL,11.10.13,330-343E,C
+1457,27.09.13,B-HWM,Dragonair lsd,25.10.13,330-343E,
+,,,Cathay Dragon nn,22.11.16,,
+,,,Cathay Pacific tfd,09.08.21,,C
+1458,21.10.13,TC-JNS,THY Turkish AL,20.11.13,330-303,C
+1459,27.09.13,B-5932,Air China,17.10.13,330-243,C
+1460,19.09.13,RP-C8781,Philippine AL,21.10.13,330-343E,C
+1461,13.09.13,B-5936,China Eastern AL,23.10.13,330-243,C
+1462,10.10.13,HZ-AQK,Saudi Arabian AL,05.11.13,330-343E,C
+1463,01.10.13,RP-C8783,Philippine AL,04.11.13,330-343E,C
+1464,22.10.13,HL8286,Asiana AL lsd,13.11.13,330-323E,C
+1465,09.10.13,DQ-FJV,Fiji AW,04.11.13,330-243,C
+1466,14.10.13,V5-ANP,Air Namibia lsd,22.11.13,330-243,
+,,,,,,STD
+1467,03.10.13,RP-C8784,Philippine AL,27.11.13,330-343E,
+,,,,,,STD
+1468,21.11.13,B-5937,China Eastern AL,11.12.13,330-243,C
+1469,22.10.13,N395HA,Hawaiian AL,18.11.13,330-243,C
+1470,30.10.13,9M-MTN,Malaysian AS,02.12.13,330-323E,C
+1471,31.10.13,B-5933,Air China lsd,02.12.13,330-243,C
+1472,21.11.13,5A-ONP,Afriqiyah AW,30.12.13,330-202,STD
+1473,24.10.13,HZ-AQJ,Saudi Arabian AL,16.12.13,330-343E,C
+1474,28.11.13,PK-GPS,Garuda Indonesian AW,16.12.13,330-243,C
+1475,15.11.13,RP-C8785,Philippine AL,06.12.13,330-343E,
+,,,,,,STD
+1476,07.11.13,TC-JNT,THY Turkish AL,03.12.13,330-303,C
+1477,21.11.13,9V-STZ,Singapore AL lsd,09.12.13,330-343E,
+,,9H-HFD,HiFly Malta,02.03.20,,
+,,D-AJFK,DHL Air-EAT,04.10.21,*P2F,C
+1478,08.11.13,EC-338,MTAD,09.12.13,330-202MRTT,
+,,2405,Royal Saudi Air Force,27.03.15,,C
+1479,18.11.13,B-5938,China Eastern AL,09.12.13,330-243,C
+1480,26.11.13,N290AY,American AL,17.12.13,330-243,STD
+1481,13.11.13,9M-XXP,AirAsia X,09.01.14,330-343E,STD
+1482,22.11.13,RP-C8786,Philippine AL,21.01.14,330-343E,
+,,,,,,STD
+1483,16.12.13,JA330A,Skymark AL lsd,27.02.14,330-343E,
+,,TC-LOA,THY Turkish AL,14.03.17,,C
+1484,20.12.13,B-5941,China Eastern AL,27.01.14,330-243,C
+1485,07.01.14,9V-SSA,Singapore AL lsd,17.01.14,330-343E,
+,,C-GOFW,Air Canada,18.03.20,,C
+1486,19.12.13,A6-EYT,Etihad AW,31.01.14,330-243,
+,,OE-LAC,Air Belgium lsd,21.11.22,,C
+1487,13.12.13,TC-JNZ,THY Turkish AL,14.01.14,330-303,C
+1488,08.01.14,N396HA,Hawaiian AL,29.01.14,330-243,C
+1489,10.01.14,9M-MTO,Malaysian AS,30.01.14,330-323E,C
+1490,06.12.13,EC-LZJ,Iberia,24.01.14,330-302,C
+1491,22.01.14,JA330B,Skymark AL lsd,27.02.14,330-343E,
+,,TC-LOB,THY Turkish AL,18.05.17,,C
+1492,14.04.14,N941AV,Avianca lsd,20.10.14,330-243,
+,,PR-OCJ,Avianca Brazil tfd,17.11.17,,
+,,PR-AIS,Azul L.A. lsd,22.07.19,,
+,,FAB2901,Brazilian Air Force,21.07.22,,C
+1493,28.01.14,B-5912,Air China,14.02.14,330-343E,C
+1494,19.12.13,B-5939,China Southern AL,14.02.14,330-323E,C
+1495,30.01.14,RP-C3343,Cebu Pacific AL lsd,19.02.14,330-343E,
+,,G-FPOP,FlyPop,due22,,STD
+1496,15.01.14,N399HA,Hawaiian AL,26.02.14,330-243,C
+1497,12.02.14,D-AIKS,Lufthansa,12.03.14,330-343E,C
+1498,29.01.14,EC-330,MTAD,10.03.14,330-243MRTT,
+,,G-VYGK,Airtanker,06.02.15,,
+,,,Thomas Cook AL lsd,29.04.15,,
+,,,Condor lsd,30.04.19,,
+,,,Airtanker ret,s06.04.20,,C
+1499,08.04.14,5A-ONQ,Afriqiyah AW,30.12.14,330-302,
+,,TC-JOM,THY Turkish AL lsd,30.04.15,,C
+1500,27.01.14,B-5942,China Eastern AL,03.03.14,330-243,C
+1501,12.02.14,TC-JOA,THY Turkish AL,04.03.14,330-303,C
+1502,31.01.14,N291AY,American AL,17.03.14,330-243,STD
+1503,25.02.14,B-LBD,Cathay Pacific AW,21.03.14,330-343E,
+,,,Dragonair lsd,05.12.15,,
+,,,Cathay Dragon nn,22.11.16,,
+,,,Cathay Pacific AW tfd,02.12.20,,C
+1504,11.02.14,RP-C8789,Philippine AL,11.03.14,330-343E,C
+1505,08.04.14,5A-LAT,Libyan AL,30.12.14,330-202,C
+1506,07.03.14,PR-ONV,Oceanair-Avianca Brazil slsd,29.04.14,330-243F,
+,,N336QT,Avianca Cargo tfd/rr,09.05.19,,C
+1507,21.02.14,EC-LZX,Iberia,17.03.14,330-302,C
+1508,14.03.14,N508AV,Avianca slsd,11.06.14,330-243,
+,,PR-OCK,Avianca Brazil lsd,17.07.17,,
+,,,Brazilian Air Force,due22,,STD
+1509,19.02.13,B-5913,Air China,28.03.14,330-343E,C
+1510,27.03.14,RP-C8760,Philippine AL lsd,17.04.14,330-343E,STD
+1511,04.03.14,N370HA,Hawaiian AL,01.04.14,330-243,C
+1512,10.03.14,N292AY,American AL,01.04.14,330-243,STD
+1513,06.03.14,HZ-AQL,Saudi Arabian AL,23.04.14,330-343E,C
+1514,11.03.14,TC-JOB,THY Turkish AL,22.04.14,330-303,C
+1515,20.03.14,EC-MAA,Iberia,22.04.14,330-302,C
+1516,20.03.14,EC-337,MTAD,09.04.14,330-202MRTT,
+,,2406,Royal Saudi Air Force,15.06.15,,C
+1517,03.04.14,9V-SSB,Singapore AL lsd,29.04.14,330-343E,
+,,9H-HFE,HiFly Malta,16.06.20,,C
+1518,28.03.14,HL8293,Asiana AL lsd,17.04.14,330-323E,C
+1519,14.03.14,B-5940,China Southern AL,17.04.14,330-323E,C
+1520,31.03.14,B-5943,China Eastern AL,24.04.14,330-243,C
+1521,23.04.14,A6-EYU,Etihad AW,19.05.14,330-243,
+,,OE-LCL,Air Belgium lsd,07.10.22,,C
+1522,29.04.14,TC-JOC,THY Turkish AL,27.05.14,330-303,STD
+1523,19.05.14,B-LBE,Cathay Pacific AW,16.06.14,330-343E,
+,,,Cathay Dragon tfd,24.12.16,,
+,,,Cathay Pacific AW tfd,20.10.21,,C
+1524,16.06.14,A6-DCD,Etihad AW,26.06.14,330-243F,
+,,D-ALMA,DHL Air-EAT,14.08.18,,C
+1525,09.04.14,B-5946,Air China,23.05.14,330-343E,C
+1526,25.04.14,N293AY,American AL,23.05.14,330-243,STD
+1527,18.04.14,RP-C3344,Cebu Pacific AL lsd,16.05.14,330-343E,C
+1528,05.05.14,B-5945,Sichuan AL lsd,23.05.14,330-343E,C
+1529,10.06.14,TC-JOD,THY Turkish AL,27.06.14,330-303,C
+1530,26.05.14,N373HA,Hawaiian AL,16.06.14,330-243,C
+1531,05.05.14,RP-C8762,Philippine AL lsd,18.06.14,330-343E,
+,,9H-SMF,SmartLynx AL Malta,24.11.21,,C
+1532,16.05.14,B-5950,Hainan AL lsd,07.07.14,330-343E,C
+1533,06.05.14,9M-XXS,AirAsia X,06.06.14,330-343E,
+,,9H-SMG,SmartLynx AL Malta,17.03.22,,C
+1534,06.05.14,N335QT,Tampa Cargo slsd,31.12.14,330-243F,C
+1535,25.06.14,5A-ONR,Afriqiyah AW,30.12.14,330-302E,
+,,5A-ONR,Afriqiyah AW,07.17,,C
+1536,10.06.14,B-5951,China Southern AL,24.06.14,330-323E,C
+1537,30.05.14,B-5949,China Eastern AL,25.06.14,330-243,C
+1538,02.06.14,B-5947,Air China,30.06.14,330-343E,C
+1539,16.05.14,B-18361,China AL lsd,27.06.14,330-302,C
+1540,02.06.14,PR-OCL,Avianca lsd,31.12.14,330-243,
+,,EP-IJA,Iran Air,11.03.17,,C
+1541,20.05.14,B-5948,Air China,29.07.14,330-343E,C
+1542,06.06.14,JA330D,Skymark AL lsd,28.07.14,330-343E,
+,,TC-LOC,THY Turkish AL,29.03.17,,C
+1543,12.06.14,5A-LAU,Libyan AL,25.08.15,330-202,C
+1544,08.07.14,9V-SSC,Singapore AL lsd,15.07.14,330-343E,
+,,,,,,STD
+1545,25.06.14,B-LBF,Cathay Pacific AW,25.07.14,330-343E,
+,,,Cathay Dragon tfd,04.02.17,,
+,,,Cathay Pacific AW tfd,20.10.20,,C
+1546,12.06.14,RP-C8763,Philippine AL,18.07.14,330-343E,C
+1547,13.06.14,B-5952,China Eastern AL,22.07.14,330-243,C
+1548,23.06.14,PK-GPT,Garuda Indonesian AW,18.08.14,330-343E,C
+1549,23.07.14,9M-XXT,AirAsia X,14.08.14,330-343E,
+,,9H-SMH,SmartLynx AL Malta,11.05.22,,C
+1550,27.06.14,TC-JOU,THY Turkish AL,17.04.15,330-243F,C
+1551,10.07.14,B-5953,China Eastern AL,25.08.14,330-343E,C
+1552,17.07.14,RP-C3345,Cebu Pacific AL lsd,30.08.14,330-343E,C
+1553,01.08.14,RP-C8764,Philippine AL,29.08.14,330-343E,C
+1554,17.07.14,JA330E,Skymark AL lsd,10.09.14,330-343E,
+,,TC-LOD,THY Turkish AL,11.04.17,,C
+1555,17.07.14,EC-336,MTAD,22.08.14,330-243MRTT,
+,,G-VYGL,Air Tanker,22.06.15,*KC2,
+,,ZZ341,Royal AF,07.07.15,,
+,,G-VYGL,Air Tanker,03.02.16,,
+,,,Jet2 lsd,16.05.17,,
+,,,TUI AL Netherlands lsd,16.12.17,,
+,,,Jet2 lsd,23.05.18,,
+,,,Air Tanker ret,07.11.18,,
+,,,Jet2 lsd,01.04.19,,C
+1556,10.09.14,HL8001,Korean Air,29.09.14,330-323E,C
+1557,12.08.14,B-LBG,Cathay Pacific AW,23.09.14,330-343E,
+,,,Cathay Dragon tfd,22.02.17,,STD
+1558,09.09.14,B-5955,Hainan AL lsd,30.09.14,330-243,C
+1559,22.07.14,RP-C8765,Philippine AL,17.10.14,330-343E,
+,,,,,,STD
+1560,04.09.14,PK-GPU,Garuda Indonesian AW lsd,22.09.14,330-343E,C
+1561,26.08.14,VH-XFJ,Virgin Australia AL lsd,22.09.14,330-243,
+,,,,,,STD
+1562,07.08.14,9V-SSD,Singapore AL lsd,19.09.14,330-343E,
+,,,,,,STD
+1563,27.08.14,B-5956,Air China,29.09.14,330-343E,C
+1564,04.09.14,4R-ALL,SriLankan AL lsd,29.10.14,330-343E,C
+1565,03.09.14,N374HA,Hawaiian AL,14.10.14,330-243,C
+1566,01.10.14,RP-C8766,Philippine AL,21.11.14,330-343E,C
+1567,16.09.14,B-LBH,Cathay Pacific AW,22.10.14,330-343E,
+,,,Cathay Dragon tfd,17.07.17,,STD
+1568,15.10.14,RP-C8771,Philippine AL lsd,28.11.14,330-343E,C
+1569,02.10.14,B-5961,China Eastern AL,30.10.14,330-243,C
+1570,18.09.14,B-5957,Air China,24.10.14,330-343E,C
+1571,28.10.14,TC-JOE,THY Turkish AL,20.11.14,330-303,C
+1572,28.10.14,A4O-DH,Oman Air,25.11.14,330-343E,C
+1573,26.09.14,B-5963,Hainan AL lsd,07.11.14,330-243,C
+1574,02.10.14,JA330F,Skymark AL lsd,27.11.14,330-343E,
+,,EC-MHL,Air Europa,07.07.15,,
+,,,,,,STD
+1575,14.10.14,B-5959,China Southern AL,19.11.14,330-323E,C
+1576,31.10.14,HL8002,Korean Air,28.11.14,330-323E,C
+1577,24.10.14,PK-GPV,Garuda Indonesian AW lsd,18.11.14,330-343E,C
+1578,31.10.14,A7-AFF,Qatar AW,24.11.14,330-243F,
+,,HA-LHU,Wizz Air,18.10.20,,C
+1579,21.10.14,B-5960,Sichuan AL lsd,25.11.14,330-343E,C
+1580,15.10.14,PH-AKF,KLM lsd,04.12.14,330-303,C
+1581,31.10.14,9M-XXU,AirAsia X,24.11.14,330-343E,C
+1582,20.11.14,A4O-DI,Oman Air,11.12.14,330-343E,C
+1583,03.11.14,4R-ALM,SriLankan AL lsd,18.12.14,330-343E,C
+1584,18.11.14,A7-AFG,Qatar AW,09.12.14,330-243F,
+,,OO-CGM,Air Belgium,08.03.21,,C
+1585,20.11.14,PK-GPW,Garuda Indonesian AW lsd,08.12.14,330-343E,C
+1586,06.11.14,F-WHUR,Synergy Aerospace,31.12.14,330-243,
+,,EP-IJB,Iran Air,25.03.17,,C
+1587,21.11.14,B-5958,Air China,10.12.14,330-343E,W/O
+1588,02.12.14,B-5962,China Eastern AL,17.12.14,330-243,C
+1589,09.12.14,9M-XXV,AirAsia X,23.12.14,330-343E,C
+1590,04.12.14,HL8003,Korean Air,22.12.14,330-323E,C
+1591,26.11.14,B-5979,Hainan AL lsd,27.01.15,330-243,C
+1592,09.12.14,EI-FLT,IAP,20.03.15,330-343E,
+,,TC-LOE,THY Turkish AL,23.12.16,,C
+1593,08.01.15,B-5965,China Southern AL,29.01.15,330-323E,C
+1594,26.01.15,A7-AFH,Qatar AW,13.02.15,330-243F,
+,,OO-SEA,Air Belgium,05.03.21,,C
+1595,12.12.14,B-5969,China Eastern AL,30.01.15,330-343E,C
+1596,09.01.15,9M-XXW,AirAsia X,26.01.15,330-343E,
+,,9M-VVA,AirAsia tfd,s16.12.21,,C
+1597,08.01.15,9V-SSE,Singapore AL lsd,28.01.15,330-343E,
+,,EC-NTX,Wamos Air lsd,21.03.22,,C
+1598,30.01.15,B-LBI,Cathay Pacific AW,17.02.15,330-343E,
+,,,Cathay Dragon tfd,s26.02.17,,
+,,,Cathay Pacific AW tfd,02.12.20,,C
+1599,22.01.15,A4O-DJ,Oman Air,10.02.15,330-343E,C
+1600,14.01.15,9M-XXY,AirAsia X,03.02.15,330-343E,
+,,EC-NTY,Wamos Air lsd,14.06.22,,C
+1601,20.01.15,EC-332,MTAD,17.02.15,330-243,
+,,G-VYGM,MTAD,24.02.15,,
+,,,Thomas Cook AL lsd,28.04.17,,
+,,,TUI AL Netherlands lsd,14.11.17,,
+,,,Thomas Cook AL lsd,18.05.18,,
+,,,Jet2 lsd,23.05.19,,C
+1602,12.02.15,RP-C3346,Cebu Pacific AL lsd,06.03.15,330-343E,C
+1603,21.01.15,B-5968,China Eastern AL,17.02.15,330-243,C
+1604,28.01.15,4R-ALN,SriLankan AL,25.03.15,330-343E,
+,,,PIA-Pakistan Int AL lsd,06.08.16,,
+,,,SriLankan AL ret,02.03.17,,C
+1605,06.02.15,LV-FVH,Aerolineas Argentinas,27.02.15,330-202,C
+1606,12.01.15,N375HA,Hawaiian AL lsd,24.02.15,330-243,C
+1607,24.02.15,,CIT LC,30.03.15,330-343E,
+,,EC-MIN,Air Europa lsd,23.11.15,,
+,,TF-LUV,Wow Air slsd,09.06.16,,
+,,TC-LOJ,THY Turkish AL,31.05.19,,
+,,HZ-NE24,flynas,17.10.22,,C
+1608,23.10.15,F-WHUI,Synergy Aerospace,04.12.15,330-243,
+,,PR-OCG,Avianca Brazil lsd,11.05.17,,
+,,1608/F-UJCS,l'Armee de l'Air,26.11.20,,C
+1609,12.03.15,9V-SSF,Singapore AL lsd,30.03.15,330-343E,
+,,,,,,STD
+1610,27.04.15,EC-331,MTAD,26.05.15,330-243,
+,,G-VYGN,MTAD,r14.07.16,,
+,,ZZ343,Royal AF,06.09.16,,C
+1611,16.02.15,HL8025,Korean Air,27.03.15,330-323E,C
+1612,15.04.15,9M-XXZ,AirAsia X,30.04.15,330-343E,C
+1613,11.03.15,7T-VJA,Air Algerie,30.03.15,330-202,C
+1614,13.02.15,B-5971,Hainan AL lsd,12.06.15,330-343E,
+,,,Lucky Air tfd,r07.03.17,,
+,,,Hainan AL ret,13.03.18,,C
+1615,17.04.15,N378HA,Hawaiian AL,14.05.15,330-243,C
+1616,16.03.15,TC-JOF,THY Turkish AL,07.04.15,330-303,C
+1617,30.04.15,B-5973,China Eastern AL,22.05.15,330-243,C
+1618,18.04.15,B-LBJ,Cathay Pacific AW,30.04.15,330-343E,C
+1619,20.05.15,HS-XTE,Thai AirAsia X,07.10.15,330-343E,C
+1620,27.03.15,TC-JOG,THY THY Turkish AL,16.04.15,330-303,C
+1621,27.02.15,B-LBK,Cathay Pacific AW,21.04.15,330-343E,
+,,,Cathay Dragon tfd,17.12.18,,
+,,,Cathay Pacific AW tfd,02.12.20,,C
+1622,02.04.15,TC-JOH,THY Turkish AL,21.04.15,330-303,C
+1623,08.04.15,LV-FVI,Aerolineas Argentinas,29.04.15,330-202,C
+1624,11.03.15,,CIT LC,29.06.15,330-343E,
+,,EC-MIO,Air Europa lsd,10.11.15,,
+,,,Wow Air slsd,30.05.16,,
+,,TF-WOW,Wow Air rr,08.11.16,,
+,,TC-LOK,THY Turkish AL,26.06.19,,
+,,HZ-NE25,flynas,due21,,STD
+1625,23.03.15,B-5966,China Southern AL,30.04.15,330-323E,C
+1626,21.05.15,9K-APA,Kuwait AW,22.06.15,330-243,C
+1627,24.04.15,N822NW,Delta AL,27.05.15,330-302,C
+1628,12.01.15,N823NW,Delta AL,25.08.15,330-302,C
+1629,22.04.15,TC-JOI,THY Turkish AL,22.05.15,330-303,C
+1630,10.04.15,7T-VJB,Air Algerie,29.05.15,330-202,C
+1631,24.03.15,TS-IFM,Tunis Air,08.06.15,330-243,C
+1632,05.06.15,B-5976,China Eastern AL,19.06.15,330-343E,C
+1633,21.05.15,9V-SSG,Singapore AL,22.06.15,330-343E,
+,,,,,,STD
+1634,09.04.15,B-5972,Hainan AL,28.08.15,330-343E,C
+1635,12.11.15,EI-FMH,IAP,25.11.15,330-343E,
+,,TC-LOF,THY Turkish AL lsd,10.02.17,,C
+1636,22.05.15,B-5967,China Southern AL,12.06.15,330-323E,C
+1637,05.06.15,N824NW,Delta AL,24.06.15,330-302,C
+1638,10.06.15,HL8026,Korean Air,24.06.15,330-323E,C
+1639,26.05.15,B-5975,China Eastern AL,30.06.15,330-243,C
+1640,18.06.15,TC-JOJ,THY Turkish AL,30.06.15,330-303,C
+1641,13.05.15,TS-IFN,Tunis Air,24.08.15,330-243,C
+1642,29.06.15,TC-JOK,THY Turkish AL,10.07.15,330-303,C
+1643,17.06.15,9K-APB,Kuwait AW,30.06.15,330-243,C
+1644,16.06.15,TC-JOL,THY Turkish AL,29.06.15,330-303,C
+1645,29.06.15,B-5970,China Southern AL,20.07.15,330-323E,C
+1646,22.06.15,HS-XTF,BOC,23.12.15,330-343E,
+,,,Thai AirAsia X,02.03.16,,
+,,,,,,STD
+1647,20.08.15,HL8027,Korean Air,31.08.15,330-323E,C
+1648,28.07.15,9V-SSH,Singapore AL,21.08.15,330-343E,
+,,,,,,STD
+1649,03.06.15,7T-VJC,Air Algerie,30.06.15,330-202,C
+1650,21.07.15,4R-ALO,SriLankan AL,14.08.15,330-343E,C
+1651,16.12.15,EI-FMI,Intrepid Aviation,29.12.15,330-343E,
+,,TC-LOG,THY Turkish AL lsd,25.04.17,,C
+1652,,,,,330-300,
+1653,23.07.15,9K-APC,Kuwait AW,12.08.15,330-243,C
+1654,24.06.15,PK-GPX,Garuda Indonesia,14.08.15,330-343E,C
+1655,01.09.15,B-8226,China Eastern AL,30.09.15,330-243,C
+1656,17.07.15,B-8015,Hainan AL,31.08.15,330-343E,C
+1657,03.07.15,F-WJKG,Synergy Aerospace,04.12.15,330-243,
+,,PR-OCX,Avianca Brazil lsd,29.03.17,,
+,,1657/F-UJCT,l'Armee de l'Air,15.12.20,,C
+1658,04.09.15,B-5977,Air China,29.09.15,330-343E,C
+1659,26.11.15,9M-XBC,AirAsia X,23.12.15,330-343E,
+,,,,,,STD
+1660,26.08.15,LN-RKR,SAS,15.09.15,330-343E,C
+1661,,,Singapore AL,,330-343E,
+1662,25.08.15,B-8332,Sichuan AL lsd,11.09.15,330-243,C
+1663,15.07.15,B-8016,Hainan AL,21.09.15,330-343E,C
+1664,13.08.15,B-8231,China Eastern AL,17.09.15,330-243,C
+1665,10.09.15,LN-RKS,SAS,25.09.15,330-343E,C
+1666,19.09.15,9V-SSI,Singapore AL,29.09.15,330-343E,
+,,,,,,STD
+1667,10.09.15,EC-333,MTAD,30.09.15,330-243,
+,,760,Singapore Air Force,10.12.18,,C
+1668,12.10.15,B-LNQ,Hong Kong AL,13.11.15,330-343E,C
+1669,07.10.15,4R-ALP,SriLankan AL,09.11.15,330-343E,C
+1670,16.11.15,9M-XBA,AirAsia X,13.05.16,330-343E,
+,,,,,,STD
+1671,02.09.15,PK-GPY,Garuda Indonesia,14.10.15,330-343E,C
+1672,15.09.15,N379HA,Hawaiian AL,29.10.15,330-243,C
+1673,09.10.15,B-5978,Air China,31.10.15,330-343E,C
+1674,05.11.15,F-WXAG,BOC,23.12.15,330-343E,
+,,9M-XBB,AirAsia X,27.05.16,,
+,,,,,,STD
+1675,09.10.15,PK-LEF,Lion Air,26.10.15,330-343E,C
+1676,19.10.15,HZ-AB,Alpha Star Aviation Svcs,16.11.15,330-243CJ,
+,,HZ-SKY2,Sky Prime Aviation Svcs tfd,02.02.17,,C
+1677,09.10.15,B-8117,Hainan AL,27.11.15,330-343E,C
+1678,24.09.15,9K-APD,Kuwait AW,29.10.15,330-243,C
+1679,01.10.15,N825NW,Delta AL,18.11.15,330-302,C
+1680,27.10.15,PK-LEG,Lion Air,16.11.15,330-343E,C
+1681,13.11.15,9K-APE,Kuwait AW,27.11.15,330-243,C
+1682,,,,,330-300,
+1683,,,Lion Air,,330-343E,
+1684,09.11.15,B-16335,EVA AW,24.11.15,330-302,C
+1685,21.10.15,B-6101,Air China,27.11.15,330-343E,C
+1686,20.10.15,B-8118,Hainan AL,29.12.15,330-343E,C
+1687,18.11.15,4R-ALQ,SriLankan AL,21.12.15,330-343E,C
+1688,10.12.15,A7-AFI,Qatar AW,21.12.15,330-243F,
+,,OO-CMA,Air Belgium,11.02.21,,
+,,F-HMRG,CMA CGM Air Cargo,10.11.22,,C
+1689,10.12.15,4R-ALR,SriLankan AL,29.12.15,330-343E,C
+1690,09.12.15,B-16336,EVA AW,22.12.15,330-302,C
+1691,27.11.15,EC-MII,Evelop AL,18.12.15,330-343E,
+,,,Iberojet,13.05.21,,C
+1692,18.12.15,DQ-FJW,Fiji AW lsd,23.12.15,330-343E,C
+1693,28.11.15,PK-LEH,Lion Air,15.12.15,330-343E,C
+1694,14.12.15,EC-MIL,Iberia,28.12.15,330-202,
+,,452-01/T.24-01,Spanish Air Force,30.11.21,,STD
+1695,14.12.15,B-6102,Air China,23.12.15,330-343E,C
+1696,22.01.16,TC-LNC,THY Turkish AL,04.02.16,330-303,C
+1697,07.01.16,LN-RKT,SAS,27.01.16,330-343X,C
+1698,22.01.16,PK-GPZ,Garuda Indonesia,29.01.16,330-343E,C
+1699,23.12.15,B-8358,China Southern AL,26.02.16,330-323E,C
+1700,15.01.16,EC-MJA,Iberia,18.02.16,330-202,C
+,,,Spanish Air Force,due22,,
+1701,15.01.16,N826NW,Delta AL,29.01.16,330-302,C
+1702,,,,,330-300,
+1703,14.01.16,B-8287,Hong Kong AL/Hainan AL,29.01.16,330-343E,C
+1704,10.02.16,TC-LND,THY Turkish AL,26.02.16,330-303,C
+1705,,,,,330-300,
+1706,10.03.16,TC-LNE,THY Turkish AL,31.03.16,330-303,C
+1707,,,AirAsia X,,330-343E,
+1708,08.02.16,A7-AFJ,Qatar AW,22.02.16,330-243F,
+,,OO-AIR,Air Belgium,18.02.21,,
+,,F-HMRH,CMA CGM Air Cargo tfd,09.12.22,,C
+1709,01.01.16,PK-GHA,Garuda Indonesia,25.03.16,330-343E,C
+1710,10.03.16,EC-MJT,Iberia,22.03.16,330-202,
+,,452-02/T.24-02,Spanish Air Force,due,*MRTT,STD
+1711,03.02.16,HB-JHR,Edelweiss AL,23.03.16,330-343E,
+,,D-AFYR,Eurowings Discover tfd,30.07.21,,C
+1712,17.03.16,RP-C3347,Cebu Pacific AL,12.12.16,330-343E,STD
+1713,23.03.16,TC-LNF,THY Turkish AL,15.04.16,330-303,C
+1714,08.03.16,B-8359,China Southern AL,13.04.16,330-323E,C
+1715,19.02.16,LN-RKU,SAS,05.04.16,330-343X,C
+1716,12.04.16,N827NW,Delta AL,27.04.16,330-302,C
+1717,,,,,330-300,
+1718,18.05.16,TC-LNG,THY Turkish AL,09.06.16,330-303,C
+1719,12.04.16,EC-MKI,Iberia,28.04.16,330-202,C
+,,,Spanish Air Force,,*MRTT,
+1720,11.05.16,N828NW,Delta AL,31.05.16,330-302,C
+1721,07.06.16,N829NW,Delta AL,23.06.16,330-302,C
+1722,13.04.16,TC-JOV,THY Turkish AL,28.04.16,330-243F,C
+1723,05.04.16,PK-GHC,Garuda Indonesia,23.05.16,330-343E,C
+1724,08.06.16,HZ-AQ11,Saudi Arabian AL,17.08.16,330-343E,C
+1725,03.05.16,OD-MEE,MEA,24.05.16,330-243,C
+1726,21.06.16,HZ-AQ12,Saudi Arabian,29.08.16,330-343E,C
+1727,02.05.16,F-HPUJ,Air Caraibes/French Blue,03.06.16,330-323E,
+,,,French Bee nn,30.01.18,,
+,,,Air Caraibes Atlantique tfd,26.06.19,,C
+1728,10.06.16,EC-MKJ,Iberia,29.06.16,330-202,C
+1729,20.06.16,HZ-AQ13,Saudi Arabian,31.08.16,330-343E,C
+1730,25.05.16,B-8420,Tibet AL,29.06.16,330-243,C
+1731,17.05.16,HZ-AQ14,Saudi Arabian,28.09.16,330-343E,C
+1732,24.05.16,N360HA,Hawaiian AL,03.06.16,330-243,C
+1733,26.05.16,PK-GHD,Garuda Indonesia,30.08.16,330-343E,C
+1734,20.07.16,HZ-AQ15,Saudi Arabian,05.10.16,330-343E,C
+1735,15.06.16,EC-330,MTAD,22.07.16,330-243MRTT,C
+,,1735/F-UJCG,l'Armee de l'Air,27.09.18,,C
+1736,12.07.16,EC-MLB,Iberia,28.07.16,330-202,C
+1737,19.07.16,LV-GHQ,Aerolineas Argentinas,04.08.16,330-202,C
+1738,25.08.16,HZ-AQ16,Saudi Arabian,24.10.16,330-343E,C
+1739,23.06.16,HZ-AQ17,Saudi Arabian,07.12.16,330-343E,C
+1740,08.08.16,EC-MLP,Iberia,23.08.16,330-202,C
+1741,05.08.16,9XR-WN,Rwandair,26.09.16,330-243,C
+1742,19.08.16,EI-FNG,Aer Lingus,31.08.16,330-302,C
+1743,24.08.16,HZ-AQ18,Saudi Arabian,01.11.16,330-343E,C
+1744,06.09.16,EI-FNH,Aer Lingus,28.09.16,330-302,C
+1745,28.10.16,ZS-SXI,South African AW,28.11.16,330-343E,
+,,HZ-NE22,flynas,07.12.22,,C
+1746,10.08.16,B-8468,Sichuan AL ,09.11.16,330-243,C
+1747,14.09.16,EC-MMG,Iberia,27.10.16,330-202,C
+1748,06.10.16,LV-GIF,Aerolineas Argentinas,25.10.16,330-202,C
+1749,11.11.16,HZ-AQ19,Saudi Arabian,30.11.16,330-343E,C
+1750,06.09.16,TC-JOY,THY Turkish AL,31.10.16,330-243F,C
+1751,20.09.16,VP-BHD,Saudi Basic Industries Company,06.10.16,330-243CJ,
+,,VQ-BIG,Jet Aviation Hong Kong,20.10.22,,C
+1752,23.09.16,B-8577,Air China,09.11.16,330-343E,C
+1753,05.10.16,B-8678,Beijing Capital AL,14.12.16,330-343E,C
+1754,21.11.16,ZS-SXJ,South African AW,06.12.16,330-343E,
+,,9H-AHQ,Airhub AL,26.02.22,,C
+1755,12.10.16,EC-MNK,Iberia,18.11.16,330-202,C
+1756,02.11.16,B-8776,Tianjin AL,13.12.16,330-243,C
+1757,25.10.16,ZS-SXK,South African AW,13.12.16,330-343E,
+,,,,,,STD
+1758,30.11.16,B-8659,Tianjin AL,16.12.16,330-243,C
+1759,18.11.16,9XR-WP,Rwandair,30.11.16,330-343E,C
+1760,17.11.16,B-8426,China Southern AL,02.12.16,330-323E,C
+1761,25.11.16,EC-MNL,Iberia,15.12.16,330-202,C
+1762,10.11.16,EC-332,MTAD,21.11.16,330-243,
+,,761,Singapore Air Force,13.08.18,,C
+1763,06.12.16,B-8679,Beijing Capital AL,23.12.16,330-343E,C
+1764,07.12.16,HZ-AQ20,Saudi Arabian AL,21.12.16,330-343E,C
+1765,14.12.16,B-8579,Air China,23.12.16,330-343E,C
+1766,13.12.16,HZ-AQ21,Saudi Arabian AL,01.02.17,330-343E,C
+1767,16.12.16,B-16337,EVA AW,24.01.17,330-302,C
+1768,11.01.17,TC-JOZ,THY Turkish AL,09.02.17,330-243F,C
+1769,17.01.17,N830NW,Delta AL,31.01.17,330-302,C
+1770,24.01.17,HZ-AQ22,Saudi Arabian AL,09.03.17,330-343E,C
+1771,25.01.17,B-8950,Tibet AL,17.02.17,330-243,C
+1772,16.02.17,A6-DCE,Etihad AW,27.02.17,330-243F,
+,,D-ALEJ,DHL Air-EAT,28.05.19,,C
+1773,03.02.17,B-8959,Tianjin AL,10.03.17,330-243,C
+1774,04.02.17,HZ-AQ23,Saudi Arabian AL,21.02.17,330-343E,C
+1775,31.01.17,B-8981,Beijing Capital AL,22.05.17,330-243,C
+1776,10.02.17,B-8870,China Southern AL,29.03.17,330-323E,C
+1777,13.03.17,EC-MOU,Iberia,29.03.17,330-202,
+,,,Level,14.05.17,,C
+1778,10.03.17,B-16338,EVA AW,27.03.17,330-302,C
+1779,20.03.17,ZS-SXL,South African AW,31.03.17,330-343E,
+,,9H-HFA,HiFly Malta,24.04.21,,C
+1780,01.03.17,B-8962,Sichuan AL,19.04.17,330-243,C
+1781,15.03.17,HZ-AQ24,Saudi Arabian AL,27.04.17,330-343E,C
+1782,30.03.17,B-8982,Beijing Capital AL,21.06.17,330-243,C
+1783,14.03.17,N831NW,Delta AL,27.04.17,330-302,C
+1784,30.03.17,EC-MOY,Iberia,28.04.17,330-202,
+,,,Level,21.05.17,,C
+1785,23.03.17,B-8951,Tibet AL,28.04.17,330-243,C
+1786,12.04.17,B-8689,Air China,28.04.17,330-343E,C
+1787,28.04.17,EC-331,MTAD,19.05.17,330-243MRTT,
+,,18-001,Republic of Korea,30.01.19,,C
+1788,25.04.17,B-8968,China Eastern AL,26.05.17,330-343E,C
+1789,03.04.17,RP-C3348,Cebu Pacific AL,19.05.17,330-343E,C
+1790,10.04.17,HZ-AQ25,Saudi Arabian AL,24.05.17,330-343E,C
+1791,05.05.17,EC-GAJ,Aer Lingus,23.05.17,330-302,C
+1792,27.04.17,ZS-SXM,South African AW,12.06.17,330-343E,STD
+1793,24.06.17,B-8360,China Southern AL,11.07.17,330-323E,C
+1794,09.05.17,B-16339,EVA AW,28.06.17,330-302,C
+1795,19.10.17,F-WTTN,Airbus 900NEO proto,,330-941,C
+1796,03.07.17,B-8967,China Eastern AL,28.07.17,330-343E,C
+1797,20.06.17,HZ-AQ26,Saudi Arabian AL,27.07.17,330-343E,C
+1798,19.05.17,B-8970,China Eastern AL,29.06.17,330-343E,C
+1799,13.06.17,EC-336,MTAD,30.06.17,330-243MRTT,
+,,762,Singapore Air Force,15.03.19,,C
+1800,31.07.17,HZ-AQ27,Saudi Arabian AL,20.09.17,330-343E,C
+1801,24.05.17,B-8971,China Eastern AL,28.06.17,330-343E,C
+1802,06.06.17,B-8383,Air China,31.07.17,330-343E,C
+1803,12.06.17,HZ-AQ28,Saudi Arabian AL,02.10.17,330-343E,C
+1804,01.08.17,B-8972,China Eastern AL,28.08.17,330-343E,C
+1805,16.06.17,B-8596,Tianjin AL,19.09.17,330-243,C
+1806,06.10.17,B-16340,EVA AW,26.10.17,330-302,C
+1807,11.07.17,B-8385,Air China,28.08.17,330-343E,C
+1808,22.11.17,EC-338,MTAD,18.12.17,330-243MRTT,
+,,042/F-UJCH,l'Armee de l'Air,06.19,,C
+1809,29.06.17,B-8862,China Eastern AL,30.08.17,330-343E,C
+1810,27.07.17,B-8865,Shenzhen AL,24.09.17,330-343E,C
+1811,13.07.17,B-8386,Air China,22.09.17,330-343E,C
+1812,28.09.17,HZ-AQ29,Saudi Arabian AL,20.11.17,330-343E,C
+1813,04.12.17,,Airbus 900NEO 2nd,,330-941,SCR
+1814,23.08.17,B-8361,China Southern AL,26.09.17,330-343E,C
+1815,06.09.17,B-8362,China Southern AL,17.10.17,330-343E,C
+1816,26.07.17,B-8863,China Eastern AL,14.12.17,330-343E,C
+1817,01.09.17,EI-GCF,Aer Lingus,20.11.17,330-302,C
+1818,15.09.17,B-8363,China Southern AL,28.09.17,330-343E,C
+1819,15.05.18,CS-TUA,TAP Air Portugal,12.04.19,330-941,C
+1820,19.09.17,HS-LAH,Thai Lion Air,20.11.17,330-343E,
+,,PK-LEL,Lion Air tfd,05.03.20,,C
+1821,03.10.17,B-8365,China Southern AL,14.11.17,330-343E,C
+1822,02.10.17,EC-337,MTAD,30.10.17,330-243MRTT,
+,,763,Singapore Air Force,19.06.19,,C
+1823,16.09.17,N361HA,Hawaiian AL,28.09.17,330-243,C
+1824,19.07.18,F-GXLG,Airbus Beluga XL nr 1,19.07.18,330-743L,C
+1825,11.10.17,B-8690,Sichuan AL,26.10.17,330-243,C
+1826,07.11.17,B-8366,China Southern AL,20.11.17,330-343E,C
+1827,09.10.17,B-1022,Hainan AL,28.12.17,330-343E,C
+1828,14.10.17,HS-LAI,Thai Lion Air,11.12.17,330-343E,
+,,PK-LDY,Batik Air tfd,25.10.19,,
+,,PK-LEK,Lion Air tfd,12.02.20,,C
+1829,27.11.17,B-1017,Shenzhen AL,19.12.17,330-343E,C
+1830,15.11.17,EC-340,MTAD,19.12.17,330-243,
+,,T-054,NATO/KLu-Royal Netherlands AF,10.08.20,,C
+1831,31.10.17,B-1021,Hainan AL,26.12.17,330-343E,C
+1832,25.10.17,HS-LAJ,Thai Lion Air,04.12.17,330-343E,
+,,PK-LEM,Lion Air tfd,20.02.20,,C
+1833,28.11.17,B-005A,Airbus China,22.01.18,330-343E,
+,,B-1049,China Eastern AL,27.03.18,,C
+1834,24.11.17,HZ-AQ30,Saudi Arabian AL,12.12.17,330-343E,C
+1835,29.11.17,EC-MSY,Iberia,15.12.17,330-202,C
+1836,24.09.18,CS-TUB,TAP Air Portugal,26.11.18,330-941,C
+1837,23.11.17,B-1020,Hainan AL,23.12.17,330-343E,C
+1838,20.12.17,B-1059,Lucky Air,27.12.17,330-343E,C
+1839,22.12.17,B-1036,Shenzhen AL,22.01.18,330-343E,C
+1840,20.12.17,B-1045,Tianjin AL,13.07.18,330-343E,C
+1841,06.12.17,B-1066,China Eastern AL,25.04.18,330-343E,C
+1842,17.01.18,B-1041,China Eastern AL,29.01.18,330-343E,C
+1843,21.12.17,B-1004,Lucky Air,07.08.18,330-343E,C
+1844,07.03.19,OO-ABF,Air Belgium,14.12.21,330-941,C
+1845,16.01.18,B-1047,Tibet AL,08.03.18,330-243,C
+1846,11.01.18,B-1062,China Southern AL,26.03.18,330-343E,C
+1847,23.01.18,B-1043,Beijing Capital AL,28.09.18,330-243,C
+1848,30.01.18,EC-334,MTAD,28.02.18,330-243,
+,,18-002,Republic of Korea,25.03.19,,C
+1849,22.01.18,B-302D,Tianjin AL,06.08.18,330-343,C
+1850,19.11.18,CS-TUC,TAP Air Portugal,21.12.18,330-941,C
+1851,27.02.18,B-1014,Lucky Air,28.09.18,330-343E,C
+1852,06.02.18,B-1063,China Southern AL,27.03.18,330-343,C
+1853,15.04.19,F-GXLH,Airbus Beluga XL nr 2-test,06.12.19,330-743L,C
+1854,07.02.18,EC-MUD,Iberia,16.03.18,330-202,C
+1855,15.02.18,B-1048,Hainan AL,26.07.18,330-343,C
+1856,28.02.18,B-8589,Sichuan AL,23.04.18,330-343,C
+1857,20.03.18,EC-335,MTAD,28.05.18,330-243MRTT,
+,,764,Singapore Air Force,15.01.21,,C
+1858,21.03.18,B-1065,China Southern AL,09.04.18,330-343,C
+1859,13.03.18,B-1046,Tibet AL,25.04.18,330-243,C
+1860,15.03.18,B-1097,Hainan AL,21.12.18,330-343,C
+1861,21.07.21,OO-ABG,Air Belgium,08.10.21,330-941,C
+1862,16.04.18,B-1042,Beijing Capital AL,01.10.18,330-343,C
+1863,14.03.18,B-LHF,Hong Kong AL,,330-343,STD
+1864,12.05.18,F-HLVL,Level,25.05.18,330-202,
+,,EC-NRG,Iberia tfd,26.07.21,,
+,,,Level tfd,24.02.22,,C
+1865,17.04.18,B-LHG,Hong Kong AL,,330-343,STD
+1866,22.05.18,B-305W,Lucky Air,18.12.18,330-343,C
+1867,27.04.18,B-1072,Shenzhen AL,29.05.18,330-343E,C
+1868,10.04.18,B-300Q,China Eastern AL,13.07.18,330-343E,C
+1869,19.05.18,B-1073,China Eastern AL,01.06.18,330-343E,C
+1870,13.12.19,PK-GYA,Citilink,17.01.20,330-941,
+,,,Garuda Indonesia tfd,03.06.22,,C
+1871,07.05.18,B-1096,Hainan AL,11.12.18,330-343E,C
+1872,18.05.18,9N-ALY,Nepal AL,27.06.18,330-243,C
+1873,18.05.18,B-300P,China Eastern AL,17.08.18,330-343E,C
+1874,12.07.18,B-LHH,Hong Kong AL,,330-343,STD
+1875,07.06.18,B-1098,Hainan AL,21.12.18,330-343,C
+1876,11.01.19,PR-ANZ,Azul L.A.,11.05.19,330-941,C
+1877,07.06.18,EC-MYA,Level,25.06.18,330-202,C
+1878,20.06.18,9N-ALZ,Nepal AL,25.07.18,330-243,C
+1879,03.07.18,B-302E,Shenzhen AL,26.09.18,330-343,C
+1880,13.06.18,B-305R,Beijing Capital AL,30.11.18,330-343,C
+1881,26.06.18,B-303D,China Eastern AL,21.09.18,330-343,C
+1882,17.07.18,F-HLVM,Level,31.07.18,330-202,
+,,EC-NRH,Iberia tfd,26.07.21,,
+,,,Level tfd,09.11.21,,C
+1883,04.07.18,EC-339,MTAD,08.18,330-243MRTT,
+,,19-003,Republic of Korea,19.07.19,,C
+1884,16.02.19,3B-NBU,Air Mauritius,18.04.19,330-941,C
+1885,14.07.18,B-300V,China Southern AL,30.10.18,330-343,C
+1886,01.08.18,EC-332,Airbus Defence & Space,07.11.18,330-243MRTT,
+,,765,Singapore Air Force,15.02.20,,C
+1887,16.11.19,PK-GYC,Citilink,03.12.19,330-941,C
+1888,06.11.18,,Airbus 800NEO proto,,330-841,C
+1889,24.07.18,B-303N,Shenzhen AL,18.01.19,330-343,C
+1890,13.05.19,3B-NBV,Air Mauritius,19.06.19,330-941,C
+1891,05.09.18,EC-333,MTAD,30.10.18,330-243MRTT,
+,,19-004,Republic of Korea,26.11.19,,C
+1892,10.12.18,CS-TUD,TAP Air Portugal,21.12.18,330-941,C
+1893,27.08.18,B-304L,Hainan AL,31.12.18,330-343E,C
+1894,13.09.18,B-300U,China Southern AL,19.12.18,330-343E,C
+1895,24.06.19,PR-ANY,Azul L.A.,30.10.19,330-941,C
+1896,27.08.18,B-303C,Hainan AL,20.12.18,330-343E,C
+1897,25.04.19,CS-TUE,TAP Air Portugal,13.06.19,330-941,C
+1898,13.09.18,B-303Z,Hainan AL,07.12.18,330-343E,C
+1899,08.10.18,B-304K,Hainan AL,07.12.18,330-343E,C
+1900,12.02.19,CS-TUF,TAP Air Portugal,01.03.19,330-941,C
+1901,12.06.19,HS-XJA,Thai Air Asia X,31.08.19,330-941,C
+1902,19.10.18,F-WWKH,Airbus,,330-343,STD
+1903,03.05.19,HS-XJB,Thai Air Asia X,10.08.19,330-941,C
+1904,22.01.19,CS-TUG,TAP Air Portugal,01.03.19,330-941,C
+1905,27.11.18,B-304A,China Eastern AL,14.12.18,330-343E,C
+1906,05.04.19,CS-TUH,TAP Air Portugal,12.06.19,330-941,C
+1907,21.11.18,D-AXEO,K5 Aviation,07.02.22,330-343,C
+1908,15.03.19,CS-TUI,TAP Air Portugal,18.05.19,330-941,C
+1909,31.05.19,CS-TUJ,TAP Air Portugal,12.07.19,330-941,C
+1910,29.01.19,9H-SZN,Air Senegal,07.03.19,330-941,C
+1911,21.01.19,EC-336,Airbus Defence & Space,11.02.19,330-243MRTT,
+,,T-055,NATO/KLu-Royal Netherlands AF,30.06.20,,C
+1912,12.02.19,B-308F,Sichuan AL,24.05.19,330-343E,C
+1913,28.06.19,CS-TUK,TAP Air Portugal,19.07.19,330-941,C
+1914,09.04.19,CS-TUL,TAP Air Portugal,13.06.19,330-941,C
+1915,07.05.19,N401DZ,Delta AL,23.05.19,330-941,C
+1916,18.03.19,EC-330,MTAD,,330-243MRTT,
+,,91-CI/F-UJCI,French Air Force,08.07.20,,C
+1917,22.02.19,B-309T,Capital AL,22.10.19,330-343,STD
+1918,16.07.19,CS-TUM,TAP Air Portugal,09.08.19,330-941,C
+1919,26.06.19,EC-331,MTAD,,330-243MRTT,
+,,T-056,NATO/KLu-Royal Netherlands AF,19.11.20,,C
+1920,28.05.19,N402DX,Delta AL,13.06.19,330-941,C
+1921,11.07.19,CS-TUN,TAP Air Portugal,04.10.19,330-941,C
+1922,21.08.19,CS-TUO,TAP Air Portugal,06.09.19,330-941,C
+1923,13.09.19,6V-ANB,Air Senegal,04.12.19,330-941,C
+1924,16.12.19,PR-ANX,Azul L.A.,16.11.20,330-941,C
+1925,23.09.19,CS-TUP,TAP Air Portugal,08.11.19,330-941,C
+1926,27.06.19,PK-LEI,Lion Air,19.07.19,330-941,C
+1927,05.06.19,PK-LEJ,Lion Air,13.08.19,330-941,C
+1928,26.04.19,SE-REH,SAS,05.07.19,330-343E,C
+1929,16.07.19,CS-TKY,Hi Fly,03.09.19,330-941,
+,,OY-VKJ,Sunclass AL lsd,07.12.22,,C
+1930,02.07.20,F-GXLI,Airbus Beluga XL,26.10.20,330-743L,C
+1931,31.07.19,N403DX,Delta AL,28.08.19,330-941,C
+1932,24.05.19,EC-NEN,Level,05.07.19,330-202,C
+1933,27.09.19,HS-LAK,Thai Lion Air,22.10.19,330-941,
+,,PK-LES,Lion Air tfd,11.05.20,,C
+1934,13.11.19,PR-ANW,Azul L.A.,05.11.20,330-941,C
+1935,13.09.19,N404DX,Delta AL,30.09.19,330-941,C
+1936,26.08.19,F-HLVN,Level,01.10.19,330-202,
+,,EC-NNH,Level rr,12.20,,
+,,,Iberia tfd,r23.06.21,,C
+1937,16.07.19,F-ONEO,Aircalin,30.07.19,330-941,C
+1938,11.09.19,F-ONET,Aircalin,01.10.19,330-941,C
+1939,10.10.19,HS-LAL,Thai Lion Air,31.10.19,330-941,
+,,PK-LET,Lion Air tfd,11.05.20,,C
+1940,,,Hong Kong AL,,330-343,
+1941,22.11.19,CS-TUQ,TAP Air Portugal,14.02.20,330-941,C
+1942,26.09.19,EC-334,MTAD,,330-243MRTT,
+,,F-UJCJ,French Air Force,07.05.21,,C
+1943,03.10.19,CS-TUR,TAP Air Portugal,22.11.19,330-941,C
+1944,,,,,,
+1945,06.11.19,EC-337,,,330-243MRTT,
+,,T-057,NATO/KLu-Royal Netherlands AF,01.04.21,,C
+1946,25.10.19,PK-GHG,Garuda Indonesia,18.12.19,330-941,C
+1947,28.10.19,PK-GHE,Garuda Indonesia,16.11.19,330-941,C
+1948,16.10.19,PK-GHF,Garuda Indonesia,03.12.19,330-941,C
+1949,07.11.19,N405DX,Delta AL,28.02.20,330-941,C
+1950,21.11.19,EI-EIM,Aer Lingus,29.11.19,330-302,C
+1951,11.02.20,EI-EIN,Aer Lingus,28.02.20,330-302,C
+1952,26.11.20,PR-ANV,Azul L.A.,18.12.20,330-941,C
+1953,06.04.20,N406DX,Delta AL,24.09.20,330-941,C
+1954,23.10.19,CS-TUS,TAP Air Portugal,14.02.20,330-941,C
+1955,,,,,,
+1956,27.01.20,PK-LEQ,Lion Air,30.01.21,330-941,C
+1957,03.03.20,N407DX,Delta AL,22.09.20,330-941,C
+1958,04.02.20,D-ANRB,Condor,due22,330-941,STD
+1959,03.06.20,D-ANRC,Condor,,330-941,STD
+1960,28.02.20,EC-335,MTAD,,330-243MRTT,
+,,T-058,NATO/KLu-Royal Netherlands AF,31.08.21,,C
+1961,,D-ANRF,Condor,,330-941,
+1962,07.09.20,N408DX,Delta AL,30.10.20,330-941,C
+1963,25.05.20,CS-TKH,Orbest,07.08.20,330-941,C
+1964,26.06.20,9K-APF,Kuwait AW,29.10.20,330-841,C
+1965,21.02.20,EC-332,MTAD,,330-243MRTT,
+,,F-UJCK,French Air Force,31.08.21,,C
+1966,28.11.22,D-ANRA,Condor,,330-941,
+1967,28.02.20,,Airbus 251 Ton proto,,330-941,C
+,,RP-C3906,Cebu Pacific AL,dueQ3-22,,
+1968,28.05.20,EC-333,MTAD,,330-243MRTT,
+,,F-UJCL,French Air Force,,,
+1969,30.07.20,9K-APG,Kuwait AW,29.10.20,330-841,C
+1970,30.09.22,RP-C3903,Cebu Pacific AL,05.11.22,330-941,C
+1971,,D-ANRE,Condor,,330-941,
+1972,,D-ANRD,Condor,,330-941,
+1973,,,Cebu Pacific AL,due22,330-841,
+1974,,,,,,
+1975,30.10.20,F-HRNB,Corsair,30.03.21,330-941,C
+1976,,,Cebu Pacific AL,due22,330-941,
+1977,18.11.20,5X-NIL,Uganda AL,22.12.20,330-841,C
+1978,20.11.20,PK-LER,Lion Air,01.02.21,330-941,C
+1979,30.11.20,5X-CRN,Uganda AL,01.02.21,330-841,C
+1980,,,,,,
+1981,19.01.21,OY-VKO,Sunclass AL,,330-941,
+1982,24.08.20,EC-338,MTAD,,330-243MRTT,
+,,T-059,NATO/KLu-Royal Netherlands AF,27.07.22,,C
+1983,04.03.21,N409DX,Delta AL,05.04.21,330-941,C
+1984,01.03.21,HS-LAQ,Thai Lion Air,20.09.21,330-941,
+,,PK-LEU,Lion Air tfd,28.07.22,,C
+1985,20.07.21,F-GXLJ,Airbus Beluga XL,04.10.21,330-743L,C
+1986,01.03.21,F-HSKA,Corsair,12.05.21,330-941,C
+1987,06.08.21,HS-LAR,Thai Lion Air,30.09.21,330-941,C
+1988,,D-ANRG,Condor,,330-941,
+1989,15.10.20,EC-340,MTAD,,330-243MRTT,
+,,T-060,NATO/KLu-Royal Netherlands AF,29.07.22,,C
+1990,02.04.21,N410DZ,Delta AL,14.06.21,330-941,C
+1991,03.05.21,N411DX,Delta AL,27.05.21,330-941,C
+1992,27.08.21,F-HKYS,Corsair,16.11.21,330-941,C
+1993,19.05.21,F-HHUG,Corsair,25.06.21,330-941,C
+1994,24.01.22,N412DX,Delta AL,02.03.22,330-941,C
+1995,13.06.22,N413DX,Delta AL,09.09.22,330-941,C
+1996,20.05.22,N414DX,Delta AL,20.09.22,330-941,C
+1997,29.09.22,N415DX,Delta AL,27.10.22,330-941,C
+1998,25.05.21,EC-339,MTAD,,330-243MRTT,
+,,F-UJCM,French Air Force,25.07.22,,C
+1999,04.03.22,N416DX,Delta AL,31.03.22,330-941,C
+2000,08.02.22,N417DX,Delta AL,11.03.22,330-941,C
+2001,22.09.21,RP-C3900,Cebu Pacific AL,25.11.21,330-941,C
+2002,17.11.21,RP-C3901,Cebu Pacific AL,15.12.21,330-941,C
+2003,22.10.21,B-58301,Starlux AL,18.02.22,330-941,C
+2004,06.12.21,RP-C3902,Cebu Pacific AL,19.05.22,330-941,C
+2005,03.08.21,9K-APH,Kuwait AW,28.09.22,330-841,C
+2006,11.02.22,B-58302,Starlux AL,11.05.22,330-941,C
+2007,21.12.21,EC-341,MTAD,,330-243MRTT,
+,,F-UJCN,French Air Force,21.10.22,,C
+2008,10.08.21,EC-336,MTAD,,330-243MRTT,
+,,F-UJCO,French Air Force,,,
+2009,07.04.22,F-HLIV,Corsair,18.05.22,330-941,C
+2010,01.04.22,N418DX,Delta AL,29.04.22,330-941,C
+2011,20.10.21,EC-337,MTAD,19.11.21,330-243MRTT,
+,,F-UJCP,French Air Force,,,
+2012,15.02.22,EC-342,MTAD,30.03.22,330-243MRTT,
+,,F-UJCQ,French Air Force,,,
+2013,11.05.22,B-58303,Starlux AL,,330-941,
+2014,18.07.22,N419DX,Delta AL,,330-941,
+2015,19.05.22,EC-343,MTAD,,330-243MRTT,
+,,F-UJCR,French Air Force,,,
+2016,23.08.22,9K-API,Kuwait AW,28.09.22,330-841,C
+2017,27.07.22,B-58304,Starlux AL,28.09.22,330-941,C
+2018,12.08.22,G-VJAZ,Virgin Atlantic,13.10.22,330-941,C
+2019,13.09.22,G-VTOM,Virgin Atlantic,16.11.22,330-941,C
+2020,25.10.22,OY-GKN,Air Greenland,07.12.22,330-841,C
+2021,,N420DX,Delta AL,,330-941,
+2022,17.10.22,F-UJCU,French Air Force,15.11.22,330-243MRTT,C
+2023,10.11.22,1303,United Arab Emirates AF,,330-243MRTT,
+2024,08.12.22,D-ANRH,Condor,,330-941,
+2025,,G-VJAX,Virgin Atlantic,,330-941,
+2026,,D-ANRI,Condor,,330-941,
+2027,21.07.22,F-GXLN,Airbus Beluga XL,26.09.22,330-743L,C
+2028,,,Delta AL,,330-941,
+2029,,,Virgin Atlantic,,330-941,
+2030,,EC-344,MTAD,,330-243MRTT,
+,,,NATO/KLu-Royal Netherlands AF,,,
+2031,,,Delta AL,,330-941,
+2032,,,Delta AL,,330-941,
+2033,,D-ANRK,Condor,,330-941,
+2034,,,Delta AL,,330-941,
+2035,,,ITA AW,,330-941,
+2036,,1304,United Arab Emirates AF,,330-243MRTT,
+2037,,,Delta AL,,330-941,
+2038,,,ITA AW,,330-941,
+2039,,,ITA AW,,330-941,
+2040,,D-ANRL,Condor,,330-941,
+2041,,,Airbus Beluga XL,,330-743L,
+2042,,,ITA AW,,330-941,
+2043,,T,NATO/KLu-Royal Netherlands AF,,330-243MRTT,
+2044,,D-ANRM,Condor,,330-941,
+2045,,,Delta AL,,330-941,
+2046,,,ITA AW,,330-941,
+2047,,,ITA AW,,330-941,
+2048,,,Delta AL,,330-941,
+2049,,D-ANRN,Condor,,330-941,
+2050,,,Sunclass AL,,330-941,
+2053?,,G-VJAZ,Virgin Atlantic,,330-941,
