@@ -17,5 +17,9 @@ script:
 output:
 	Contains the visualisations/figures.
 
+
 LICENSE!
+
 The content of this project itself is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1), and the underlying source code used to format and display content is licensed under the MIT license.
+
+ EngineDemand © 2023 by Ellen Harpøth Lauersen is licensed under Attribution-NonCommercial 4.0 International 
