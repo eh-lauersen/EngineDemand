@@ -1,0 +1,19 @@
+19-01-2023
+
+downloaded excel file from airlinerlist.com
+
+copied part of the table containing a330 and a340 to a seperate excel file, saved this file in csv format.
+
+created rstudio-project.
+
+attempted to upload csv file to rstudio but encountered flaw: table only had 1 column.
+
+cleaned the table up in openrefine (removed irrelevant columns) and exported the file in csv format.
+
+read the csv file from openrefine in rstudio and it now worked.
+
+18:37 20-01-2023
+
+inspected table in rstudio.
+
+used regex101.com to create a regular expression.
