@@ -1,0 +1,1505 @@
+,c/n,f/f_year,operator,type,St
+1,30.0,93,Air Inter ,330,
+2,37.0,93,Air Inter ,330,
+3,45.0,94,Air Inter ,330,
+4,50.0,94,Thai AW Int ,330,STD
+5,54.0,94,Aer Lingus lsd,330,
+6,55.0,94,Aer Lingus lsd,330,
+7,59.0,94,Air Inter ,330,
+8,60.0,94,Thai AW Int ,330,SCR
+9,62.0,94,Thai AW Int ,330,SCR
+10,64.0,94,Thai AW Int ,330,SCR
+11,65.0,95,Thai AW Int ,330,SCR
+12,66.0,95,Thai AW Int ,330,STD
+13,67.0,95,Malaysian AS,330,SCR
+14,68.0,94,Malaysian AS,330,W/O
+15,69.0,94,Malaysian AS,330,SCR
+16,70.0,94,Aer Lingus lsd,330,
+17,71.0,94,Cathay Pacific,330,
+18,72.0,95,LTU lsd,330,
+19,73.0,95,Malaysian AS,330,SCR
+20,77.0,95,Malaysian AS,330,SCR
+21,82.0,94,LTU Int'l AW lsd,330,
+22,83.0,95,Cathay Pacific,330,
+23,86.0,94,Aer Lingus,330,
+24,87.0,95,LTU lsd,330,
+25,95.0,95,LTU lsd,330,
+26,96.0,95,Malaysian AS lsd,330,
+27,98.0,95,Dragonair lsd,330,
+28,99.0,95,Cathay Pacific,330,
+29,100.0,95,Malaysian AS,330,SCR
+30,102.0,95,Cathay Pacific,330,
+31,106.0,95,Dragonair lsd,330,
+32,107.0,95,Malaysian AS,330,SCR
+33,109.0,95,Cathay Pacific,330,
+34,110.0,95,Malaysian AS,330,SCR
+35,111.0,95,Dragonair lsd,330,
+36,112.0,95,Thai AW Int ,330,STD
+37,113.0,95,Cathay Pacific,330,
+38,116.0,95,Malaysian AS,330,
+39,118.0,95,Cathay Pacific,330,
+40,119.0,95,Malaysian AS,330,SCR
+41,120.0,96,LTU Int'l AW,330,
+42,121.0,95,Cathay Pacific,330,
+43,122.0,95,Thai AW Int ,330,STD
+44,127.0,96,LTU Int'l AW,330,
+45,132.0,96,Cathay Pacific,330,
+46,138.0,96,Garuda,330,C
+47,140.0,96,Garuda Indonesian AW,330,C
+48,143.0,96,Malaysian AS lsd,330,
+49,144.0,97,Garuda Indonesian AW,330,C
+50,148.0,97,Garuda,330,C
+51,153.0,97,Garuda Indonesian AW,330,C
+52,155.0,96,Cathay Pacific,330,
+53,162.0,97,Korean Air,330,C
+54,165.0,97,Garuda,330,C
+55,171.0,97,LTU ,330,
+56,172.0,97,Korean Air,330,C
+57,177.0,97,Dragonair lsd,330,
+58,181.0,97,PROTO 330-200 #1,330,
+59,183.0,97,Philippine AL ,330,
+60,184.0,97,Philippine AL ,330,
+61,188.0,97,Philippine AL ,330,
+62,189.0,97,Philippine AL ,330,
+63,191.0,97,Philippine AL ,330,
+64,195.0,97,PROTO 330-200 #2,330,
+65,198.0,97,Philippine AL ,330,
+66,200.0,97,Philippine AL ,330,
+67,203.0,98,Philippine AL ,330,
+68,205.0,98,Canada 3000 lsd,330,
+69,206.0,98,Korean Air,330,
+70,209.0,98,Thai AW Int ,330,
+71,211.0,98,Canada 3000,330,
+72,219.0,98,Korean Air,330,W/O
+73,222.0,98,Korean Air,330,
+74,223.0,98,Austrian AL ,330,
+75,224.0,98,Thai AW Int ,330,SCR
+76,226.0,98,Korean Air,330,
+77,229.0,98,Swissair,330,
+78,230.0,98,Sabena,330,
+79,231.0,98,Thai AW Int ,330,
+80,232.0,98,TAM Brazil lsd,330,
+81,234.0,98,Dragonair ,330,
+82,238.0,98,TAM Brazil lsd,330,
+83,241.0,98,Korean Air,330,C
+84,244.0,98,Cathay Pacific,330,
+85,247.0,98,TAM Brazil lsd,330,SCR
+86,248.0,98,Emirates AL ,330,
+87,249.0,98,Swissair,330,
+88,250.0,99,Air Transat lsd,330,
+89,251.0,99,Emirates AL,330,
+90,253.0,99,Swissair lsd,330,
+91,254.0,99,Airtours International,330,
+92,255.0,99,Swissair lsd,330,
+93,256.0,99,Korean Air,330,C
+94,258.0,99,Korean Air,330,
+95,259.0,99,TAM Brazil,330,
+96,261.0,99,Monarch AL,330,
+97,262.0,99,Swissair lsd,330,
+98,265.0,99,Monarch AL,330,
+99,266.0,99,Airtours International,330,
+100,267.0,99,Korean Air,330,C
+101,269.0,99,Aer Lingus,330,
+102,271.0,99,Air Transat lsd,330,
+103,272.0,99,Canada 3000 lsd,330,
+104,275.0,99,Swissair,330,
+105,276.0,99,Gulf Air,330,
+106,277.0,99,Air Canada,330,C
+107,279.0,99,Air Canada,330,C
+108,281.0,99,Gulf Air,330,
+109,283.0,99,Emirates AL,330,
+110,284.0,99,Air Canada,330,C
+111,285.0,99,Corsair,330,C
+112,286.0,99,Gulf Air,330,
+113,287.0,99,Gulf Air,330,
+114,288.0,99,Swissair,330,
+115,290.0,99,Sabena lsd,330,
+116,291.0,99,Swissair,330,
+117,293.0,99,Emirates AL,330,
+118,294.0,99,Swissair lsd,330,
+119,295.0,99,Emirates AL,330,
+120,296.0,99,Sabena lsd,330,
+121,299.0,99,Swissair,330,
+122,300.0,99,Sabena lsd,330,
+123,301.0,99,Airtours International,330,
+124,303.0,99,Srilankan AL,330,C
+125,305.0,99,Flightlease,330,
+126,306.0,99,Srilankan AL,330,C
+127,308.0,99,Swissair,330,
+128,309.0,99,Airtours International,330,
+129,311.0,99,Srilankan AL,330,C
+130,312.0,99,Swissair,330,
+131,313.0,99,Srilankan AL,330,
+132,314.0,99,Emirates AL,330,
+133,315.0,00,US AW,330,
+134,316.0,00,Emirates AL,330,
+135,317.0,99,Austrian AL lsd,330,
+136,320.0,00,Corsair,330,SCR
+137,322.0,00,Sabena,330,
+138,323.0,00,US AW,330,
+139,324.0,00,Sabena,330,
+140,326.0,00,Emirates AL,330,
+141,328.0,00,Emirates AL,330,
+142,330.0,00,Aer Lingus lsd,330,
+143,333.0,00,US AW lsd,330,
+144,334.0,00,Gulf Air,330,
+145,336.0,00,Srilankan AL,330,W/O
+146,337.0,00,US AW lsd,330,
+147,338.0,00,Korean Air,330,C
+148,339.0,00,Canada 3000 lsd,330,
+149,340.0,00,Gulf Air,330,
+150,341.0,00,Srilankan AL,330,W/O
+151,342.0,00,US AW lsd,330,
+152,343.0,00,Swissair,330,
+153,344.0,00,Air Canada,330,C
+154,345.0,00,Emirates AL,330,
+155,346.0,00,Thai AW Int,330,STD
+156,348.0,00,Emirates AL,330,
+157,349.0,00,Airtours/Premiair,330,
+158,350.0,00,Korean Air,330,C
+159,351.0,00,Korean Air,330,C
+160,353.0,00,Fll/Novair AL,330,
+161,356.0,00,Airtours/Premiair,330,
+162,357.0,00,Airtours/Premiair,330,
+163,358.0,00,Air Afrique lsd,330,
+164,361.0,00,TAM Brasil,330,
+165,362.0,00,Novair AL lsd ,330,
+166,364.0,00,Air Afrique lsd,330,
+167,365.0,00,Emirates AL,330,
+168,366.0,00,Swissair,330,
+169,368.0,00,Korean Air,330,C
+170,369.0,00,Edelweiss Air lsd,330,
+171,370.0,00,US AW lsd,330,
+172,372.0,00,Emirates AL,330,
+173,375.0,00,US AW lsd,330,
+174,380.0,01,US AW,330,
+175,382.0,01,Emirates AL,330,SCR
+176,384.0,00,Emirates AL,330,SCR
+177,386.0,01,Cathay Pacific,330,
+178,388.0,01,US AW,330,
+179,389.0,01,Cathay Pacific,330,
+180,392.0,01,Emirates AL,330,
+181,393.0,01,Cathay Pacific,330,
+182,396.0,01,Emirates AL,330,
+183,397.0,01,Aer Lingus,330,
+184,398.0,01,bmi British Midland,330,
+185,400.0,01,Air Canada,330,C
+186,401.0,01,bmi British Midland,330,
+187,403.0,01,LTU Int'l AW,330,
+188,404.0,01,bmi British Midland lsd,330,
+189,405.0,01,Dragonair,330,
+190,407.0,01,Dragonair lsd,330,
+191,408.0,01,Air Canada,330,C
+192,409.0,01,Emirates AL,330,
+193,412.0,01,Air Canada,330,C
+194,418.0,01,Cathay Pacific AW,330,C
+195,419.0,01,Air Canada,330,C
+196,420.0,01,Cathay Pacific AW,330,C
+197,421.0,01,Cathay Pacific AW,330,C
+198,422.0,01,Air France lsd,330,C
+199,423.0,01,Cathay Pacific AW,330,C
+200,425.0,01,Korean Air,330,
+201,427.0,01,JMC AL lsd,330,
+202,428.0,01,Korean Air,330,C
+203,432.0,01,LTU Int'l AW lsd,330,
+204,437.0,01,Emirates AL,330,
+205,439.0,01,Cathay Pacific AW,330,
+206,441.0,01,Qatar AW,330,
+207,443.0,01,Air France,330,C
+208,444.0,02,LTU Int'l AW lsd,330,
+209,448.0,02,Air France lsd,330,C
+210,451.0,02,Emirates AL,330,
+211,452.0,02,Emirates AL,330,
+212,454.0,02,LTU Int'l AW lsd,330,
+213,455.0,03,Emirates AL,330,
+214,456.0,02,JMC AL lsd,330,
+215,458.0,02,Air France lsd,330,C
+216,461.0,02,Iberworld lsd,330,
+217,462.0,02,Emirates AL lsd,330,
+218,463.0,02,Volare AL lsd,330,
+219,465.0,02,Air France lsd,330,C
+220,466.0,02,TAM lsd,330,
+221,469.0,02,LTU Int'l AW lsd,330,
+222,472.0,02,TAM lsd,330,
+223,473.0,02,Qatar AW,330,
+224,476.0,02,LTU Int'l AW lsd,330,
+225,477.0,02,TAM lsd,330,
+226,479.0,02,Dragonair,330,
+227,480.0,02,Air Transat lsd,330,
+228,481.0,02,Air France lsd,330,C
+229,484.0,02,Korean Air,330,C
+230,486.0,02,TAM lsd,330,
+231,487.0,02,Qatar AW,330,C
+232,490.0,02,Korean Air,330,C
+233,493.0,02,LTU Int'l AW lsd,330,
+234,494.0,02,Emirates AL,330,
+235,496.0,02,SAS lsd,330,
+236,497.0,02,SAS lsd,330,
+237,498.0,02,Air France,330,C
+238,500.0,02,Air France lsd,330,C
+239,501.0,02,Star AL lsd,330,
+240,502.0,02,Air France lsd,330,C
+241,503.0,02,Air France lsd,330,C
+242,504.0,02,Volare AL lsd,330,
+243,505.0,02,Cyprus AW lsd,330,
+244,506.0,03,Qantas,330,
+245,507.0,02,Air Caledonie Int'l,330,
+246,508.0,02,Qantas,330,
+247,509.0,02,Emirates AL,330,
+248,510.0,02,Air Caledonie Int'l,330,
+249,511.0,03,Qatar AW,330,
+250,512.0,02,Dragonair,330,
+251,513.0,03,Qantas,330,
+252,515.0,03,SAS lsd,330,
+253,516.0,03,Air France lsd,330,C
+254,519.0,03,Air France lsd,330,C
+255,521.0,03,Qatar AW,330,
+256,522.0,02,Qantas,330,
+257,524.0,03,Northwest AL,330,
+258,525.0,03,Emirates AL,330,
+259,526.0,03,Cyprus AW lsd,330,
+260,527.0,03,MEA-Middle East AL lsd,330,
+261,529.0,03,MEA-Middle East AL lsd,330,
+262,530.0,03,EVA Air lsd,330,
+263,532.0,03,MEA-Middle East AL lsd,330,
+264,533.0,03,Northwest AL,330,C
+265,535.0,03,EVA Air lsd,330,
+266,536.0,03,Emirates AL,330,
+267,539.0,03,Cathay Pacific AW,330,C
+268,542.0,03,Northwest AL,330,
+269,548.0,03,Cathay Pacific AW,330,C
+270,549.0,03,Northwest AL,330,
+271,550.0,03,Korean AL,330,C
+272,551.0,03,Livingston AL lsd,330,
+273,552.0,03,Northwest AL,330,
+274,553.0,03,Qantas,330,C
+275,555.0,03,EVA AW lsd,330,
+276,558.0,03,Qantas,330,C
+277,564.0,03,Qantas,330,C
+278,565.0,03,Cathay Pacific AW,330,C
+279,567.0,04,Air France,330,C
+280,568.0,03,SAS lsd,330,
+281,570.0,04,Lufthansa,330,
+282,571.0,04,Qatar AW,330,
+283,573.0,04,EVA AW lsd,330,
+284,574.0,04,Qantas,330,C
+285,576.0,04,Lufthansa,330,
+286,578.0,04,Northwest AL,330,
+287,579.0,04,Lufthansa,330,
+288,581.0,04,Dragonair lsd,330,
+289,584.0,04,Air France lsd,330,C
+290,587.0,04,EVA AW lsd,330,
+291,588.0,04,Northwest AL,330,
+292,591.0,04,Northwest AL,330,
+293,593.0,04,Qantas,330,C
+294,595.0,04,Qantas,330,C
+295,597.0,04,Livingston AL lsd,330,
+296,602.0,04,China AL,330,C
+297,603.0,04,Qantas,330,C
+298,605.0,04,Qatar AW,330,
+299,607.0,04,China AL,330,C
+300,609.0,04,Northwest AL,330,
+301,612.0,04,Qatar AW lsd,330,
+302,614.0,04,Northwest AL,330,
+303,616.0,04,Qatar AW lsd,330,
+304,618.0,04,Northwest AL,330,
+305,620.0,04,Northwest AL,330,
+306,621.0,04,Northwest AL,330,
+307,623.0,04,Qatar AW,330,
+308,625.0,04,Yemenia AW lsd,330,
+309,627.0,04,Livingston AL lsd,330,
+310,629.0,04,Lufthansa,330,
+311,631.0,04,Northwest AL,330,
+312,632.0,04,Yemenia AW lsd,330,
+313,633.0,04,Northwest AL,330,
+314,634.0,04,EVA Air lsd,330,
+315,635.0,04,Star AL lsd,330,
+316,636.0,04,Lufthansa,330,
+317,637.0,04,Qatar AW,330,STD
+318,638.0,04,Qatar AW,330,
+319,640.0,04,Asiana AL,330,C
+320,641.0,04,China AL,330,C
+321,642.0,04,Lufthansa,330,C
+322,644.0,04,Air Algerie,330,C
+323,645.0,04,Lufthansa,330,
+324,647.0,05,Air Algerie,330,C
+325,648.0,05,Lufthansa,330,
+326,649.0,05,China Southern AL,330,C
+327,650.0,05,Air Algerie,330,C
+328,652.0,05,China Southern AL,330,C
+329,653.0,05,Air Algerie,330,C
+330,654.0,05,Dragonair lsd,330,
+331,655.0,05,EVA Air lsd,330,
+332,656.0,05,China Southern AL,330,C
+333,657.0,05,Air France,330,C
+334,658.0,05,Etihad AW lsd,330,STD
+335,659.0,05,Qatar AW,330,
+336,660.0,05,Air France,330,W/O
+337,661.0,05,EVA Air lsd,330,
+338,662.0,05,Dragonair lsd,330,
+339,663.0,05,Northwest AL,330,
+340,664.0,05,China Southern AL,330,C
+341,665.0,05,Eurofly lsd,330,
+342,666.0,05,Egyptair,330,C
+343,667.0,05,Air Algerie,330,C
+344,669.0,05,Cathay Pacific AL lsd,330,
+345,670.0,05,Iberworld lsd,330,
+346,671.0,05,China AL,330,C
+347,673.0,05,Cathay Pacific AL lsd,330,
+348,674.0,05,Northwest AL,330,
+349,675.0,05,China AL,330,C
+350,676.0,05,Asiana AL,330,C
+351,678.0,05,EVA Air,330,C
+352,679.0,05,Cathay Pacific AL lsd,330,
+353,680.0,05,Qatar AW,330,C
+354,682.0,05,KLM,330,C
+355,683.0,05,Egyptair,330,C
+356,684.0,05,Qatar AW lsd,330,
+357,686.0,05,KLM,330,C
+358,687.0,05,Lufthansa,330,C
+359,688.0,05,Etihad AW lsd,330,STD
+360,690.0,05,Northwest AL,330,
+361,691.0,05,China AL,330,C
+362,692.0,05,Dragonair lsd,330,
+363,693.0,05,EVA Air,330,C
+364,695.0,05,Qantas,330,C
+365,696.0,05,Egyptair,330,
+366,697.0,05,THY Turkish AL,330,C
+367,699.0,05,China AL,330,C
+368,700.0,05,TAM lsd,330,
+369,701.0,05,Lufthansa,330,
+370,703.0,05,KLM,330,C
+371,704.0,05,THY Turkish AL,330,C
+372,705.0,05,Qantas,330,C
+373,707.0,05,China AL,330,C
+374,708.0,05,Asiana AL,330,C
+375,711.0,05,Qatar AW,330,C
+376,712.0,05,Qantas,330,C
+377,713.0,05,China Eastern AL,330,
+378,714.0,05,China AL,330,C
+379,716.0,05,Dragonair lsd,330,
+380,717.0,06,Etihad AW,330,
+381,718.0,06,Northwest AL,330,
+382,720.0,05,China Eastern AL,330,
+383,721.0,06,Qatar AW,330,C
+384,722.0,06,Northwest AL,330,
+385,724.0,06,Etihad AW,330,STD
+386,725.0,06,China AL lsd,330,
+387,726.0,06,Egyptair,330,C
+388,728.0,06,China Eastern AL,330,
+389,729.0,06,Etihad AW,330,STD
+390,730.0,06,Etihad AW,330,STD
+391,732.0,06,China Eastern AL,330,
+392,733.0,06,Air Europa lsd,330,
+393,734.0,06,Qatar AW,330,C
+394,735.0,06,China Eastern AL,330,
+395,737.0,06,Etihad AW,330,STD
+396,738.0,06,KLM,330,C
+397,739.0,06,LTU Int'l AW lsd,330,
+398,741.0,06,Dragonair lsd,330,
+399,742.0,06,THY Turkish AL,330,C
+400,743.0,06,Qatar AW,330,C
+401,745.0,06,Air Europa lsd,330,
+402,746.0,06,Qatar AW,330,C
+403,747.0,06,Royal Australian AF,330,
+404,749.0,06,Air Europa lsd,330,
+405,750.0,06,Air China,330,C
+406,751.0,06,Jet AW lsd,330,
+407,752.0,06,China AL,330,C
+408,754.0,06,THY Turkish AL,330,C
+409,755.0,06,EVA AW,330,C
+410,756.0,06,Air China,330,C
+411,758.0,06,Air Caraibes lsd,330,C
+412,759.0,06,Air China,330,C
+413,760.0,06,Qatar AW,330,
+414,769.0,06,China AL,330,
+415,770.0,06,KLM,330,C
+416,772.0,06,Asiana AL,330,C
+417,773.0,06,China Eastern AL lsd,330,
+418,774.0,06,THY Turkish AL,330,C
+419,776.0,06,Cathay Pacific AW lsd,330,C
+420,777.0,06,China Eastern AL,330,
+421,778.0,06,Northwest AL,330,
+422,780.0,06,Air China,330,C
+423,781.0,06,China Eastern AL,330,
+424,782.0,06,China Eastern AL,330,
+425,784.0,06,Northwest AL,330,
+426,785.0,06,Air China,330,STD
+427,786.0,06,Dragonair lsd,330,
+428,788.0,06,Etihad AW,330,STD
+429,789.0,06,Qatar AW,330,
+430,791.0,06,China Eastern AL,330,
+431,792.0,06,Qatar AW,330,C
+432,795.0,06,Thomas Cook AL lsd,330,
+433,796.0,06,Northwest AL,330,
+434,797.0,06,Air China,330,C
+435,799.0,06,Northwest AL,330,
+436,801.0,06,KLM,330,C
+437,802.0,06,Eurofly lsd,330,
+438,803.0,06,Asiana AL,330,C
+439,806.0,06,Northwest AL,330,
+440,807.0,06,Jet AW lsd,330,
+441,809.0,07,Etihad AW,330,STD
+442,810.0,06,Air China,330,
+443,811.0,06,KLM lsd,330,
+444,813.0,06,Qatar AW,330,C
+445,814.0,07,Air Europa lsd,330,
+446,815.0,07,Air China,330,
+447,817.0,07,Northwest AL,330,
+448,818.0,07,China Southern AL,330,
+449,819.0,07,KLM lsd,330,
+450,820.0,07,Qatar AW,330,
+451,821.0,07,China Eastern AL,330,C
+452,822.0,07,Air Comet lsd,330,
+453,823.0,07,China AL,330,C
+454,824.0,07,Etihad AW,330,
+455,825.0,07,Jet AW slsd,330,
+456,826.0,07,Qatar AW,330,C
+457,827.0,07,Northwest AL,330,
+458,828.0,07,LTU Int'l AW lsd,330,
+459,830.0,07,China Eastern AL,330,
+460,831.0,07,Jet AW lsd,330,
+461,832.0,07,Etihad AW,330,
+462,833.0,07,Iberworld lsd,330,
+463,834.0,07,KLM lsd,330,
+464,836.0,07,China Eastern AL,330,C
+465,838.0,07,China AL,330,C
+466,839.0,07,Air China,330,C
+467,840.0,07,China Southern AL,330,
+468,841.0,07,Aer Lingus,330,C
+469,842.0,07,Jetstar AW lsd,330,
+470,843.0,07,Northwest AL,330,
+471,845.0,07,Asiana AL,330,C
+472,847.0,07,Aer Lingus,330,C
+473,849.0,07,Qatar AW,330,C
+474,850.0,07,Cathay Pacific AW,330,C
+475,851.0,07,China Eastern AL,330,C
+476,852.0,07,Etihad AW,330,
+477,853.0,07,Jetstar AW lsd,330,
+478,854.0,07,Etihad AW,330,
+479,855.0,07,Cathay Pacific AW,330,C
+480,857.0,07,Northwest AL,330,
+481,858.0,07,Northwest AL,330,
+482,859.0,07,Northwest AL,330,
+483,860.0,07,Air China,330,C
+484,861.0,07,China AL,330,C
+485,863.0,07,Midroc Aviation,330,
+486,865.0,07,Northwest AL,330,
+487,867.0,07,Air China,330,C
+488,868.0,07,Etihad AW,330,
+489,869.0,07,TAM,330,
+490,873.0,07,Air China,330,C
+491,874.0,08,Kingfisher AL slsd,330,
+492,875.0,07,Hainan AL lsd,330,C
+493,876.0,07,TAM,330,
+494,877.0,07,TAP Air Portugal,330,
+495,879.0,07,China Southern AL,330,
+496,881.0,07,Hainan AL lsd,330,C
+497,882.0,07,Jet AW lsd,330,
+498,883.0,07,Air Mauritius,330,
+499,884.0,07,Air China,330,C
+500,885.0,07,Jet AW lsd,330,
+501,887.0,07,Qantas,330,C
+502,888.0,07,Jet AW lsd,330,
+503,889.0,07,China Southern AL,330,
+504,890.0,07,Air China,330,C
+505,891.0,08,Kingfisher AL lsd,330,
+506,892.0,07,Qantas lsd,330,
+507,893.0,07,Qatar AW,330,
+508,895.0,07,Cathay Pacific AW lsd,330,
+509,896.0,08,Lufthansa,330,C
+510,898.0,08,Qantas lsd,330,
+511,899.0,08,TAP Air Portugal,330,
+512,900.0,08,KLM lsd,330,
+513,901.0,08,Jet AW lsd,330,
+514,903.0,08,Air China,330,C
+515,904.0,08,TAP Air Portugal,330,STD
+516,905.0,08,Lufthansa,330,C
+517,906.0,08,Hainan AL lsd,330,C
+518,907.0,08,Qatar AW,330,C
+519,908.0,08,China Southern AL,330,
+520,909.0,08,Air China,330,C
+521,911.0,08,Air Berlin,330,
+522,913.0,08,Lufthansa,330,C
+523,914.0,08,TAP Air Portugal,330,C
+524,915.0,08,Cathay Pacific AW lsd,330,
+525,916.0,08,China Eastern AL,330,C
+526,918.0,08,Qatar AW,330,C
+527,919.0,08,Hainan AL lsd,330,
+528,920.0,08,China AL lsd,330,C
+529,922.0,08,Lufthansa,330,C
+530,923.0,08,Jet AW lsd,330,
+531,925.0,08,KLM lsd,330,
+532,926.0,08,MEA - Middle East AL,330,
+533,927.0,08,Kingfisher AL lsd,330,
+534,928.0,08,China Eastern AL,330,C
+535,930.0,08,Air China,330,C
+536,931.0,08,Air Europa lsd,330,
+537,932.0,08,Jet AW lsd,330,
+538,934.0,08,TAP Air Portugal,330,C
+539,935.0,08,China Southern AL,330,
+540,936.0,08,China Eastern AL,330,C
+541,937.0,08,China Southern AL,330,
+542,939.0,08,Kingfisher AL lsd,330,
+543,940.0,08,Qantas lsd,330,
+544,941.0,08,Air China,330,C
+545,942.0,08,China Eastern AL,330,C
+546,943.0,08,Air Comet lsd,330,
+547,944.0,08,Air China,330,C
+548,945.0,08,Qantas lsd,330,
+549,946.0,08,Kingfisher AL lsd,330,
+550,947.0,08,Jet AW lsd,330,
+551,948.0,08,Avianca lsd,330,
+552,949.0,08,TAM,330,
+553,950.0,08,Air Europa lsd,330,
+554,951.0,08,Royal Australian AF,330,
+555,952.0,08,AirAsia X,330,
+556,954.0,08,China Southern AL,330,
+557,956.0,08,Jet AW slsd,330,
+558,957.0,08,Air China,330,C
+559,958.0,08,China Southern AL,330,
+560,959.0,08,Cathay Pacific AW lsd,330,
+561,961.0,08,TAM,330,
+562,962.0,08,Air Comet,330,
+563,963.0,08,Aeroflot lsd,330,
+564,964.0,08,China Southern AL,330,
+565,965.0,08,Air Caraibes lsd,330,
+566,966.0,08,Mexicana lsd,330,
+567,967.0,08,Avianca slsd,330,
+568,968.0,08,TAM,330,
+569,969.0,08,MTAD,330,
+570,970.0,08,Air Comet lsd,330,
+571,971.0,08,Mexicana lsd,330,
+572,973.0,08,Aeroflot lsd,330,
+573,974.0,08,AirAsia X,330,
+574,975.0,08,Etihad AW lsd,330,
+575,976.0,08,Qantas lsd,330,C
+576,977.0,08,TAM,330,
+577,978.0,08,Singapore AL lsd,330,
+578,979.0,08,Air Comet lsd,330,
+579,980.0,09,MTAD,330,
+580,982.0,09,Hainan AL lsd,330,C
+581,983.0,09,Singapore AL lsd,330,
+582,984.0,09,MEA - Middle East AL,330,C
+583,985.0,08,Aer Lingus,330,C
+584,986.0,09,Singapore AL lsd,330,
+585,988.0,09,Garuda Indonesian AW lsd,330,
+586,989.0,09,Lufthansa,330,C
+587,990.0,09,Thai AW Int,330,C
+588,991.0,09,Etihad AW lsd,330,
+589,992.0,09,Gulf Air,330,
+590,994.0,09,Finnair lsd,330,C
+591,995.0,09,MEA - Middle East AL,330,C
+592,996.0,09,MTAD,330,
+593,997.0,09,Singapore AL,330,
+594,998.0,08,MEA - Middle East AL,330,C
+595,999.0,09,Afriqiyah AW,330,W/O
+596,1000.0,09,Swiss Int'l AL,330,C
+597,1001.0,09,Asiana AL lsd,330,C
+598,1002.0,09,HSH Nordbank,330,
+599,1003.0,09,Thai AW Int,330,C
+600,1006.0,09,Singapore AL lsd,330,
+601,1007.0,09,Finnair lsd,330,C
+602,1008.0,09,Hi Fly lsd,330,
+603,1009.0,09,Avianca lsd,330,C
+604,1010.0,09,Singapore AL,330,
+605,1011.0,09,US AW,330,
+606,1012.0,09,Singapore AL lsd,330,
+607,1013.0,09,Finnair lsd,330,STD
+608,1014.0,09,Aeroflot lsd,330,
+609,1015.0,09,Singapore AL lsd,330,
+610,1016.0,09,Avianca lsd,330,
+611,1018.0,09,Swiss Int'l AL,330,C
+612,1019.0,09,HSH Nordbank,330,
+613,1020.0,09,Garuda Indonesian AW lsd,330,
+614,1021.0,09,Air Caraibes lsd,330,
+615,1022.0,09,US AW,330,
+616,1023.0,09,Finnair,330,C
+617,1024.0,09,Afriqiyah AW,330,W/O
+618,1025.0,09,Aer Lingus,330,
+619,1026.0,09,Swiss Int'l AL,330,C
+620,1028.0,09,Garuda Indonesian AW lsd,330,
+621,1029.0,09,Swiss Int'l AL,330,C
+622,1031.0,09,Hong Kong AL,330,C
+623,1033.0,09,MTAD,330,
+624,1034.0,10,Hainan AL lsd,330,
+625,1035.0,09,Thai AW Int,330,C
+626,1037.0,09,Thai AW Int,330,C
+627,1038.0,09,Oman Air lsd,330,C
+628,1039.0,09,Hong Kong AL,330,C
+629,1041.0,09,US AW lsd,330,
+630,1042.0,09,Hong Kong AL,330,C
+631,1043.0,09,Afriqiyah AW,330,STD
+632,1044.0,09,Oman Air,330,C
+633,1045.0,09,Aeroflot lsd,330,
+634,1046.0,09,MTAD,330,
+635,1047.0,09,Aeroflot lsd,330,
+636,1048.0,09,AirAsia X,330,C
+637,1049.0,09,Oman Air lsd,330,C
+638,1052.0,09,Garuda Indonesian AW lsd,330,
+639,1053.0,09,Comlux Aviation,330,
+640,1054.0,10,Hong Kong AL,330,C
+641,1055.0,09,Asiana AL lsd,330,C
+642,1057.0,09,Air Mauritius,330,
+643,1058.0,09,Aeroflot lsd,330,
+644,1059.0,10,Hong Kong AL lsd,330,C
+645,1060.0,09,Thai AW Int,330,C
+646,1061.0,09,Qantas lsd,330,C
+647,1063.0,09,Oman Air,330,C
+648,1065.0,09,Aeroflot lsd,330,
+649,1066.0,09,AirAsia X,330,C
+650,1067.0,09,Finnair lsd,330,C
+651,1069.0,09,US AW lsd,330,
+652,1071.0,09,Etihad AW,330,STD
+653,1072.0,09,Aeroflot lsd,330,
+654,1073.0,09,Avianca slsd,330,STD
+655,1074.0,09,Thai AW Int,330,C
+656,1075.0,09,AirAsia X,330,C
+657,1076.0,09,US AW lsd,330,
+658,1077.0,09,Aeroflot lsd,330,
+659,1078.0,09,Finnair,330,STD
+660,1080.0,09,MTAD,330,
+661,1081.0,09,Etihad AL,330,STD
+662,1082.0,10,Sichuan AL lsd,330,
+663,1084.0,09,Swiss Int'l AL,330,C
+664,1085.0,09,Singapore AL lsd,330,
+665,1086.0,10,Thai AW Int,330,C
+666,1087.0,10,Air China,330,C
+667,1088.0,10,Finnair,330,C
+668,1089.0,10,Swiss Int'l AL,330,C
+669,1090.0,10,Thai AW Int,330,C
+670,1093.0,10,Oman Air,330,C
+671,1094.0,10,Qantas lsd,330,C
+672,1095.0,10,US AW,330,
+673,1096.0,10,China Southern AL,330,C
+674,1097.0,10,Iberworld lsd,330,
+675,1098.0,10,Singapore AL lsd,330,
+676,1099.0,10,Singapore AL lsd,330,
+677,1100.0,10,US AW,330,
+678,1101.0,10,Swiss Int'l AL,330,C
+679,1103.0,09,Aeroflot lsd,330,
+680,1104.0,10,Hawaiian AL lsd,330,C
+681,1105.0,10,Singapore AL lsd,330,
+682,1106.0,10,Aer Lingus,330,
+683,1107.0,10,Singapore AL lsd,330,
+684,1108.0,10,Saudi Arabian AL,330,C
+685,1110.0,10,Air China,330,C
+686,1112.0,10,TAM,330,
+687,1114.0,10,Hawaiian AL,330,C
+688,1116.0,10,China Southern AL,330,C
+689,1118.0,10,TAM lsd,330,
+690,1120.0,10,Oman Air,330,C
+691,1123.0,10,Alitalia lsd,330,
+692,1124.0,10,Singapore AL lsd,330,
+693,1126.0,10,AirAsia X,330,C
+694,1127.0,10,Saudi Arabian AL,330,C
+695,1129.0,10,China Southern AL,330,C
+696,1130.0,10,Air China,330,C
+697,1131.0,10,AirAsia X,330,C
+698,1132.0,10,Singapore AL lsd,330,
+699,1133.0,10,Korean Air,330,C
+700,1135.0,10,Alitalia lsd,330,
+701,1137.0,10,Saudi Arabian AL,330,C
+702,1138.0,10,Sichuan AL lsd,330,C
+703,1141.0,10,Saudi Arabian AL,330,C
+704,1143.0,10,Egyptair,330,C
+705,1145.0,10,Swiss Int'l AL,330,C
+706,1146.0,10,Singapore AL lsd,330,
+707,1147.0,10,Saudi Arabian AL,330,C
+708,1149.0,10,Singapore AL lsd,330,
+709,1150.0,10,THY Turkish AL,330,C
+710,1151.0,10,Asiana AL lsd,330,C
+711,1153.0,10,Saudi Arabian AL,330,C
+712,1155.0,10,Korean Air,330,C
+713,1156.0,10,Singapore AL lsd,330,
+714,1157.0,10,Singapore AL lsd,330,
+715,1159.0,10,Hainan AL lsd,330,C
+716,1160.0,10,THY Turkish AL,330,C
+717,1161.0,10,KLM,330,
+718,1163.0,10,Cathay Pacific AW,330,C
+719,1165.0,10,AirAsia X,330,
+720,1167.0,10,Etihad AW,330,STD
+721,1168.0,10,Hainan AL lsd,330,C
+722,1169.0,10,Qantas lsd,330,C
+723,1170.0,10,THY Turkish AL,330,C
+724,1171.0,10,Hawaiian AL lsd,330,C
+725,1172.0,10,THY Turkish AL,330,C
+726,1173.0,10,Finnair,330,C
+727,1174.0,10,Qantas lsd,330,C
+728,1177.0,10,China AL lsd,330,C
+729,1178.0,10,Hainan AL lsd,330,C
+730,1181.0,10,Swiss Int'l AL,330,C
+731,1183.0,10,MTAD,330,
+732,1184.0,10,Garuda Indonesian AW lsd,330,C
+733,1186.0,10,MTAD,330,
+734,1187.0,10,Air China,330,C
+735,1188.0,10,Swiss Int'l AL,330,C
+736,1189.0,10,Saudi Arabian AL,330,C
+737,1190.0,10,Hainan AL lsd,330,C
+738,1191.0,11,South African AW,330,
+739,1192.0,11,Saudi Arabian AL,330,C
+740,1193.0,11,Edelweiss Air lsd,330,
+741,1195.0,11,Virgin Atlantic AW,330,C
+742,1196.0,11,Cathay Pacific,330,C
+743,1198.0,11,Jetstar AW slsd,330,
+744,1199.0,11,Air China,330,C
+745,1200.0,11,Korean Air,330,C
+746,1201.0,11,Virgin Atlantic AW lsd,330,C
+747,1202.0,11,China Southern AL,330,C
+748,1203.0,11,Korean Air,330,C
+749,1204.0,11,THY Turkish AL,330,C
+750,1205.0,11,Etihad AW,330,STD
+751,1206.0,11,China AL lsd,330,
+752,1208.0,11,Avianca lsd,330,
+753,1209.0,11,Malaysian AS,330,C
+754,1210.0,11,South African AW lsd,330,
+755,1211.0,11,Asiana lsd,330,C
+756,1212.0,11,THY Turkish AL,330,C
+757,1213.0,11,TAM,330,
+758,1214.0,11,Garuda Indonesian AW lsd,330,C
+759,1215.0,11,China AL slsd,330,
+760,1216.0,11,Air China,330,C
+761,1217.0,11,Hawaiian AL,330,C
+762,1218.0,11,Alitalia lsd,330,STD
+763,1219.0,11,Malaysian AS,330,C
+764,1220.0,11,China Southern AL,330,C
+765,1221.0,11,TAM,330,
+766,1222.0,11,Cathay Pacific,330,C
+767,1223.0,11,South African AW lsd,330,
+768,1224.0,11,Avianca lsd,330,
+769,1225.0,11,Alitalia lsd,330,STD
+770,1226.0,11,Etihad AW,330,STD
+771,1228.0,11,THY Turkish AL,330,C
+772,1229.0,11,Malaysian AS,330,C
+773,1230.0,11,Egyptair,330,C
+774,1231.0,11,Virgin Atlantic AW lsd,330,
+775,1232.0,11,Aeroflot,330,
+776,1233.0,11,China Southern AL,330,C
+777,1234.0,11,Malaysian AS,330,C
+778,1235.0,11,MTAD,330,
+779,1236.0,11,South African AW lsd,330,
+780,1237.0,11,Air China,330,C
+781,1238.0,11,Egyptair,330,C
+782,1239.0,11,Cathay Pacific AW,330,C
+783,1240.0,11,Turkish Government,330,C
+784,1241.0,11,Sichuan AL lsd,330,C
+785,1243.0,11,Malaysian AS,330,C
+786,1244.0,11,China Southern AL,330,C
+787,1245.0,11,Etihad AW,330,STD
+788,1246.0,11,Egyptair,330,C
+789,1247.0,11,Aeroflot,330,
+790,1248.0,11,MTAD,330,
+791,1249.0,11,South African AW lsd,330,
+792,1250.0,11,MTAD,330,
+793,1251.0,11,Jetstar AW lsd,330,
+794,1252.0,11,Alitalia lsd,330,
+795,1254.0,11,EVA Air lsd,330,C
+796,1255.0,11,Hainan AL lsd,330,C
+797,1256.0,11,Vietnam AL lsd,330,
+798,1258.0,11,Jetstar AW slsd,330,
+799,1259.0,11,Hawaiian AL,330,C
+800,1260.0,11,Air China lsd,330,C
+801,1261.0,11,Garuda Indonesian AW lsd,330,
+802,1262.0,11,China Eastern AL,330,C
+803,1263.0,11,Thai AW Int,330,C
+804,1264.0,11,Aeroflot lsd,330,
+805,1265.0,11,Air Caraibes,330,
+806,1266.0,11,Vietnam AL lsd,330,
+807,1267.0,11,China Eastern AL,330,C
+808,1268.0,11,EVA Air lsd,330,C
+809,1269.0,11,Thai AW Int,330,C
+810,1270.0,11,Aeroflot,330,
+811,1271.0,11,South African AW lsd,330,
+812,1272.0,11,China AL lsd,330,C
+813,1274.0,11,EVA Air lsd,330,C
+814,1275.0,11,MTAD,330,
+815,1276.0,11,Swiss Int'l AL,330,C
+816,1277.0,11,Hong Kong AL,330,
+817,1278.0,11,China AL lsd,330,C
+818,1279.0,11,Avianca lsd,330,
+819,1280.0,11,China Eastern AL,330,C
+820,1281.0,11,Malaysian AS,330,C
+821,1282.0,11,Air China,330,C
+822,1283.0,11,Alitalia lsd,330,
+823,1284.0,12,Aeroflot,330,
+824,1285.0,12,Cathay Pacific AW,330,C
+825,1286.0,12,Hong Kong AL,330,
+826,1287.0,12,KLM lsd,330,C
+827,1288.0,12,Garuda Indonesian AW lsd,330,C
+828,1289.0,12,Thai AW Int,330,
+829,1290.0,12,Swiss Int'l AL,330,C
+830,1291.0,12,China Eastern AL,330,
+831,1292.0,12,Lufthansa,330,C
+832,1293.0,12,Virgin Australia AL lsd,330,
+833,1294.0,12,KLM lsd,330,C
+834,1295.0,12,Hawaiian AL,330,C
+835,1296.0,12,Virgin Atlantic AW,330,C
+836,1297.0,12,China Southern AL,330,C
+837,1298.0,12,THY Turkish AL,330,C
+838,1299.0,12,Aeroflot,330,
+839,1300.0,12,KLM lsd,330,C
+840,1301.0,12,Aeroflot,330,
+841,1302.0,12,Hawaiian AL,330,C
+842,1303.0,12,China Eastern AL,330,
+843,1304.0,12,Air China,330,C
+844,1305.0,12,Lufthansa,330,C
+845,1306.0,12,Virgin Australia AL lsd,330,
+846,1307.0,12,THY Turkish AL,330,C
+847,1308.0,12,Alitalia lsd,330,
+848,1309.0,12,China Southern AL,330,C
+849,1310.0,12,Hawaiian AL lsd,330,C
+850,1311.0,12,THY Turkish AL,330,C
+851,1312.0,12,MTAD,330,
+852,1313.0,12,Alitalia lsd,330,STD
+853,1314.0,12,Lufthansa,330,C
+854,1315.0,12,Virgin Atlantic AW lsd,330,C
+855,1316.0,12,Hawaiian AL lsd,330,C
+856,1317.0,12,Cathay Pacific AL lsd,330,C
+857,1318.0,12,Malaysian AS,330,C
+858,1319.0,12,Virgin Australia AL lsd,330,STD
+859,1321.0,12,Hong Kong Jet,330,
+860,1322.0,12,Hong Kong AL,330,
+861,1323.0,12,Aeroflot,330,
+862,1324.0,12,China Eastern AL,330,C
+863,1325.0,12,Hainan AL lsd,330,C
+864,1326.0,12,Asiana AL lsd,330,C
+865,1327.0,12,Alitalia lsd,330,
+866,1328.0,12,Aeroflot,330,
+867,1329.0,12,Virgin Atlantic AW,330,C
+868,1330.0,12,Air China,330,C
+869,1331.0,12,China Eastern AL,330,C
+870,1333.0,12,Air China,330,C
+871,1334.0,12,MTAD,330,
+872,1335.0,12,China Southern AL,330,C
+873,1336.0,12,Malaysian AS,330,C
+874,1337.0,12,Malaysian AS,330,C
+875,1338.0,12,Thai AW Int,330,C
+876,1339.0,12,Iraqi AW,330,C
+877,1340.0,12,Asiana AL lsd,330,C
+878,1341.0,12,Virgin Atlantic AW,330,C
+879,1342.0,12,Avianca lsd,330,C
+880,1343.0,12,Cathay Pacific AW,330,C
+881,1345.0,12,Aeroflot,330,
+882,1346.0,12,China AL lsd,330,C
+883,1347.0,12,Malaysian AS,330,C
+884,1348.0,12,Thai AW Int,330,
+885,1349.0,12,Cathay Pacific AW,330,C
+886,1351.0,12,Jet AW lsd,330,
+887,1352.0,12,Virgin Atlantic AW,330,C
+888,1353.0,12,Air China,330,C
+889,1354.0,12,Alitalia lsd,330,
+890,1355.0,12,Swiss Int'l AL,330,
+891,1356.0,12,Aeroflot,330,
+892,1357.0,12,Transasia AW,330,
+893,1358.0,12,Hong Kong AL,330,C
+894,1359.0,12,Corsair lsd,330,C
+895,1360.0,12,XL AW France lsd,330,
+896,1361.0,12,Jet AW lsd,330,
+897,1362.0,12,Cathay Pacific AW,330,C
+898,1363.0,12,MTAD,330,
+899,1364.0,12,Garuda Indonesian AW,330,
+900,1365.0,12,Qantas lsd,330,C
+901,1366.0,12,Cathay Pacific AW,330,C
+902,1367.0,12,China AL lsd,330,C
+903,1369.0,12,Hong Kong AL,330,
+904,1370.0,12,Jet AW lsd,330,
+905,1371.0,12,Aeroflot,330,
+906,1372.0,12,China Eastern AL,330,C
+907,1373.0,12,Air China,330,C
+908,1374.0,12,Thai AW Int,330,STD
+909,1375.0,12,China Eastern AL,330,C
+910,1376.0,12,Corsair lsd,330,C
+911,1377.0,13,Iberia,330,C
+912,1378.0,13,Transasia AW,330,
+913,1379.0,13,MTAD,330,C
+914,1381.0,13,KLM,330,C
+915,1382.0,13,Singapore AL lsd,330,
+916,1383.0,12,Air China,330,C
+917,1384.0,13,Hong Kong AL,330,C
+918,1385.0,13,Iberia,330,C
+919,1387.0,13,Cathay Pacific AW,330,C
+920,1388.0,13,Malaysian AS,330,C
+921,1389.0,13,Hawaiian AL lsd,330,C
+922,1390.0,13,MTAD,330,
+923,1391.0,13,Jet AW lsd,330,
+924,1392.0,13,China Southern AL,330,C
+925,1393.0,13,Korean Air,330,C
+926,1394.0,13,Air Pacific,330,
+927,1395.0,13,Malaysian AS,330,C
+928,1396.0,13,Air China,330,C
+929,1397.0,13,Sichuan AL lsd,330,C
+930,1398.0,13,Hong Kong AL,330,C
+931,1399.0,13,Hawaiian AL,330,C
+932,1400.0,13,Avianca lsd,330,
+933,1401.0,13,Singapore AL lsd,330,
+934,1402.0,13,China Eastern AL,330,
+935,1403.0,13,Swiss Int'l AL,330,C
+936,1404.0,13,Hawaiian AL lsd,330,C
+937,1405.0,13,Iberia,330,C
+938,1407.0,13,Virgin Australia AL lsd,330,
+939,1408.0,13,Thai AW Int,330,
+940,1409.0,13,Cathay Pacific AW,330,C
+941,1410.0,13,Garuda Indonesian AW,330,C
+942,1411.0,13,AirAsia X,330,C
+943,1412.0,13,Libyan AL,330,C
+944,1413.0,13,Air China,330,C
+945,1415.0,13,US AW,330,
+946,1416.0,13,Air Pacific,330,
+947,1417.0,13,US AW,330,
+948,1419.0,13,MTAD,330,
+949,1420.0,13,Cebu Pacific AL lsd,330,
+950,1421.0,13,China Eastern AL,330,
+951,1422.0,13,Hawaiian AL,330,C
+952,1423.0,13,AirAsia X,330,C
+953,1424.0,13,Libyan AL,330,W/O
+954,1425.0,13,China Southern AL,330,C
+955,1426.0,13,Iberia,330,C
+956,1427.0,13,Singapore AL lsd,330,
+957,1429.0,13,China Eastern AL,330,
+958,1430.0,13,China Southern AL,330,C
+959,1431.0,13,Malaysian AS,330,C
+960,1432.0,13,Sichuan AL lsd,330,C
+961,1433.0,13,AirAsia X,330,
+962,1434.0,13,Air China,330,C
+963,1435.0,13,Asiana AL lsd,330,C
+964,1436.0,13,Cathay Pacific AW,330,C
+965,1437.0,13,Iberia,330,C
+966,1438.0,13,Hainan AL lsd,330,C
+967,1439.0,13,MTAD,330,
+968,1440.0,13,China Eastern AL,330,
+969,1441.0,13,US AW,330,
+970,1443.0,13,Cathay Pacific AW,330,C
+971,1444.0,13,Air China,330,C
+972,1445.0,13,Cebu Pacific AL lsd,330,
+973,1446.0,13,Garuda Indonesian AW,330,C
+974,1447.0,13,Singapore AL lsd,330,
+975,1449.0,13,Philippine AL,330,C
+976,1450.0,13,China AL lsd,330,C
+977,1451.0,13,Air Namibia lsd,330,
+978,1452.0,13,Virgin Australia AL lsd,330,
+979,1453.0,13,Singapore AL lsd,330,
+980,1454.0,13,Saudi Arabian AL,330,C
+981,1455.0,13,US AW,330,
+982,1456.0,13,Philippine AL,330,C
+983,1457.0,13,Dragonair lsd,330,
+984,1458.0,13,THY Turkish AL,330,C
+985,1459.0,13,Air China,330,C
+986,1460.0,13,Philippine AL,330,C
+987,1461.0,13,China Eastern AL,330,C
+988,1462.0,13,Saudi Arabian AL,330,C
+989,1463.0,13,Philippine AL,330,C
+990,1464.0,13,Asiana AL lsd,330,C
+991,1465.0,13,Fiji AW,330,C
+992,1466.0,13,Air Namibia lsd,330,
+993,1467.0,13,Philippine AL,330,
+994,1468.0,13,China Eastern AL,330,C
+995,1469.0,13,Hawaiian AL,330,C
+996,1470.0,13,Malaysian AS,330,C
+997,1471.0,13,Air China lsd,330,C
+998,1472.0,13,Afriqiyah AW,330,STD
+999,1473.0,13,Saudi Arabian AL,330,C
+1000,1474.0,13,Garuda Indonesian AW,330,C
+1001,1475.0,13,Philippine AL,330,
+1002,1476.0,13,THY Turkish AL,330,C
+1003,1477.0,13,Singapore AL lsd,330,
+1004,1478.0,13,MTAD,330,
+1005,1479.0,13,China Eastern AL,330,C
+1006,1480.0,13,American AL,330,STD
+1007,1481.0,13,AirAsia X,330,STD
+1008,1482.0,13,Philippine AL,330,
+1009,1483.0,13,Skymark AL lsd,330,
+1010,1484.0,13,China Eastern AL,330,C
+1011,1485.0,14,Singapore AL lsd,330,
+1012,1486.0,13,Etihad AW,330,
+1013,1487.0,13,THY Turkish AL,330,C
+1014,1488.0,14,Hawaiian AL,330,C
+1015,1489.0,14,Malaysian AS,330,C
+1016,1490.0,13,Iberia,330,C
+1017,1491.0,14,Skymark AL lsd,330,
+1018,1492.0,14,Avianca lsd,330,
+1019,1493.0,14,Air China,330,C
+1020,1494.0,13,China Southern AL,330,C
+1021,1495.0,14,Cebu Pacific AL lsd,330,
+1022,1496.0,14,Hawaiian AL,330,C
+1023,1497.0,14,Lufthansa,330,C
+1024,1498.0,14,MTAD,330,
+1025,1499.0,14,Afriqiyah AW,330,
+1026,1500.0,14,China Eastern AL,330,C
+1027,1501.0,14,THY Turkish AL,330,C
+1028,1502.0,14,American AL,330,STD
+1029,1503.0,14,Cathay Pacific AW,330,
+1030,1504.0,14,Philippine AL,330,C
+1031,1505.0,14,Libyan AL,330,C
+1032,1507.0,14,Iberia,330,C
+1033,1508.0,14,Avianca slsd,330,
+1034,1509.0,13,Air China,330,C
+1035,1510.0,14,Philippine AL lsd,330,STD
+1036,1511.0,14,Hawaiian AL,330,C
+1037,1512.0,14,American AL,330,STD
+1038,1513.0,14,Saudi Arabian AL,330,C
+1039,1514.0,14,THY Turkish AL,330,C
+1040,1515.0,14,Iberia,330,C
+1041,1516.0,14,MTAD,330,
+1042,1517.0,14,Singapore AL lsd,330,
+1043,1518.0,14,Asiana AL lsd,330,C
+1044,1519.0,14,China Southern AL,330,C
+1045,1520.0,14,China Eastern AL,330,C
+1046,1521.0,14,Etihad AW,330,
+1047,1522.0,14,THY Turkish AL,330,STD
+1048,1523.0,14,Cathay Pacific AW,330,
+1049,1525.0,14,Air China,330,C
+1050,1526.0,14,American AL,330,STD
+1051,1527.0,14,Cebu Pacific AL lsd,330,C
+1052,1528.0,14,Sichuan AL lsd,330,C
+1053,1529.0,14,THY Turkish AL,330,C
+1054,1530.0,14,Hawaiian AL,330,C
+1055,1531.0,14,Philippine AL lsd,330,
+1056,1532.0,14,Hainan AL lsd,330,C
+1057,1533.0,14,AirAsia X,330,
+1058,1535.0,14,Afriqiyah AW,330,
+1059,1536.0,14,China Southern AL,330,C
+1060,1537.0,14,China Eastern AL,330,C
+1061,1538.0,14,Air China,330,C
+1062,1539.0,14,China AL lsd,330,C
+1063,1540.0,14,Avianca lsd,330,
+1064,1541.0,14,Air China,330,C
+1065,1542.0,14,Skymark AL lsd,330,
+1066,1543.0,14,Libyan AL,330,C
+1067,1544.0,14,Singapore AL lsd,330,
+1068,1545.0,14,Cathay Pacific AW,330,
+1069,1546.0,14,Philippine AL,330,C
+1070,1547.0,14,China Eastern AL,330,C
+1071,1548.0,14,Garuda Indonesian AW,330,C
+1072,1549.0,14,AirAsia X,330,
+1073,1551.0,14,China Eastern AL,330,C
+1074,1552.0,14,Cebu Pacific AL lsd,330,C
+1075,1553.0,14,Philippine AL,330,C
+1076,1554.0,14,Skymark AL lsd,330,
+1077,1555.0,14,MTAD,330,
+1078,1556.0,14,Korean Air,330,C
+1079,1557.0,14,Cathay Pacific AW,330,
+1080,1558.0,14,Hainan AL lsd,330,C
+1081,1559.0,14,Philippine AL,330,
+1082,1560.0,14,Garuda Indonesian AW lsd,330,C
+1083,1561.0,14,Virgin Australia AL lsd,330,
+1084,1562.0,14,Singapore AL lsd,330,
+1085,1563.0,14,Air China,330,C
+1086,1564.0,14,SriLankan AL lsd,330,C
+1087,1565.0,14,Hawaiian AL,330,C
+1088,1566.0,14,Philippine AL,330,C
+1089,1567.0,14,Cathay Pacific AW,330,
+1090,1568.0,14,Philippine AL lsd,330,C
+1091,1569.0,14,China Eastern AL,330,C
+1092,1570.0,14,Air China,330,C
+1093,1571.0,14,THY Turkish AL,330,C
+1094,1572.0,14,Oman Air,330,C
+1095,1573.0,14,Hainan AL lsd,330,C
+1096,1574.0,14,Skymark AL lsd,330,
+1097,1575.0,14,China Southern AL,330,C
+1098,1576.0,14,Korean Air,330,C
+1099,1577.0,14,Garuda Indonesian AW lsd,330,C
+1100,1579.0,14,Sichuan AL lsd,330,C
+1101,1580.0,14,KLM lsd,330,C
+1102,1581.0,14,AirAsia X,330,C
+1103,1582.0,14,Oman Air,330,C
+1104,1583.0,14,SriLankan AL lsd,330,C
+1105,1585.0,14,Garuda Indonesian AW lsd,330,C
+1106,1586.0,14,Synergy Aerospace,330,
+1107,1587.0,14,Air China,330,W/O
+1108,1588.0,14,China Eastern AL,330,C
+1109,1589.0,14,AirAsia X,330,C
+1110,1590.0,14,Korean Air,330,C
+1111,1591.0,14,Hainan AL lsd,330,C
+1112,1592.0,14,IAP,330,
+1113,1593.0,15,China Southern AL,330,C
+1114,1595.0,14,China Eastern AL,330,C
+1115,1596.0,15,AirAsia X,330,
+1116,1597.0,15,Singapore AL lsd,330,
+1117,1598.0,15,Cathay Pacific AW,330,
+1118,1599.0,15,Oman Air,330,C
+1119,1600.0,15,AirAsia X,330,
+1120,1601.0,15,MTAD,330,
+1121,1602.0,15,Cebu Pacific AL lsd,330,C
+1122,1603.0,15,China Eastern AL,330,C
+1123,1604.0,15,SriLankan AL,330,
+1124,1605.0,15,Aerolineas Argentinas,330,C
+1125,1606.0,15,Hawaiian AL lsd,330,C
+1126,1607.0,15,CIT LC,330,
+1127,1608.0,15,Synergy Aerospace,330,
+1128,1609.0,15,Singapore AL lsd,330,
+1129,1610.0,15,MTAD,330,
+1130,1611.0,15,Korean Air,330,C
+1131,1612.0,15,AirAsia X,330,C
+1132,1613.0,15,Air Algerie,330,C
+1133,1614.0,15,Hainan AL lsd,330,
+1134,1615.0,15,Hawaiian AL,330,C
+1135,1616.0,15,THY Turkish AL,330,C
+1136,1617.0,15,China Eastern AL,330,C
+1137,1618.0,15,Cathay Pacific AW,330,C
+1138,1619.0,15,Thai AirAsia X,330,C
+1139,1620.0,15,THY THY Turkish AL,330,C
+1140,1621.0,15,Cathay Pacific AW,330,
+1141,1622.0,15,THY Turkish AL,330,C
+1142,1623.0,15,Aerolineas Argentinas,330,C
+1143,1624.0,15,CIT LC,330,
+1144,1625.0,15,China Southern AL,330,C
+1145,1626.0,15,Kuwait AW,330,C
+1146,1627.0,15,Delta AL,330,C
+1147,1628.0,15,Delta AL,330,C
+1148,1629.0,15,THY Turkish AL,330,C
+1149,1630.0,15,Air Algerie,330,C
+1150,1631.0,15,Tunis Air,330,C
+1151,1632.0,15,China Eastern AL,330,C
+1152,1633.0,15,Singapore AL,330,
+1153,1634.0,15,Hainan AL,330,C
+1154,1635.0,15,IAP,330,
+1155,1636.0,15,China Southern AL,330,C
+1156,1637.0,15,Delta AL,330,C
+1157,1638.0,15,Korean Air,330,C
+1158,1639.0,15,China Eastern AL,330,C
+1159,1640.0,15,THY Turkish AL,330,C
+1160,1641.0,15,Tunis Air,330,C
+1161,1642.0,15,THY Turkish AL,330,C
+1162,1643.0,15,Kuwait AW,330,C
+1163,1644.0,15,THY Turkish AL,330,C
+1164,1645.0,15,China Southern AL,330,C
+1165,1646.0,15,BOC,330,
+1166,1647.0,15,Korean Air,330,C
+1167,1648.0,15,Singapore AL,330,
+1168,1649.0,15,Air Algerie,330,C
+1169,1650.0,15,SriLankan AL,330,C
+1170,1651.0,15,Intrepid Aviation,330,
+1171,1653.0,15,Kuwait AW,330,C
+1172,1654.0,15,Garuda Indonesia,330,C
+1173,1655.0,15,China Eastern AL,330,C
+1174,1656.0,15,Hainan AL,330,C
+1175,1657.0,15,Synergy Aerospace,330,
+1176,1658.0,15,Air China,330,C
+1177,1659.0,15,AirAsia X,330,
+1178,1660.0,15,SAS,330,C
+1179,1662.0,15,Sichuan AL lsd,330,C
+1180,1663.0,15,Hainan AL,330,C
+1181,1664.0,15,China Eastern AL,330,C
+1182,1665.0,15,SAS,330,C
+1183,1666.0,15,Singapore AL,330,
+1184,1667.0,15,MTAD,330,
+1185,1668.0,15,Hong Kong AL,330,C
+1186,1669.0,15,SriLankan AL,330,C
+1187,1670.0,15,AirAsia X,330,
+1188,1671.0,15,Garuda Indonesia,330,C
+1189,1672.0,15,Hawaiian AL,330,C
+1190,1673.0,15,Air China,330,C
+1191,1674.0,15,BOC,330,
+1192,1675.0,15,Lion Air,330,C
+1193,1676.0,15,Alpha Star Aviation Svcs,330,
+1194,1677.0,15,Hainan AL,330,C
+1195,1678.0,15,Kuwait AW,330,C
+1196,1679.0,15,Delta AL,330,C
+1197,1680.0,15,Lion Air,330,C
+1198,1681.0,15,Kuwait AW,330,C
+1199,1684.0,15,EVA AW,330,C
+1200,1685.0,15,Air China,330,C
+1201,1686.0,15,Hainan AL,330,C
+1202,1687.0,15,SriLankan AL,330,C
+1203,1689.0,15,SriLankan AL,330,C
+1204,1690.0,15,EVA AW,330,C
+1205,1691.0,15,Evelop AL,330,
+1206,1692.0,15,Fiji AW lsd,330,C
+1207,1693.0,15,Lion Air,330,C
+1208,1694.0,15,Iberia,330,
+1209,1695.0,15,Air China,330,C
+1210,1696.0,16,THY Turkish AL,330,C
+1211,1697.0,16,SAS,330,C
+1212,1698.0,16,Garuda Indonesia,330,C
+1213,1699.0,15,China Southern AL,330,C
+1214,1700.0,16,Iberia,330,C
+1215,1701.0,16,Delta AL,330,C
+1216,1703.0,16,Hong Kong AL/Hainan AL,330,C
+1217,1704.0,16,THY Turkish AL,330,C
+1218,1706.0,16,THY Turkish AL,330,C
+1219,1709.0,16,Garuda Indonesia,330,C
+1220,1710.0,16,Iberia,330,
+1221,1711.0,16,Edelweiss AL,330,
+1222,1712.0,16,Cebu Pacific AL,330,STD
+1223,1713.0,16,THY Turkish AL,330,C
+1224,1714.0,16,China Southern AL,330,C
+1225,1715.0,16,SAS,330,C
+1226,1716.0,16,Delta AL,330,C
+1227,1718.0,16,THY Turkish AL,330,C
+1228,1719.0,16,Iberia,330,C
+1229,1720.0,16,Delta AL,330,C
+1230,1721.0,16,Delta AL,330,C
+1231,1723.0,16,Garuda Indonesia,330,C
+1232,1724.0,16,Saudi Arabian AL,330,C
+1233,1725.0,16,MEA,330,C
+1234,1726.0,16,Saudi Arabian,330,C
+1235,1727.0,16,Air Caraibes/French Blue,330,
+1236,1728.0,16,Iberia,330,C
+1237,1729.0,16,Saudi Arabian,330,C
+1238,1730.0,16,Tibet AL,330,C
+1239,1731.0,16,Saudi Arabian,330,C
+1240,1732.0,16,Hawaiian AL,330,C
+1241,1733.0,16,Garuda Indonesia,330,C
+1242,1734.0,16,Saudi Arabian,330,C
+1243,1735.0,16,MTAD,330,C
+1244,1736.0,16,Iberia,330,C
+1245,1737.0,16,Aerolineas Argentinas,330,C
+1246,1738.0,16,Saudi Arabian,330,C
+1247,1739.0,16,Saudi Arabian,330,C
+1248,1740.0,16,Iberia,330,C
+1249,1741.0,16,Rwandair,330,C
+1250,1742.0,16,Aer Lingus,330,C
+1251,1743.0,16,Saudi Arabian,330,C
+1252,1744.0,16,Aer Lingus,330,C
+1253,1745.0,16,South African AW,330,
+1254,1746.0,16,Sichuan AL ,330,C
+1255,1747.0,16,Iberia,330,C
+1256,1748.0,16,Aerolineas Argentinas,330,C
+1257,1749.0,16,Saudi Arabian,330,C
+1258,1751.0,16,Saudi Basic Industries Company,330,
+1259,1752.0,16,Air China,330,C
+1260,1753.0,16,Beijing Capital AL,330,C
+1261,1754.0,16,South African AW,330,
+1262,1755.0,16,Iberia,330,C
+1263,1756.0,16,Tianjin AL,330,C
+1264,1757.0,16,South African AW,330,
+1265,1758.0,16,Tianjin AL,330,C
+1266,1759.0,16,Rwandair,330,C
+1267,1760.0,16,China Southern AL,330,C
+1268,1761.0,16,Iberia,330,C
+1269,1762.0,16,MTAD,330,
+1270,1763.0,16,Beijing Capital AL,330,C
+1271,1764.0,16,Saudi Arabian AL,330,C
+1272,1765.0,16,Air China,330,C
+1273,1766.0,16,Saudi Arabian AL,330,C
+1274,1767.0,16,EVA AW,330,C
+1275,1769.0,17,Delta AL,330,C
+1276,1770.0,17,Saudi Arabian AL,330,C
+1277,1771.0,17,Tibet AL,330,C
+1278,1773.0,17,Tianjin AL,330,C
+1279,1774.0,17,Saudi Arabian AL,330,C
+1280,1775.0,17,Beijing Capital AL,330,C
+1281,1776.0,17,China Southern AL,330,C
+1282,1777.0,17,Iberia,330,
+1283,1778.0,17,EVA AW,330,C
+1284,1779.0,17,South African AW,330,
+1285,1780.0,17,Sichuan AL,330,C
+1286,1781.0,17,Saudi Arabian AL,330,C
+1287,1782.0,17,Beijing Capital AL,330,C
+1288,1783.0,17,Delta AL,330,C
+1289,1784.0,17,Iberia,330,
+1290,1785.0,17,Tibet AL,330,C
+1291,1786.0,17,Air China,330,C
+1292,1787.0,17,MTAD,330,
+1293,1788.0,17,China Eastern AL,330,C
+1294,1789.0,17,Cebu Pacific AL,330,C
+1295,1790.0,17,Saudi Arabian AL,330,C
+1296,1791.0,17,Aer Lingus,330,C
+1297,1792.0,17,South African AW,330,STD
+1298,1793.0,17,China Southern AL,330,C
+1299,1794.0,17,EVA AW,330,C
+1300,1796.0,17,China Eastern AL,330,C
+1301,1797.0,17,Saudi Arabian AL,330,C
+1302,1798.0,17,China Eastern AL,330,C
+1303,1799.0,17,MTAD,330,
+1304,1800.0,17,Saudi Arabian AL,330,C
+1305,1801.0,17,China Eastern AL,330,C
+1306,1802.0,17,Air China,330,C
+1307,1803.0,17,Saudi Arabian AL,330,C
+1308,1804.0,17,China Eastern AL,330,C
+1309,1805.0,17,Tianjin AL,330,C
+1310,1806.0,17,EVA AW,330,C
+1311,1807.0,17,Air China,330,C
+1312,1808.0,17,MTAD,330,
+1313,1809.0,17,China Eastern AL,330,C
+1314,1810.0,17,Shenzhen AL,330,C
+1315,1811.0,17,Air China,330,C
+1316,1812.0,17,Saudi Arabian AL,330,C
+1317,1814.0,17,China Southern AL,330,C
+1318,1815.0,17,China Southern AL,330,C
+1319,1816.0,17,China Eastern AL,330,C
+1320,1817.0,17,Aer Lingus,330,C
+1321,1818.0,17,China Southern AL,330,C
+1322,1819.0,18,TAP Air Portugal,330,C
+1323,1820.0,17,Thai Lion Air,330,
+1324,1821.0,17,China Southern AL,330,C
+1325,1822.0,17,MTAD,330,
+1326,1823.0,17,Hawaiian AL,330,C
+1327,1825.0,17,Sichuan AL,330,C
+1328,1826.0,17,China Southern AL,330,C
+1329,1827.0,17,Hainan AL,330,C
+1330,1828.0,17,Thai Lion Air,330,
+1331,1829.0,17,Shenzhen AL,330,C
+1332,1830.0,17,MTAD,330,
+1333,1831.0,17,Hainan AL,330,C
+1334,1832.0,17,Thai Lion Air,330,
+1335,1834.0,17,Saudi Arabian AL,330,C
+1336,1835.0,17,Iberia,330,C
+1337,1836.0,18,TAP Air Portugal,330,C
+1338,1837.0,17,Hainan AL,330,C
+1339,1838.0,17,Lucky Air,330,C
+1340,1839.0,17,Shenzhen AL,330,C
+1341,1840.0,17,Tianjin AL,330,C
+1342,1841.0,17,China Eastern AL,330,C
+1343,1842.0,18,China Eastern AL,330,C
+1344,1843.0,17,Lucky Air,330,C
+1345,1844.0,19,Air Belgium,330,C
+1346,1845.0,18,Tibet AL,330,C
+1347,1846.0,18,China Southern AL,330,C
+1348,1847.0,18,Beijing Capital AL,330,C
+1349,1848.0,18,MTAD,330,
+1350,1849.0,18,Tianjin AL,330,C
+1351,1850.0,18,TAP Air Portugal,330,C
+1352,1851.0,18,Lucky Air,330,C
+1353,1852.0,18,China Southern AL,330,C
+1354,1854.0,18,Iberia,330,C
+1355,1855.0,18,Hainan AL,330,C
+1356,1856.0,18,Sichuan AL,330,C
+1357,1857.0,18,MTAD,330,
+1358,1858.0,18,China Southern AL,330,C
+1359,1859.0,18,Tibet AL,330,C
+1360,1860.0,18,Hainan AL,330,C
+1361,1861.0,21,Air Belgium,330,C
+1362,1862.0,18,Beijing Capital AL,330,C
+1363,1863.0,18,Hong Kong AL,330,STD
+1364,1864.0,18,Level,330,
+1365,1865.0,18,Hong Kong AL,330,STD
+1366,1866.0,18,Lucky Air,330,C
+1367,1867.0,18,Shenzhen AL,330,C
+1368,1868.0,18,China Eastern AL,330,C
+1369,1869.0,18,China Eastern AL,330,C
+1370,1870.0,19,Citilink,330,
+1371,1871.0,18,Hainan AL,330,C
+1372,1872.0,18,Nepal AL,330,C
+1373,1873.0,18,China Eastern AL,330,C
+1374,1874.0,18,Hong Kong AL,330,STD
+1375,1875.0,18,Hainan AL,330,C
+1376,1876.0,19,Azul L.A.,330,C
+1377,1877.0,18,Level,330,C
+1378,1878.0,18,Nepal AL,330,C
+1379,1879.0,18,Shenzhen AL,330,C
+1380,1880.0,18,Beijing Capital AL,330,C
+1381,1881.0,18,China Eastern AL,330,C
+1382,1882.0,18,Level,330,
+1383,1883.0,18,MTAD,330,
+1384,1884.0,19,Air Mauritius,330,C
+1385,1885.0,18,China Southern AL,330,C
+1386,1887.0,19,Citilink,330,C
+1387,1889.0,18,Shenzhen AL,330,C
+1388,1890.0,19,Air Mauritius,330,C
+1389,1891.0,18,MTAD,330,
+1390,1892.0,18,TAP Air Portugal,330,C
+1391,1893.0,18,Hainan AL,330,C
+1392,1894.0,18,China Southern AL,330,C
+1393,1895.0,19,Azul L.A.,330,C
+1394,1896.0,18,Hainan AL,330,C
+1395,1897.0,19,TAP Air Portugal,330,C
+1396,1898.0,18,Hainan AL,330,C
+1397,1899.0,18,Hainan AL,330,C
+1398,1900.0,19,TAP Air Portugal,330,C
+1399,1901.0,19,Thai Air Asia X,330,C
+1400,1903.0,19,Thai Air Asia X,330,C
+1401,1904.0,19,TAP Air Portugal,330,C
+1402,1905.0,18,China Eastern AL,330,C
+1403,1906.0,19,TAP Air Portugal,330,C
+1404,1907.0,18,K5 Aviation,330,C
+1405,1908.0,19,TAP Air Portugal,330,C
+1406,1909.0,19,TAP Air Portugal,330,C
+1407,1910.0,19,Air Senegal,330,C
+1408,1912.0,19,Sichuan AL,330,C
+1409,1913.0,19,TAP Air Portugal,330,C
+1410,1914.0,19,TAP Air Portugal,330,C
+1411,1915.0,19,Delta AL,330,C
+1412,1916.0,19,MTAD,330,
+1413,1917.0,19,Capital AL,330,STD
+1414,1918.0,19,TAP Air Portugal,330,C
+1415,1919.0,19,MTAD,330,
+1416,1920.0,19,Delta AL,330,C
+1417,1921.0,19,TAP Air Portugal,330,C
+1418,1922.0,19,TAP Air Portugal,330,C
+1419,1923.0,19,Air Senegal,330,C
+1420,1924.0,19,Azul L.A.,330,C
+1421,1925.0,19,TAP Air Portugal,330,C
+1422,1926.0,19,Lion Air,330,C
+1423,1927.0,19,Lion Air,330,C
+1424,1928.0,19,SAS,330,C
+1425,1929.0,19,Hi Fly,330,
+1426,1931.0,19,Delta AL,330,C
+1427,1932.0,19,Level,330,C
+1428,1933.0,19,Thai Lion Air,330,
+1429,1934.0,19,Azul L.A.,330,C
+1430,1935.0,19,Delta AL,330,C
+1431,1936.0,19,Level,330,
+1432,1937.0,19,Aircalin,330,C
+1433,1938.0,19,Aircalin,330,C
+1434,1939.0,19,Thai Lion Air,330,
+1435,1941.0,19,TAP Air Portugal,330,C
+1436,1942.0,19,MTAD,330,
+1437,1943.0,19,TAP Air Portugal,330,C
+1438,1946.0,19,Garuda Indonesia,330,C
+1439,1947.0,19,Garuda Indonesia,330,C
+1440,1948.0,19,Garuda Indonesia,330,C
+1441,1949.0,19,Delta AL,330,C
+1442,1950.0,19,Aer Lingus,330,C
+1443,1951.0,20,Aer Lingus,330,C
+1444,1952.0,20,Azul L.A.,330,C
+1445,1953.0,20,Delta AL,330,C
+1446,1954.0,19,TAP Air Portugal,330,C
+1447,1956.0,20,Lion Air,330,C
+1448,1957.0,20,Delta AL,330,C
+1449,1958.0,20,Condor,330,STD
+1450,1959.0,20,Condor,330,STD
+1451,1960.0,20,MTAD,330,
+1452,1962.0,20,Delta AL,330,C
+1453,1963.0,20,Orbest,330,C
+1454,1964.0,20,Kuwait AW,330,C
+1455,1965.0,20,MTAD,330,
+1456,1966.0,22,Condor,330,
+1457,1968.0,20,MTAD,330,
+1458,1969.0,20,Kuwait AW,330,C
+1459,1970.0,22,Cebu Pacific AL,330,C
+1460,1975.0,20,Corsair,330,C
+1461,1977.0,20,Uganda AL,330,C
+1462,1978.0,20,Lion Air,330,C
+1463,1979.0,20,Uganda AL,330,C
+1464,1981.0,21,Sunclass AL,330,
+1465,1982.0,20,MTAD,330,
+1466,1983.0,21,Delta AL,330,C
+1467,1984.0,21,Thai Lion Air,330,
+1468,1986.0,21,Corsair,330,C
+1469,1987.0,21,Thai Lion Air,330,C
+1470,1989.0,20,MTAD,330,
+1471,1990.0,21,Delta AL,330,C
+1472,1991.0,21,Delta AL,330,C
+1473,1992.0,21,Corsair,330,C
+1474,1993.0,21,Corsair,330,C
+1475,1994.0,22,Delta AL,330,C
+1476,1995.0,22,Delta AL,330,C
+1477,1996.0,22,Delta AL,330,C
+1478,1997.0,22,Delta AL,330,C
+1479,1998.0,21,MTAD,330,
+1480,1999.0,22,Delta AL,330,C
+1481,2000.0,22,Delta AL,330,C
+1482,2001.0,21,Cebu Pacific AL,330,C
+1483,2002.0,21,Cebu Pacific AL,330,C
+1484,2003.0,21,Starlux AL,330,C
+1485,2004.0,21,Cebu Pacific AL,330,C
+1486,2005.0,21,Kuwait AW,330,C
+1487,2006.0,22,Starlux AL,330,C
+1488,2007.0,21,MTAD,330,
+1489,2008.0,21,MTAD,330,
+1490,2009.0,22,Corsair,330,C
+1491,2010.0,22,Delta AL,330,C
+1492,2011.0,21,MTAD,330,
+1493,2012.0,22,MTAD,330,
+1494,2013.0,22,Starlux AL,330,
+1495,2014.0,22,Delta AL,330,
+1496,2015.0,22,MTAD,330,
+1497,2016.0,22,Kuwait AW,330,C
+1498,2017.0,22,Starlux AL,330,C
+1499,2018.0,22,Virgin Atlantic,330,C
+1500,2019.0,22,Virgin Atlantic,330,C
+1501,2020.0,22,Air Greenland,330,C
+1502,2022.0,22,French Air Force,330,C
+1503,2023.0,22,United Arab Emirates AF,330,
+1504,2024.0,22,Condor,330,

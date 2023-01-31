@@ -1,0 +1,373 @@
+c/n,f/f_year,operator,type,St
+5,92,Air France lsd,340,
+6,92,Lufthansa ,340,
+7,93,Air France lsd,340,
+8,92,Lufthansa ,340,
+9,93,Lufthansa ,340,
+10,93,Sabena/Air France ,340,W/O
+11,93,Lufthansa ,340,
+13,93,Virgin Atlantic ,340,
+14,93,Sabena/Air France ,340,
+15,93,Virgin Atlantic ,340,
+16,93,Virgin Atlantic ,340,
+18,93,Lufthansa ,340,
+19,93,Lufthansa ,340,
+20,93,Lufthansa ,340,
+21,93,Lufthansa ,340,
+22,93,Sabena/Air France ,340,
+23,93,THY Turkish AL,340,SCR
+24,93,Lufthansa ,340,SCR
+25,93,THY Turkish AL,340,STD
+26,93,Qatar Gvmt,340,C
+27,93,Lufthansa ,340,SCR
+28,94,Lufthansa ,340,SCR
+29,93,Air France lsd,340,SCR
+31,93,Air France,340,
+32,94,Air Lanka ,340,
+33,94,Air Lanka ,340,
+35,94,Lufthansa ,340,SCR
+36,94,Gulf Air,340,
+38,93,Air France,340,
+39,94,Gulf Air,340,
+40,94,Gulf Air,340,
+41,94,TAP Air Portugal,340,SCR
+43,94,Air France,340,
+44,94,TAP Air Portugal,340,SCR
+46,94,Bahrein Gvmt,340,
+47,94,Sabena/Air France ,340,
+48,94,Air Mauritius lsd ,340,
+49,94,Air France lsd,340,
+51,94,Sabena/Air France ,340,
+52,94,Lufthansa ,340,SCR
+53,94,Lufthansa ,340,SCR
+56,94,Lufthansa ,340,
+57,94,THY Turkish AL,340,STD
+58,94,Virgin Atlantic ,340,
+61,94,Egypt Govmt ,340,C
+63,94,PAL/Cathay Pacific,340,
+74,94,PAL/Cathay Pacific,340,
+75,95,Austrian AL ,340,
+76,94,Air Mauritius ,340,SCR
+78,95,Air France,340,SCR
+79,95,TAP Air Portugal,340,SCR
+80,94,PAL/Cathay Pacific,340,
+81,95,Austrian AL ,340,
+84,95,Air France,340,SCR
+85,95,PAL/Cathay Pacific,340,
+88,95,Air Canada lsd,340,
+89,95,Kuwait AW ,340,STD
+90,95,Kuwait AW ,340,STD
+91,95,TAP Air Portugal,340,STD
+93,95,Air Canada lsd,340,
+94,95,Air Mauritius lsd ,340,
+97,95,Gulf Air,340,
+101,95,Kuwait AW ,340,
+103,95,Gulf Air/Egyptair ,340,
+104,95,Kuwait AW ,340,
+114,96,Virgin Atlantic lsd,340,
+115,96,THY Turkish AL,340,
+117,95,Singapore AL,340,
+123,96,Singapore AL,340,
+125,96,Iberia,340,
+126,96,Singapore AL,340,
+128,96,Singapore AL,340,
+129,96,China Eastern AL,340,SCR
+131,96,China Eastern AL,340,SCR
+133,96,Gulf Air/Egyptair ,340,
+134,96,Iberia,340,
+135,96,Lufthansa ,340,C
+136,96,Cathay Pacific,340,
+137,96,Cathay Pacific,340,
+139,96,Singapore AL,340,
+141,96,China Eastern AL,340,SCR
+142,96,Cathay Pacific,340,
+145,96,Iberia,340,
+146,96,Iberia,340,
+147,96,Cathay Pacific,340,
+149,96,Singapore AL,340,
+150,96,Air Canada,340,
+151,96,Brunei Gvmt ,340,
+152,96,Air Mauritius lsd ,340,SCR
+154,96,Air Canada,340,
+156,96,Egyptair,340,
+157,96,Cathay Pacific,340,
+158,97,Lufthansa ,340,
+159,96,Egyptair,340,
+160,97,Cathay Pacific,340,
+161,97,China Eastern AL,340,SCR
+163,97,Singapore AL,340,
+164,97,Virgin Atlantic lsd,340,
+166,97,Singapore AL,340,
+167,97,Air Canada,340,
+168,97,Air France lsd,340,
+169,97,Austrian AL ,340,
+170,97,Air Canada,340,
+173,97,Philippine AL ,340,
+174,97,Air France lsd,340,
+175,97,Air Canada,340,
+176,97,Philippine AL ,340,
+178,97,Egyptair,340,
+179,97,Air Canada,340,
+180,97,THY Turkish AL,340,
+182,97,China Eastern AL,340,SCR
+185,97,Singapore AL,340,
+186,97,Air France,340,SCR
+187,97,Philippine AL ,340,
+190,97,Singapore AL,340,
+192,97,Air China ,340,
+193,97,Iberia,340,
+194,97,Air Mauritius ,340,SCR
+196,97,Philippine AL ,340,
+197,97,Iberia,340,
+199,97,Air China ,340,
+201,97,Air China ,340,
+202,97,Singapore AL,340,
+204,97,Brunei Gvmt ,340,
+207,97,Air France,340,
+208,98,Cathay Pacific,340,
+210,98,Air France,340,
+212,98,Singapore AL,340,
+213,98,Lufthansa ,340,C
+214,98,Virgin Atlantic lsd,340,SCR
+215,98,Singapore AL,340,
+216,98,Air Canada lsd,340,
+217,98,Iberia,340,SCR
+218,98,Cathay Pacific,340,SCR
+220,98,Cathay Pacific,340,SCR
+221,98,Iberia,340,SCR
+225,98,Virgin Atlantic ,340,SCR
+227,98,Cathay Pacific,340,SCR
+228,98,Cathay Pacific,340,SCR
+233,98,Lufthansa ,340,C
+235,98,Olympic AW,340,
+236,98,Singapore AL,340,
+237,98,Air France,340,SCR
+239,98,Olympic AW,340,
+242,98,China Southwest AL,340,
+243,98,China Southwest AL,340,
+245,98,Air France,340,
+246,98,Air France,340,
+252,98,Lufthansa,340,C
+257,99,Air Canada lsd,340,
+260,99,Air France,340,
+263,99,Austrian AL ,340,
+264,99,China Southwest AL,340,
+268,99,Air Mauritius,340,STD
+270,99,THY Turkish AL,340,
+273,99,Air Canada,340,
+274,99,Lufthansa,340,
+278,99,Air Canada,340,
+280,99,Olympic AW,340,
+282,99,Singapore AL,340,
+289,99,Air France,340,W/O
+292,99,Olympic AW,340,
+297,99,Lufthansa,340,C
+302,99,Iberia,340,
+304,99,Lufthansa,340,C
+307,99,Air France,340,SCR
+310,99,Air France,340,SCR
+318,00,Iberia,340,
+319,00,Air France,340,
+321,00,Lufthansa,340,C
+325,00,Lufthansa,340,C
+327,00,Lufthansa,340,STD
+329,00,Iberia,340,SCR
+331,00,THY Turkish AL,340,STD
+332,00,Iberia,340,
+335,00,Lufthansa,340,
+347,00,Lufthansa,340,C
+352,00,Lufthansa,340,W/O
+354,00,Lufthansa,340,
+355,00,Lufthansa,340,
+359,00,LAN Chile,340,
+363,00,LAN Chile,340,
+367,00,AOM-Air Outre Mer lsd,340,
+373,00,Air France lsd,340,
+374,00,Fll/AOM-Air Outre Mer,340,
+377,00,Air France lsd,340,SCR
+378,00,Iberia,340,
+379,00,Lufthansa,340,C
+381,00,Cathay Pacific,340,
+383,02,Virgin Atlantic AW,340,
+385,01,Air Tahiti Nui,340,SCR
+387,01,Iberia,340,
+390,01,Lufthansa,340,C
+391,02,Virgin Atlantic AW,340,
+395,01,Canada 3000 AL lsd,340,
+399,01,Air France,340,
+402,01,China AL,340,
+406,01,China AL,340,
+410,02,South African AW,340,STD
+411,01,China AL,340,
+413,01,SAS,340,
+414,01,Iberia,340,
+415,01,China AL,340,
+416,02,Virgin Atlantic AW,340,
+417,02,South African AW,340,STD
+424,01,SAS,340,
+426,03,South African AW,340,C
+429,01,LAN Chile,340,
+430,01,SAS lsd,340,SCR
+431,03,Iberia,340,
+433,01,China AL,340,SCR
+434,01,Lufthansa,340,C
+435,01,SAS lsd,340,STD
+436,02,Cathay Pacific AW lsd,340,
+438,01,Air Tahiti Nui lsd,340,SCR
+440,03,Iberia,340,
+442,01,LAN Chile,340,
+445,03,Air Canada,340,
+446,01,Air Tahiti Nui lsd,340,SCR
+447,01,Lufthansa,340,C
+449,02,Virgin Atlantic AW,340,
+450,02,SAS lsd,340,
+453,02,Cathay Pacific AW lsd,340,
+457,03,Emirates AL,340,
+459,02,Iberia,340,
+460,03,Iberia,340,STD
+464,03,Air Canada,340,
+467,02,SAS lsd,340,SCR
+468,02,China Eastern AL,340,
+470,02,SAS lsd,340,SCR
+471,03,Emirates AL,340,
+474,02,Iberia lsd,340,
+475,03,Cathay Pacific AW lsd,340,
+478,03,Singapore AL,340,
+482,03,Lufthansa lsd,340,SCR
+483,02,Iberia lsd,340,
+485,03,Emirates AL,340,
+488,03,China Eastern AL,340,
+492,03,Singapore AL,340,
+495,03,Qatar Gvmt,340,C
+499,03,Singapore AL,340,
+514,03,China Eastern AL,340,
+517,03,Lufthansa,340,STD
+520,03,Emirates AL,340,
+523,03,Lufthansa lsd,340,STD
+528,03,Singapore AL,340,
+531,03,South African AW,340,C
+534,03,South African AW lsd,340,STD
+537,03,Lufthansa lsd,340,STD
+538,03,Swiss Int'l AL lsd,340,C
+540,03,Lufthansa,340,STD
+541,03,China AL,340,SCR
+543,04,Lufthansa,340,STD
+544,03,South African AW,340,
+545,03,Swiss Int'l AL,340,C
+546,03,Swiss Int'l AL,340,C
+547,03,South African AW,340,C
+554,03,Singapore AL,340,
+556,03,Swiss Int'l AL,340,
+557,03,South African AW,340,
+559,03,Swiss Int'l AL,340,
+560,04,Singapore AL,340,
+561,03,Swiss Int'l AL,340,
+562,03,Swiss Int'l AL lsd,340,
+563,04,Singapore AL,340,
+566,04,Lufthansa,340,STD
+569,04,Lufthansa,340,C
+572,04,Emirates AL,340,SCR
+575,04,Virgin Atlantic AW,340,
+577,04,China Eastern AL,340,
+580,04,Lufthansa,340,STD
+582,04,South African AW,340,
+583,04,Lufthansa,340,STD
+585,04,Swiss Int'l AL,340,C
+586,04,China Eastern AL,340,
+590,04,South African AW,340,
+594,05,NOT BUILT,340,
+598,04,Swiss Int'l AL,340,C
+601,04,Iberia,340,STD
+604,04,Iberia,340,
+606,04,Iberia,340,STD
+608,04,Emirates AL,340,
+611,04,Emirates AL,340,
+615,04,Virgin Atlantic AW,340,
+617,05,Iberia lsd,340,SCR
+619,05,Iberia lsd,340,STD
+622,04,Virgin Atlantic AW,340,
+624,05,Thai AW Int,340,STD
+626,05,South African AW lsd,340,STD
+628,05,Thai AW Int,340,STD
+630,05,South African AW lsd,340,STD
+639,05,Virgin Atlantic AW,340,SCR
+643,04,South African AW lsd,340,
+646,04,South African AW,340,
+651,05,South African AW,340,
+668,05,Air Tahiti Nui,340,
+672,05,Iberia,340,STD
+677,05,Thai AW Int,340,STD
+681,05,Thai AW Int,340,STD
+685,05,Emirates AL,340,
+689,05,Thai AW Int,340,STD
+694,05,Emirates AL,340,
+698,05,Thai AW Int,340,
+702,05,Iberia,340,STD
+706,05,Virgin Atlantic AW lsd,340,SCR
+710,05,Thai AW Int,340,STD
+715,05,Qatar AW,340,SCR
+719,05,Thai AW Int,340,STD
+723,06,Virgin Atlantic AW lsd,340,SCR
+727,05,Iberia,340,STD
+731,06,Iberia,340,W/O
+736,06,Virgin Atlantic AW lsd,340,
+740,06,Qatar AW,340,STD
+744,06,Iberia,340,STD
+748,06,Etihad AW,340,
+753,06,Virgin Atlantic AW,340,
+757,06,Etihad AW,340,
+761,06,Etihad AW,340,
+762,06,Lufthansa,340,SCR
+763,06,Lufthansa,340,SCR
+764,06,Virgin Atlantic AW,340,
+765,06,Virgin Atlantic AW,340,
+766,06,Qatar AW,340,
+767,06,Lufthansa,340,SCR
+768,06,Virgin Atlantic AW,340,
+771,06,Lufthansa,340,STD
+775,06,Thai AW Int,340,STD
+779,06,National Air Service lsd,340,
+783,06,Etihad AW,340,
+787,06,Virgin Atlantic AW,340,
+790,07,Lufthansa,340,SCR
+793,06,Air Mauritius,340,SCR
+794,07,Lufthansa,340,SCR
+798,07,Qatar AW,340,
+800,06,Air Mauritius,340,SCR
+804,07,Virgin Atlantic AW lsd,340,SCR
+812,07,Lufthansa,340,SCR
+829,07,Etihad AW,340,
+835,07,Finnair,340,
+837,07,Etihad AW,340,
+844,07,Finnair,340,
+846,08,Lufthansa,340,C
+848,08,Lufthansa,340,STD
+856,07,Etihad AW,340,W/O
+870,07,Etihad AW,340,
+886,08,Azerbaijan AL lsd,340,C
+894,08,Azerbaijan AL lsd,340,C
+897,08,Lufthansa,340,STD
+902,08,Tunisian Gvmt,340,
+910,08,Arik Air,340,
+912,08,Arik Air,340,
+917,08,Algerian Government,340,C
+921,08,Finnair lsd,340,
+924,08,Royal Jordanian AF,340,
+929,08,Etihad AW,340,
+933,08,Etihad AW,340,
+938,08,Finnair,340,
+953,08,Thai AW Int,340,STD
+955,08,Global Jet Luxembourg,340,
+960,09,Iberia,340,STD
+972,08,Lufthansa,340,STD
+981,09,Lufthansa,340,STD
+987,09,Lufthansa,340,C
+993,09,Iberia,340,STD
+1005,09,Lufthansa,340,STD
+1017,09,Iberia,340,STD
+1030,09,Etihad AW,340,
+1040,09,Etihad AW,340,
+1079,10,Iberia,340,STD
+1091,10,Kuwait Government,340,C
+1102,10,Kuwait Government,340,C
+1122,10,Iberia,340,STD
