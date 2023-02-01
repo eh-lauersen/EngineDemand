@@ -1,0 +1,373 @@
+c/n,f/f,operator,type,St
+5,1992-07-31,Air France lsd,340,
+6,1992-07-20,Lufthansa ,340,
+7,1993-01-15,Air France lsd,340,
+8,1992-07-12,Lufthansa ,340,
+9,1993-01-13,Lufthansa ,340,
+10,1993-03-18,Sabena/Air France ,340,W/O
+11,1993-03-02,Lufthansa ,340,
+13,1993-10-19,Virgin Atlantic ,340,
+14,1993-01-04,Sabena/Air France ,340,
+15,1993-10-26,Virgin Atlantic ,340,
+16,1993-03-11,Virgin Atlantic ,340,
+18,1993-06-18,Lufthansa ,340,
+19,1993-02-07,Lufthansa ,340,
+20,1993-08-09,Lufthansa ,340,
+21,1993-06-08,Lufthansa ,340,
+22,1993-05-24,Sabena/Air France ,340,
+23,1993-08-06,THY Turkish AL,340,SCR
+24,1993-06-10,Lufthansa ,340,SCR
+25,1993-06-21,THY Turkish AL,340,STD
+26,1993-04-23,Qatar Gvmt,340,C
+27,1993-01-10,Lufthansa ,340,SCR
+28,1994-04-01,Lufthansa ,340,SCR
+29,1993-07-21,Air France lsd,340,SCR
+31,1993-07-23,Air France,340,
+32,1994-04-25,Air Lanka ,340,
+33,1994-07-20,Air Lanka ,340,
+35,1994-03-31,Lufthansa ,340,SCR
+36,1994-06-04,Gulf Air,340,
+38,1993-01-12,Air France,340,
+39,1994-05-25,Gulf Air,340,
+40,1994-01-07,Gulf Air,340,
+41,1994-11-25,TAP Air Portugal,340,SCR
+43,1994-02-02,Air France,340,
+44,1994-12-14,TAP Air Portugal,340,SCR
+46,1994-02-22,Bahrein Gvmt,340,
+47,1994-09-02,Sabena/Air France ,340,
+48,1994-04-26,Air Mauritius lsd ,340,
+49,1994-03-18,Air France lsd,340,
+51,1994-03-18,Sabena/Air France ,340,
+52,1994-06-30,Lufthansa ,340,SCR
+53,1994-10-17,Lufthansa ,340,SCR
+56,1994-07-12,Lufthansa ,340,
+57,1994-04-15,THY Turkish AL,340,STD
+58,1994-05-10,Virgin Atlantic ,340,
+61,1994-12-04,Egypt Govmt ,340,C
+63,1994-09-14,PAL/Cathay Pacific,340,
+74,1994-10-27,PAL/Cathay Pacific,340,
+75,1995-02-02,Austrian AL ,340,
+76,1994-10-21,Air Mauritius ,340,SCR
+78,1995-05-01,Air France,340,SCR
+79,1995-02-17,TAP Air Portugal,340,SCR
+80,1994-05-12,PAL/Cathay Pacific,340,
+81,1995-07-02,Austrian AL ,340,
+84,1995-12-07,Air France,340,SCR
+85,1995-03-03,PAL/Cathay Pacific,340,
+88,1995-01-19,Air Canada lsd,340,
+89,1995-08-03,Kuwait AW ,340,STD
+90,1995-03-23,Kuwait AW ,340,STD
+91,1995-03-28,TAP Air Portugal,340,STD
+93,1995-03-15,Air Canada lsd,340,
+94,1995-03-13,Air Mauritius lsd ,340,
+97,1995-05-17,Gulf Air,340,
+101,1995-04-20,Kuwait AW ,340,
+103,1995-06-23,Gulf Air/Egyptair ,340,
+104,1995-05-24,Kuwait AW ,340,
+114,1996-01-17,Virgin Atlantic lsd,340,
+115,1996-02-27,THY Turkish AL,340,
+117,1995-08-25,Singapore AL,340,
+123,1996-03-25,Singapore AL,340,
+125,1996-01-31,Iberia,340,
+126,1996-03-29,Singapore AL,340,
+128,1996-05-30,Singapore AL,340,
+129,1996-03-18,China Eastern AL,340,SCR
+131,1996-10-05,China Eastern AL,340,SCR
+133,1996-07-11,Gulf Air/Egyptair ,340,
+134,1996-04-16,Iberia,340,
+135,1996-03-04,Lufthansa ,340,C
+136,1996-05-15,Cathay Pacific,340,
+137,1996-03-06,Cathay Pacific,340,
+139,1996-10-06,Singapore AL,340,
+141,1996-05-07,China Eastern AL,340,SCR
+142,1996-06-20,Cathay Pacific,340,
+145,1996-07-31,Iberia,340,
+146,1996-10-05,Iberia,340,
+147,1996-12-07,Cathay Pacific,340,
+149,1996-04-09,Singapore AL,340,
+150,1996-10-24,Air Canada,340,
+151,1996-09-23,Brunei Gvmt ,340,
+152,1996-10-28,Air Mauritius lsd ,340,SCR
+154,1996-11-29,Air Canada,340,
+156,1996-08-11,Egyptair,340,
+157,1996-11-18,Cathay Pacific,340,
+158,1997-09-01,Lufthansa ,340,
+159,1996-04-12,Egyptair,340,
+160,1997-01-24,Cathay Pacific,340,
+161,1997-01-30,China Eastern AL,340,SCR
+163,1997-06-02,Singapore AL,340,
+164,1997-03-24,Virgin Atlantic lsd,340,
+166,1997-06-03,Singapore AL,340,
+167,1997-03-14,Air Canada,340,
+168,1997-02-04,Air France lsd,340,
+169,1997-08-04,Austrian AL ,340,
+170,1997-04-04,Air Canada,340,
+173,1997-12-05,Philippine AL ,340,
+174,1997-06-05,Air France lsd,340,
+175,1997-04-30,Air Canada,340,
+176,1997-05-06,Philippine AL ,340,
+178,1997-11-06,Egyptair,340,
+179,1997-04-29,Air Canada,340,
+180,1997-01-08,THY Turkish AL,340,
+182,1997-06-16,China Eastern AL,340,SCR
+185,1997-09-07,Singapore AL,340,
+186,1997-08-22,Air France,340,SCR
+187,1997-08-28,Philippine AL ,340,
+190,1997-09-17,Singapore AL,340,
+192,1997-09-19,Air China ,340,
+193,1997-07-10,Iberia,340,
+194,1997-09-30,Air Mauritius ,340,SCR
+196,1997-09-18,Philippine AL ,340,
+197,1997-10-22,Iberia,340,
+199,1997-10-28,Air China ,340,
+201,1997-10-28,Air China ,340,
+202,1997-11-18,Singapore AL,340,
+204,1997-12-19,Brunei Gvmt ,340,
+207,1997-05-12,Air France,340,
+208,1998-01-16,Cathay Pacific,340,
+210,1998-01-23,Air France,340,
+212,1998-04-02,Singapore AL,340,
+213,1998-02-20,Lufthansa ,340,C
+214,1998-02-25,Virgin Atlantic lsd,340,SCR
+215,1998-03-13,Singapore AL,340,
+216,1998-01-03,Air Canada lsd,340,
+217,1998-01-02,Iberia,340,SCR
+218,1998-12-03,Cathay Pacific,340,SCR
+220,1998-02-06,Cathay Pacific,340,SCR
+221,1998-03-06,Iberia,340,SCR
+225,1998-05-18,Virgin Atlantic ,340,SCR
+227,1998-09-06,Cathay Pacific,340,SCR
+228,1998-02-07,Cathay Pacific,340,SCR
+233,1998-07-17,Lufthansa ,340,C
+235,1998-09-24,Olympic AW,340,
+236,1998-09-21,Singapore AL,340,
+237,1998-09-24,Air France,340,SCR
+239,1998-08-31,Olympic AW,340,
+242,1998-11-16,China Southwest AL,340,
+243,1998-10-23,China Southwest AL,340,
+245,1998-04-11,Air France,340,
+246,1998-09-11,Air France,340,
+252,1998-09-12,Lufthansa,340,C
+257,1999-01-28,Air Canada lsd,340,
+260,1999-04-02,Air France,340,
+263,1999-05-03,Austrian AL ,340,
+264,1999-11-02,China Southwest AL,340,
+268,1999-02-04,Air Mauritius,340,STD
+270,1999-03-31,THY Turkish AL,340,
+273,1999-04-05,Air Canada,340,
+274,1999-04-28,Lufthansa,340,
+278,1999-08-06,Air Canada,340,
+280,1999-07-13,Olympic AW,340,
+282,1999-06-18,Singapore AL,340,
+289,1999-03-08,Air France,340,W/O
+292,1999-09-30,Olympic AW,340,
+297,1999-09-24,Lufthansa,340,C
+302,1999-10-11,Iberia,340,
+304,1999-11-17,Lufthansa,340,C
+307,1999-10-19,Air France,340,SCR
+310,1999-02-12,Air France,340,SCR
+318,2000-01-24,Iberia,340,
+319,2000-09-02,Air France,340,
+321,2000-02-02,Lufthansa,340,C
+325,2000-09-02,Lufthansa,340,C
+327,2000-11-02,Lufthansa,340,STD
+329,2000-02-18,Iberia,340,SCR
+331,2000-03-16,THY Turkish AL,340,STD
+332,2000-03-13,Iberia,340,
+335,2000-05-17,Lufthansa,340,
+347,2000-06-16,Lufthansa,340,C
+352,2000-06-20,Lufthansa,340,W/O
+354,2000-12-07,Lufthansa,340,
+355,2000-08-29,Lufthansa,340,
+359,2000-05-09,LAN Chile,340,
+363,2000-09-21,LAN Chile,340,
+367,2000-10-27,AOM-Air Outre Mer lsd,340,
+373,2000-10-30,Air France lsd,340,
+374,2000-01-12,Fll/AOM-Air Outre Mer,340,
+377,2000-01-12,Air France lsd,340,SCR
+378,2000-12-15,Iberia,340,
+379,2000-12-15,Lufthansa,340,C
+381,2000-12-21,Cathay Pacific,340,
+383,2002-11-06,Virgin Atlantic AW,340,
+385,2001-01-02,Air Tahiti Nui,340,SCR
+387,2001-01-26,Iberia,340,
+390,2001-08-02,Lufthansa,340,C
+391,2002-02-09,Virgin Atlantic AW,340,
+395,2001-06-25,Canada 3000 AL lsd,340,
+399,2001-08-03,Air France,340,
+402,2001-03-04,China AL,340,
+406,2001-05-17,China AL,340,
+410,2002-10-16,South African AW,340,STD
+411,2001-11-06,China AL,340,
+413,2001-06-29,SAS,340,
+414,2001-05-06,Iberia,340,
+415,2001-05-07,China AL,340,
+416,2002-10-10,Virgin Atlantic AW,340,
+417,2002-04-12,South African AW,340,STD
+424,2001-06-09,SAS,340,
+426,2003-01-30,South African AW,340,C
+429,2001-12-10,LAN Chile,340,
+430,2001-11-10,SAS lsd,340,SCR
+431,2003-07-06,Iberia,340,
+433,2001-09-10,China AL,340,SCR
+434,2001-09-26,Lufthansa,340,C
+435,2001-11-10,SAS lsd,340,STD
+436,2002-09-28,Cathay Pacific AW lsd,340,
+438,2001-08-11,Air Tahiti Nui lsd,340,SCR
+440,2003-01-08,Iberia,340,
+442,2001-11-15,LAN Chile,340,
+445,2003-07-01,Air Canada,340,
+446,2001-04-12,Air Tahiti Nui lsd,340,SCR
+447,2001-06-12,Lufthansa,340,C
+449,2002-03-12,Virgin Atlantic AW,340,
+450,2002-10-01,SAS lsd,340,
+453,2002-11-16,Cathay Pacific AW lsd,340,
+457,2003-07-23,Emirates AL,340,
+459,2002-01-30,Iberia,340,
+460,2003-09-17,Iberia,340,STD
+464,2003-03-28,Air Canada,340,
+467,2002-03-22,SAS lsd,340,SCR
+468,2002-09-05,China Eastern AL,340,
+470,2002-03-04,SAS lsd,340,SCR
+471,2003-09-22,Emirates AL,340,
+474,2002-04-22,Iberia lsd,340,
+475,2003-02-17,Cathay Pacific AW lsd,340,
+478,2003-03-10,Singapore AL,340,
+482,2003-08-08,Lufthansa lsd,340,SCR
+483,2002-11-23,Iberia lsd,340,
+485,2003-12-09,Emirates AL,340,
+488,2003-04-06,China Eastern AL,340,
+492,2003-11-11,Singapore AL,340,
+495,2003-11-06,Qatar Gvmt,340,C
+499,2003-11-15,Singapore AL,340,
+514,2003-09-09,China Eastern AL,340,
+517,2003-10-10,Lufthansa,340,STD
+520,2003-10-29,Emirates AL,340,
+523,2003-10-23,Lufthansa lsd,340,STD
+528,2003-08-04,Singapore AL,340,
+531,2003-10-13,South African AW,340,C
+534,2003-10-31,South African AW lsd,340,STD
+537,2003-11-26,Lufthansa lsd,340,STD
+538,2003-11-06,Swiss Int'l AL lsd,340,C
+540,2003-11-18,Lufthansa,340,STD
+541,2003-05-28,China AL,340,SCR
+543,2004-01-13,Lufthansa,340,STD
+544,2003-09-18,South African AW,340,
+545,2003-03-07,Swiss Int'l AL,340,C
+546,2003-07-22,Swiss Int'l AL,340,C
+547,2003-03-12,South African AW,340,C
+554,2003-09-30,Singapore AL,340,
+556,2003-10-29,Swiss Int'l AL,340,
+557,2003-12-16,South African AW,340,
+559,2003-10-10,Swiss Int'l AL,340,
+560,2004-03-16,Singapore AL,340,
+561,2003-10-25,Swiss Int'l AL,340,
+562,2003-12-11,Swiss Int'l AL lsd,340,
+563,2004-06-03,Singapore AL,340,
+566,2004-01-20,Lufthansa,340,STD
+569,2004-06-02,Lufthansa,340,C
+572,2004-02-02,Emirates AL,340,SCR
+575,2004-02-18,Virgin Atlantic AW,340,
+577,2004-02-06,China Eastern AL,340,
+580,2004-04-16,Lufthansa,340,STD
+582,2004-02-20,South African AW,340,
+583,2004-04-05,Lufthansa,340,STD
+585,2004-02-27,Swiss Int'l AL,340,C
+586,2004-06-29,China Eastern AL,340,
+590,2004-11-03,South African AW,340,
+594,2005-04-18,NOT BUILT,340,
+598,2004-04-22,Swiss Int'l AL,340,C
+601,2004-07-09,Iberia,340,STD
+604,2004-09-17,Iberia,340,
+606,2004-10-19,Iberia,340,STD
+608,2004-04-11,Emirates AL,340,
+611,2004-11-23,Emirates AL,340,
+615,2004-11-25,Virgin Atlantic AW,340,
+617,2005-04-01,Iberia lsd,340,SCR
+619,2005-01-28,Iberia lsd,340,STD
+622,2004-12-21,Virgin Atlantic AW,340,
+624,2005-07-02,Thai AW Int,340,STD
+626,2005-11-03,South African AW lsd,340,STD
+628,2005-04-14,Thai AW Int,340,STD
+630,2005-04-18,South African AW lsd,340,STD
+639,2005-03-16,Virgin Atlantic AW,340,SCR
+643,2004-11-25,South African AW lsd,340,
+646,2004-08-12,South African AW,340,
+651,2005-09-02,South African AW,340,
+668,2005-05-13,Air Tahiti Nui,340,
+672,2005-05-18,Iberia,340,STD
+677,2005-06-06,Thai AW Int,340,STD
+681,2005-06-24,Thai AW Int,340,STD
+685,2005-06-30,Emirates AL,340,
+689,2005-12-07,Thai AW Int,340,STD
+694,2005-06-09,Emirates AL,340,
+698,2005-09-13,Thai AW Int,340,
+702,2005-09-15,Iberia,340,STD
+706,2005-07-10,Virgin Atlantic AW lsd,340,SCR
+710,2005-10-27,Thai AW Int,340,STD
+715,2005-11-18,Qatar AW,340,SCR
+719,2005-04-11,Thai AW Int,340,STD
+723,2006-04-01,Virgin Atlantic AW lsd,340,SCR
+727,2005-11-30,Iberia,340,STD
+731,2006-01-02,Iberia,340,W/O
+736,2006-09-02,Virgin Atlantic AW lsd,340,
+740,2006-03-06,Qatar AW,340,STD
+744,2006-03-16,Iberia,340,STD
+748,2006-03-30,Etihad AW,340,
+753,2006-10-05,Virgin Atlantic AW,340,
+757,2006-04-28,Etihad AW,340,
+761,2006-11-08,Etihad AW,340,
+762,2006-07-17,Lufthansa,340,SCR
+763,2006-01-09,Lufthansa,340,SCR
+764,2006-09-06,Virgin Atlantic AW,340,
+765,2006-08-08,Virgin Atlantic AW,340,
+766,2006-10-13,Qatar AW,340,
+767,2006-11-10,Lufthansa,340,SCR
+768,2006-05-09,Virgin Atlantic AW,340,
+771,2006-08-11,Lufthansa,340,STD
+775,2006-10-13,Thai AW Int,340,STD
+779,2006-11-28,National Air Service lsd,340,
+783,2006-10-31,Etihad AW,340,
+787,2006-11-15,Virgin Atlantic AW,340,
+790,2007-03-01,Lufthansa,340,SCR
+793,2006-08-11,Air Mauritius,340,SCR
+794,2007-01-30,Lufthansa,340,SCR
+798,2007-02-16,Qatar AW,340,
+800,2006-11-27,Air Mauritius,340,SCR
+804,2007-09-02,Virgin Atlantic AW lsd,340,SCR
+812,2007-05-03,Lufthansa,340,SCR
+829,2007-04-05,Etihad AW,340,
+835,2007-11-04,Finnair,340,
+837,2007-01-08,Etihad AW,340,
+844,2007-01-06,Finnair,340,
+846,2008-03-04,Lufthansa,340,C
+848,2008-06-05,Lufthansa,340,STD
+856,2007-09-21,Etihad AW,340,W/O
+870,2007-10-31,Etihad AW,340,
+886,2008-06-02,Azerbaijan AL lsd,340,C
+894,2008-09-04,Azerbaijan AL lsd,340,C
+897,2008-05-03,Lufthansa,340,STD
+902,2008-05-29,Tunisian Gvmt,340,
+910,2008-06-17,Arik Air,340,
+912,2008-07-18,Arik Air,340,
+917,2008-05-15,Algerian Government,340,C
+921,2008-04-30,Finnair lsd,340,
+924,2008-08-29,Royal Jordanian AF,340,
+929,2008-01-10,Etihad AW,340,
+933,2008-07-11,Etihad AW,340,
+938,2008-02-07,Finnair,340,
+953,2008-06-08,Thai AW Int,340,STD
+955,2008-09-17,Global Jet Luxembourg,340,
+960,2009-01-14,Iberia,340,STD
+972,2008-03-12,Lufthansa,340,STD
+981,2009-01-27,Lufthansa,340,STD
+987,2009-02-27,Lufthansa,340,C
+993,2009-07-29,Iberia,340,STD
+1005,2009-04-14,Lufthansa,340,STD
+1017,2009-12-06,Iberia,340,STD
+1030,2009-07-23,Etihad AW,340,
+1040,2009-06-08,Etihad AW,340,
+1079,2010-01-26,Iberia,340,STD
+1091,2010-11-05,Kuwait Government,340,C
+1102,2010-11-16,Kuwait Government,340,C
+1122,2010-06-25,Iberia,340,STD
