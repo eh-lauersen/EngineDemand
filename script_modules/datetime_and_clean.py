@@ -20,7 +20,7 @@ def datetime_clean(file: str, aircraft: str):
     df = pd.read_csv(infile)
     
     # datetime
-    df["f/f"] = pd.to_datetime(df["f/f"])
+    df["f/f"] = pd.to_datetime(df["f/f"], dayfirst=True)
     
     # cleaning "type"
     df["type"] = df["type"].str[:3]
