@@ -1,0 +1,80 @@
+---
+title: "paper"
+author: "Ellen Harpøth Lauersen"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{python library-setup, include=FALSE, echo = FALSE}
+import os
+import numpy as np
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+%matplotlib inline
+```
+
+```{python data-setup, include = FALSE, echo = FALSE}
+# creating path to inputfiles
+path = os.path.join("output", "processed_data")
+
+# inputfiles
+a330Y_in = os.path.join(path, "A330_year.csv")
+a330YC_in = os.path.join(path, "A330_year-count.csv")
+a340Y_in = os.path.join(path, "A340_year.csv")
+a340YC_in = os.path.join(path, "A340_year-count.csv")
+a350Y_in = os.path.join(path, "A350_year.csv")
+a350YC_in = os.path.join(path, "A350_year-count.csv")
+a380Y_in = os.path.join(path, "A380_year.csv")
+a380YC_in = os.path.join(path, "A380_year-count.csv")
+allY_in = os.path.join(path, "allAircraft_datetime_year.csv")
+allYC_in = os.path.join(path, "allAircraft_year-count.csv")
+
+# dataframes
+a330_y = pd.read_csv(a330Y_in)
+a330_yc = pd.read_csv(a330YC_in)
+a340_y = pd.read_csv(a340Y_in)
+a340_yc = pd.read_csv(a340YC_in)
+a350_y = pd.read_csv(a350Y_in)
+a350_yc = pd.read_csv(a350YC_in)
+a380_y = pd.read_csv(a380Y_in)
+a380_yc = pd.read_csv(a380YC_in)
+all_y = pd.read_csv(allY_in)
+all_yc = pd.read_csv(allYC_in)
+
+# fixing column names
+a330_yc.rename(columns = {"0":"count"}, inplace=True)
+a340_yc.rename(columns = {"0":"count"}, inplace=True)
+a350_yc.rename(columns = {"0":"count"}, inplace=True)
+a380_yc.rename(columns = {"0":"count"}, inplace=True)
+all_yc.rename(columns = {"0":"count"}, inplace=True)
+```
+
+```{python aesthetic-setup, include = FALSE, echo = FALSE}
+# setting palette
+sns.set_palette("colorblind")
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
